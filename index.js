@@ -1,7 +1,7 @@
 const express = require('express');
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
 const app = express();
-const Port = process.env.PORT || 5500;
+const Port = process.env.PORT || 5000;
 const cors = require('cors');
 require('dotenv').config()
 
@@ -92,7 +92,7 @@ async function run() {
             }
             const result = await MainData.find(query).toArray()
             // console.log(result);
-            res.send(result)
+            res.send({ data: result[0].data })
         })
 
 
@@ -122,3 +122,5 @@ run().catch(err => console.log(err))
 app.listen(Port, () => {
     console.log(`server is running on ${Port}`);
 })
+
+module.exports = app;
