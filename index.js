@@ -29,14 +29,14 @@ async function run() {
         // const ProjectData = Database.collection('Data');
 
 
-        const DictionaryData = Database.collection('Dictionary_Category_Data')
+        const Letter = Database.collection('Dictionary_Category_Data')
         const Word = Database.collection('word')
         const Sentence = Database.collection('sentence')
 
         // letter api
-        app.get('/dictionary_category', async (req, res) => {
+        app.get('/letter', async (req, res) => {
             const query = {};
-            const result = await DictionaryData.find(query).toArray()
+            const result = await Letter.find(query).toArray()
             res.send(result)
         })
         // sentence api
@@ -83,6 +83,12 @@ async function run() {
             const result = await Word.insertOne(data)
             res.send(result)
         })
+
+        // app.delete('/delete', async (req, res) => {
+        //     const query = {}
+        //     const result = await Letter.deleteMany(query)
+        //     res.send(result)
+        // })
 
     } finally {
 
