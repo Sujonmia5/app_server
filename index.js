@@ -1,5 +1,5 @@
 const express = require('express');
-const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
+const { MongoClient, ServerApiVersion } = require('mongodb');
 const app = express();
 const Port = process.env.PORT || 5000;
 const cors = require('cors');
@@ -13,8 +13,6 @@ app.get('/', (req, res) => {
 })
 
 const uri = process.env.DB_URI;
-
-// Create a MongoClient with a MongoClientOptions object to set the Stable API version
 const client = new MongoClient(uri, {
     serverApi: {
         version: ServerApiVersion.v1,
@@ -27,12 +25,11 @@ async function run() {
     try {
         const Database = client.db('Programmer_Xpress')
 
-        const CategoryData = Database.collection('Category');
-        const ProjectData = Database.collection('Data');
+        // const CategoryData = Database.collection('Category');
+        // const ProjectData = Database.collection('Data');
 
 
         const DictionaryData = Database.collection('Dictionary_Category_Data')
-        const MainData = Database.collection('Main_Data')
         const Word = Database.collection('word')
         const Sentence = Database.collection('sentence')
 
