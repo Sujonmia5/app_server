@@ -30,87 +30,62 @@ async function run() {
         const CategoryData = Database.collection('Category');
         const ProjectData = Database.collection('Data');
 
-        // MY Blog API DATA
-        // app.get('/category', async (req, res) => {
-        //     const query = {}
-        //     const result = await CategoryData.find(query).toArray()
-        //     // console.log(result);
-        //     res.send(result);
-        // })
-
-        // // app.post('/delete', async (req, res) => {
-        // //     const query = {};
-        // //     const result = await CategoryData.updateMany(query,)
-        // //     res.send(result)
-        // // })
-        // app.get('/project', async (req, res) => {
-        //     const params = req.query;
-        //     const pageNumber = parseInt(params.pageNumber);
-        //     const perPage = parseInt(params.perPage);
-        //     const query = {};
-        //     const dataCount = await ProjectData.estimatedDocumentCount();
-        //     const skip = (pageNumber - 1) * perPage;
-        //     const result = await ProjectData.find(query).skip(skip).limit(perPage).toArray()
-        //     res.send({ dataCount, result })
-        // })
-
-        // app.get('/project/:id', async (req, res) => {
-        //     const title = req.params.id;
-        //     const currentPage = parseInt(req.query.currentPage);
-        //     const perPage = parseInt(req.query.perPage);
-
-        //     const query = { category_project: title };
-        //     const skipData = perPage * (currentPage - 1);
-
-        //     const count = await ProjectData.find(query).toArray()
-
-        //     const result = await ProjectData.find(query).skip(skipData).limit(perPage).toArray()
-        //     // console.log(result);
-        //     res.send({ count: count.length, result })
-        // })
-
-        // app.get('/details', async (req, res) => {
-        //     const id = req.query.id;
-        //     const query = { _id: new ObjectId(id) }
-        //     const result = await ProjectData.findOne(query)
-        //     res.send(result)
-        // })
-        // API DATA END
 
         const DictionaryData = Database.collection('Dictionary_Category_Data')
         const MainData = Database.collection('Main_Data')
+        const Word = Database.collection('word')
+        const Sentence = Database.collection('sentence')
+
+        // letter api
         app.get('/dictionary_category', async (req, res) => {
             const query = {};
             const result = await DictionaryData.find(query).toArray()
             res.send(result)
         })
-
-        app.get('/dictionary-word/:id', async (req, res) => {
-            const Category = req.params.id;
+        // sentence api
+        app.get('/sentence', async (req, res) => {
+            const word = req.query.word;
             const query = {
-                category: Category,
+                sentence: new RegExp(word)
             }
-            const result = await MainData.find(query).toArray()
-            // console.log(result);
-            res.send({ data: result[0].data })
+            console.log(query);
+            const data = await Sentence.find(query).toArray()
+            res.send(data)
         })
 
+        //word api
+        app.get('/word', async (req, res) => {
+            const firstLetter = req.query.letter;
+            const query = {
+                word: { $regex: new RegExp(`^${firstLetter}`) }
+            }
+            const result = await Word.find(query).toArray()
+            res.send(result)
+        })
 
-        // app.post('/updatedata/:id', async (req, res) => {
-        //     const data = req.params.id;
-        //     const query = {
-        //         category: 'D'
-        //     }
-        //     const updateData = {
-        //         $set: {
-        //             category: data
-        //         }
-        //     }
-        //     const result = await MainData.updateOne(query, updateData, { upsert: true })
-        //     console.log(result);
-        //     res.send(result)
-        // })
+        //sentence save api
+        app.post('/data-save', async (req, res) => {
+            const data = req.body;
+            // console.log(data);
+            const result = await Sentence.insertMany(data);
+            // console.log(result);
+            res.send(result)
+        })
 
+        // word save api
+        app.post('/word-save', async (req, res) => {
+            const data = req.body;
+            const query = {
+                word: data.word
+            }
+            const filter = await Word.findOne(query)
+            if (filter) {
+                const err = { message: 'word all Ready added' }
+                return res.send(err)
+            }
+            const result = await Word.insertOne(data)
+            res.send(result)
+        })
 
     } finally {
 
