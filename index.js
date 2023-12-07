@@ -30,7 +30,7 @@ async function run() {
 
 
         const Letter = Database.collection('Dictionary_Category_Data')
-        const Word = Database.collection('word')
+        const Words = Database.collection('word')
         const Sentence = Database.collection('sentence')
 
         // letter api
@@ -56,9 +56,29 @@ async function run() {
             const query = {
                 word: { $regex: new RegExp(`^${firstLetter}`) }
             }
-            const result = await Word.find(query).toArray()
+            const result = await Words.find(query).toArray()
             res.send(result)
         })
+
+        app.get('/all-word', async (req, res) => {
+            const perPage = parseInt(req.query.perPage);
+            const pageNumber = parseInt(req.query.pageNumber);
+            const query = {};
+            const count = await Words.estimatedDocumentCount()
+            const skip = (pageNumber - 1) * perPage
+            const data = await Words.find(query).skip(skip).limit(perPage).toArray()
+            res.send({ words: data, count: count })
+        })
+
+        // json format change 
+        // app.post('/change-format', async (req, res) => {
+        //     const query = {}
+        //     const doc = {
+        //         $set: { pronunciation: '' },
+        //     }
+        //     const result = await Word.updateMany(query, doc, { upsert: true })
+        //     res.send(result)
+        // })
 
         //sentence save api
         app.post('/data-save', async (req, res) => {
@@ -75,12 +95,12 @@ async function run() {
             const query = {
                 word: data.word
             }
-            const filter = await Word.findOne(query)
+            const filter = await Words.findOne(query)
             if (filter) {
                 const err = { message: 'word all Ready added' }
                 return res.send(err)
             }
-            const result = await Word.insertOne(data)
+            const result = await Words.insertOne(data)
             res.send(result)
         })
 
