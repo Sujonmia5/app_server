@@ -1,5 +1,5 @@
 const express = require('express');
-const { MongoClient, ServerApiVersion } = require('mongodb');
+const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
 const app = express();
 const Port = process.env.PORT || 5000;
 const cors = require('cors');
@@ -9,7 +9,7 @@ app.use(cors())
 app.use(express.json())
 
 app.get('/', (req, res) => {
-    res.send('hello world')
+    res.send({ data: 'hello world' })
 })
 
 const uri = process.env.DB_URI;
@@ -21,6 +21,97 @@ const client = new MongoClient(uri, {
     }
 });
 
+
+function DataCustomize(Letter, words, AllSentence) {
+    // console.log(Letter);
+    let allData = [];
+    Letter.map((l) => {
+        switch (l.letter) {
+            case 'a':
+                let a = {
+                    ...l,
+                    data: [
+                        ...wordsFinds('a', words, AllSentence),
+                    ]
+                };
+                allData.push(...allData, a);
+            case 'b':
+                let b = {
+                    ...l,
+                    data: [
+                        ...wordsFinds('a', words, AllSentence),
+                    ]
+                };
+                allData.push(...allData, b);
+            case 'c':
+                let c = {
+                    ...l,
+                    data: [
+                        ...wordsFinds('a', words, AllSentence),
+                    ]
+                };
+                allData.push(...allData, c);
+            case 'd':
+                let d = {
+                    ...l,
+                    data: [
+                        ...wordsFinds('a', words, AllSentence),
+                    ]
+                };
+                allData.push(...allData, d);
+            case 'e':
+                let e = {
+                    ...l,
+                    data: [
+                        ...wordsFinds('a', words, AllSentence),
+                    ]
+                };
+                allData.push(...allData, e);
+            case 'f':
+                let f = {
+                    ...l,
+                    data: [
+                        ...wordsFinds('a', words, AllSentence),
+                    ]
+                };
+                allData.push(...allData, f);
+            default:
+                break;
+        }
+        allData.push()
+    })
+    return allData;
+}
+
+
+const wordsFinds = (l, word, AllSentence) => {
+
+    const WordData = word.map(item => ({
+        ...item, sentences: [
+        ]
+    }))
+    const FindWords = WordData.filter(item => {
+        return item['word'].toLowerCase().startsWith(l.toLowerCase())
+    });
+    const completedFind = FindWords.map(item => {
+
+        return {
+            ...item,
+            sentences: [
+                ...sentenceFind(item.word, AllSentence),
+            ]
+        }
+    })
+    return completedFind;
+}
+
+
+const sentenceFind = (word, AllSentence) => {
+    const regex = new RegExp(`\\b${word}\\b`, 'i');
+    const sen = AllSentence.filter(item => regex.test(item.sentence.split(/[.!?]/)))
+    return sen;
+}
+
 async function run() {
     try {
         const Database = client.db('Programmer_Xpress')
@@ -28,10 +119,22 @@ async function run() {
         // const CategoryData = Database.collection('Category');
         // const ProjectData = Database.collection('Data');
 
-
-        const Letter = Database.collection('Dictionary_Category_Data')
+        const Letters = Database.collection('Dictionary_Category_Data')
         const Words = Database.collection('word')
         const Sentence = Database.collection('sentence')
+
+        app.get('/all-data', async (req, res) => {
+            const query = {}
+            const Letter = await Letters.find({}).toArray()
+            const AllWords = await Words.find(query).toArray()
+            const AllSentence = await Sentence.find(query).toArray()
+            if (Letter && AllWords && AllSentence) {
+                const result = DataCustomize(Letter, AllWords, AllSentence);
+                res.send({ count: result[0].data.length, result })
+            }
+            // res.send({ err: 'error' })
+        })
+
 
         // letter api
         app.get('/letter', async (req, res) => {
@@ -45,7 +148,7 @@ async function run() {
             const query = {
                 sentence: new RegExp(word)
             }
-            console.log(query);
+            // console.log(query);
             const data = await Sentence.find(query).toArray()
             res.send(data)
         })
@@ -104,9 +207,68 @@ async function run() {
             res.send(result)
         })
 
+
+
+        app.post('/update', async (req, res) => {
+            // try {
+            const data = {
+                ...req.body,
+                _id: new ObjectId(req.body._id)
+            }
+
+            const query = { _id: new ObjectId(data._id) };
+            const result = await Words.findOne(query);
+
+            if (result) {
+                if (JSON.stringify(data) !== JSON.stringify(result)) {
+                    const dataUpdate = await Words.updateOne(query, { $set: { ...data } }, { upsert: true })
+                    console.log(dataUpdate);
+                    res.send(dataUpdate);
+                } else {
+                    // If data is the same as the existing record, you might want to handle it differently
+                    res.send({ message: 'Data is the same, no update needed.' });
+                }
+            } else {
+                res.send({ err: 'Record not found' });
+            }
+            // } 
+            // catch (error) {
+            //     // Handle other errors
+            //     console.error(error);
+            //     res.status(500).send({ error: 'Internal Server Error' });
+            // }
+        });
+
+
+        // app.post('/update', async (req, res) => {
+        //     const data = {
+        //         ...req.body,
+        //         _id: new ObjectId(req.body._id)
+        //     }
+        //     const query = { _id: new ObjectId(data._id) };
+        //     const result = await Words.findOne(query);
+        //     if (result) {
+        //         if (JSON.stringify(data) !== JSON.stringify(result)) {
+        //             const dataUpdate = await Words.updateOne(query, { $set: { ...data } }, { upsert: true })
+        //             res.send(dataUpdate)
+        //         }
+        //         else {
+        //             // If data is the same as the existing record, you might want to handle it differently
+        //             res.send({ message: 'Data is the same, no update needed.' });
+        //         }
+        //     }
+        //     res.send({ err: 'err' })
+
+        // })
+
+        // app.get('/data-check', async (req, res) => {
+        //     const query = {}
+        //     const result = await Sentence.find(query).toArray()
+        //     res.send({ result: result.length })
+        // })
         // app.delete('/delete', async (req, res) => {
         //     const query = {}
-        //     const result = await Letter.deleteMany(query)
+        //     const result = await Sentence.deleteMany(query)
         //     res.send(result)
         // })
 
