@@ -30,51 +30,22 @@ function DataCustomize(Letter, words, AllSentence) {
             case 'a':
                 let a = {
                     ...l,
-                    data: [
+                    words: [
                         ...wordsFinds('a', words, AllSentence),
                     ]
                 };
                 allData.push(...allData, a);
+
             case 'b':
                 let b = {
                     ...l,
-                    data: [
-                        ...wordsFinds('a', words, AllSentence),
+                    words: [
+                        ...wordsFinds('b', words, AllSentence),
                     ]
                 };
                 allData.push(...allData, b);
-            case 'c':
-                let c = {
-                    ...l,
-                    data: [
-                        ...wordsFinds('a', words, AllSentence),
-                    ]
-                };
-                allData.push(...allData, c);
-            case 'd':
-                let d = {
-                    ...l,
-                    data: [
-                        ...wordsFinds('a', words, AllSentence),
-                    ]
-                };
-                allData.push(...allData, d);
-            case 'e':
-                let e = {
-                    ...l,
-                    data: [
-                        ...wordsFinds('a', words, AllSentence),
-                    ]
-                };
-                allData.push(...allData, e);
-            case 'f':
-                let f = {
-                    ...l,
-                    data: [
-                        ...wordsFinds('a', words, AllSentence),
-                    ]
-                };
-                allData.push(...allData, f);
+
+
             default:
                 break;
         }
@@ -87,19 +58,18 @@ function DataCustomize(Letter, words, AllSentence) {
 const wordsFinds = (l, word, AllSentence) => {
 
     const WordData = word.map(item => ({
-        ...item, sentences: [
-        ]
+        ...item,
     }))
-    const FindWords = WordData.filter(item => {
+    const FindWords = word.filter(item => {
         return item['word'].toLowerCase().startsWith(l.toLowerCase())
     });
     const completedFind = FindWords.map(item => {
 
         return {
             ...item,
-            sentences: [
+            sentences: {
                 ...sentenceFind(item.word, AllSentence),
-            ]
+            }
         }
     })
     return completedFind;
@@ -109,7 +79,11 @@ const wordsFinds = (l, word, AllSentence) => {
 const sentenceFind = (word, AllSentence) => {
     const regex = new RegExp(`\\b${word}\\b`, 'i');
     const sen = AllSentence.filter(item => regex.test(item.sentence.split(/[.!?]/)))
-    return sen;
+    // let firstObject = sen[0];
+    // let secondObject = sen[1];
+    // let thirdObject = sen[2];
+
+    return sen
 }
 
 async function run() {
@@ -130,7 +104,7 @@ async function run() {
             const AllSentence = await Sentence.find(query).toArray()
             if (Letter && AllWords && AllSentence) {
                 const result = DataCustomize(Letter, AllWords, AllSentence);
-                res.send({ count: result[0].data.length, result })
+                res.send({ count: result[0].words.length, result })
             }
             // res.send({ err: 'error' })
         })

@@ -1,80 +1,995 @@
 [
     {
-        "letter": "a"
+        "category": "a",
+        "words": [
+            {
+                "word": "abatement",
+                "translation": "কম করা",
+                "pronunciation": "অ্যাবেট্’মেন্ট",
+                "sen1": "abatement aims to reduce or eliminate undesirable elements.",
+                "senT1": "অবসানের লক্ষ্য অবাঞ্ছিত উপাদানগুলি হ্রাস বা নির্মূল করা।",
+                "sen2": "stricter regulations enforce abatement of industrial pollution emissions.",
+                "senT2": "কঠোর প্রবিধান শিল্প দূষণ নির্গমন হ্রাস কার্যকর করে।",
+                "sen3": "tax abatement supports local businesses, fostering economic growth.",
+                "senT3": "কর হ্রাস স্থানীয় ব্যবসাকে সমর্থন করে, অর্থনৈতিক বৃদ্ধিকে উৎসাহিত করে।"
+            },
+            {
+                "word": "abandon",
+                "translation": "পরিত্যাগ করা",
+                "pronunciation": "অ্যাব্যান্’ডন",
+                "sen1": "they had to abandon ship as the storm intensified.",
+                "senT1": "ঝড়ের তীব্রতা বেড়ে যাওয়ায় তাদের জাহাজ ত্যাগ করতে হয়েছিল।",
+                "sen2": "the decision to abandon the outdated technology was unanimous.",
+                "senT2": "সেকেলে প্রযুক্তি পরিত্যাগের সিদ্ধান্ত সর্বসম্মতিক্রমে নেওয়া হয়।"
+            },
+            {
+                "word": "abase",
+                "translation": "অবজ্ঞা",
+                "pronunciation": "অ্যাব্যাস",
+                "sen1": "do not abase others for personal satisfaction.",
+                "senT1": "ব্যক্তিগত সন্তুষ্টির জন্য অন্যদের অপমান করবেন না।",
+                "sen2": "abase yourself to gain humility and understanding.",
+                "senT2": "নম্রতা এবং বোধগম্যতা অর্জনের জন্য নিজেকে অবজ্ঞা করুন।",
+                "sen3": "abase not, uplift and empower those around you.",
+                "senT3": "অপমানিত করবেন না, আপনার চারপাশের লোকদের উন্নীত করুন এবং ক্ষমতায়ন করুন।"
+            },
+            {
+                "word": "abbreviate",
+                "translation": "সংক্ষিপ্ত করা",
+                "pronunciation": "অ্যাব্রী‘ভিয়েট্",
+                "sen1": "she chose to abbreviate her notes for quicker review.",
+                "senT1": "তিনি দ্রুত পর্যালোচনার জন্য তার নোটগুলিকে সংক্ষিপ্ত করতে বেছে নিয়েছেন।",
+                "sen2": "please abbreviate the company name in the report.",
+                "senT2": "প্রতিবেদনে কোম্পানির নাম সংক্ষিপ্ত করুন।",
+                "sen3": "it's common to abbreviate long phrases in technical documents.",
+                "senT3": "প্রযুক্তিগত নথিতে দীর্ঘ বাক্যাংশ সংক্ষেপ করা সাধারণ।"
+            },
+            {
+                "word": "abbey",
+                "translation": "মঠ",
+                "pronunciation": "অ্যা‘বি",
+                "sen1": "pilgrims walked for miles to pray within the abbey walls.",
+                "senT1": "তীর্থযাত্রীরা মঠের দেয়ালের মধ্যে প্রার্থনা করার জন্য মাইলের পর মাইল হাঁটতেন।",
+                "sen2": "moonlight painted the abbey ruins in a silver glow.",
+                "senT2": "চাঁদের আলো রূপালী আভায় মঠের ধ্বংসাবশেষ এঁকেছে।",
+                "sen3": "the abbey stood alone, shrouded in mist and mystery.",
+                "senT3": "অ্যাবে একা দাঁড়িয়ে ছিল, কুয়াশা এবং রহস্যে আবৃত।"
+            },
+            {
+                "word": "abdicate",
+                "translation": "কর্ম, পদ, \u200dসিংহাসন",
+                "pronunciation": "অ্যাব্‘ডিকেট",
+                "sen1": "the ceo, facing scandal, felt forced to abdicate.",
+                "senT1": "সিইও, কেলেঙ্কারির মুখোমুখি, পদত্যাগ করতে বাধ্য হয়েছেন।",
+                "sen2": "the king, tired of the burden, chose to abdicate.",
+                "senT2": "রাজা ভারে ক্লান্ত হয়ে পদত্যাগ করতে বেছে নিলেন।"
+            },
+            {
+                "word": "abdication",
+                "translation": "কর্ম, পদ, \u200dসিংহাসন পরিত্যাগ",
+                "pronunciation": "অ্যাব্ডিকে‘শন",
+                "sen1": "a whisper of abdication swept through the palace halls.",
+                "senT1": "ত্যাগের একটি ফিসফিস রাজপ্রাসাদের হলগুলোতে ভেসে ওঠে।",
+                "sen2": "history marked his abdication as a turning point.",
+                "senT2": "ইতিহাস তার পদত্যাগকে একটি টার্নিং পয়েন্ট হিসাবে চিহ্নিত করেছে।",
+                "sen3": "the abdication left a void in the kingdom's leadership.",
+                "senT3": "পদত্যাগ রাজ্যের নেতৃত্বে একটি শূন্যতা রেখেছিল।"
+            },
+            {
+                "word": "abdominal",
+                "translation": "উদর না পেট-সম্বন্ধীয়",
+                "pronunciation": "অ্যাব্ড‘মিনাল",
+                "sen1": "the workout focused on strengthening the abdominal core.",
+                "senT1": "ওয়ার্কআউটটি পেটের কোরকে শক্তিশালী করার উপর দৃষ্টি নিবদ্ধ করে।",
+                "sen2": "the athlete clutched her aching abdominal muscle.",
+                "senT2": "ক্রীড়াবিদ তার ব্যথা পেটের পেশী আঁকড়ে ধরে।",
+                "sen3": "the doctor examined the child's swollen abdominal area.",
+                "senT3": "ডাক্তার শিশুটির ফোলা পেটের অংশ পরীক্ষা করেন।"
+            },
+            {
+                "word": "abdominous",
+                "translation": "পেট মোটা; নাদাপেট",
+                "pronunciation": "অ্যাব্ড‘মিনাস",
+                "sen1": "his abdominous belly jiggled as he laughed.",
+                "senT1": "হাসতে হাসতে তার তলপেট ঝাঁকুনি দেয়।",
+                "sen2": "the abdominous monk waddled through the monastery halls.",
+                "senT2": "উদাসীন সন্ন্যাসী মঠের হলগুলির মধ্য দিয়ে ঘুরে বেড়ান।",
+                "sen3": "the portrait depicted a king with a pronouncedly abdominous figure.",
+                "senT3": "প্রতিকৃতিটি একটি উচ্চারিত পেটের চিত্র সহ একজন রাজাকে চিত্রিত করেছে।"
+            },
+            {
+                "word": "abduct",
+                "translation": "অপহরণ করা;",
+                "pronunciation": "অ্যাব্ডাকট",
+                "sen1": "the aliens returned, their eyes fixed on their next target to abduct.",
+                "senT1": "এলিয়েনরা ফিরে এসেছে, তাদের চোখ অপহরণ করার পরবর্তী লক্ষ্যের দিকে স্থির।",
+                "sen2": "cold fear gripped her as the stranger tried to abduct her.",
+                "senT2": "অপরিচিত ব্যক্তি তাকে অপহরণ করার চেষ্টা করায় ঠান্ডা ভয় তাকে গ্রাস করে।"
+            },
+            {
+                "word": "abductor",
+                "translation": "অপহরণকারী;",
+                "pronunciation": "অ্যাব্ডাক্‘টর্",
+                "sen1": "justice served, the abductor faced the consequences of their actions.",
+                "senT1": "ন্যায়বিচার পরিবেশিত হয়েছে, অপহরণকারী তাদের কর্মের পরিণতির সম্মুখীন হয়েছে।",
+                "sen2": "hope dwindled as the police hunted the elusive abductor.",
+                "senT2": "পুলিশ অধরা অপহরণকারীকে শিকার করায় আশা ক্ষীণ হয়ে যায়।",
+                "sen3": "the abductor's face remained hidden in the shadows.",
+                "senT3": "অপহরণকারীর মুখ ছায়ায় লুকিয়ে রইল।"
+            },
+            {
+                "word": "abed",
+                "translation": "একটি বিছানা",
+                "pronunciation": "অ্যাবেড্",
+                "sen1": "exhausted from the long day, she fell quickly abed.",
+                "senT1": "সারাদিনের ক্লান্তিতে সে তাড়াতাড়ি পড়ে গেল।",
+                "sen2": "sleepily, he pulled the covers closer, abed in the warm darkness.",
+                "senT2": "তন্দ্রাচ্ছন্ন হয়ে, সে কভারগুলো কাছে টেনে নিল, উষ্ণ অন্ধকারে আবেদ।",
+                "sen3": "the children snuggled abed, listening to their mother's bedtime story.",
+                "senT3": "শিশুরা আবেদকে চুদতে থাকে, তাদের মায়ের শয়নকালের গল্প শুনে।"
+            },
+            {
+                "word": "aberrance",
+                "translation": "বিপথে গমন",
+                "pronunciation": "অ্যাবে‘ র\u200c্যান্স্",
+                "sen1": "his erratic behavior was an aberrance from his usual calm demeanor.",
+                "senT1": "তার এলোমেলো আচরণ তার স্বাভাবিক শান্ত আচরণ থেকে একটি বিভ্রান্তি ছিল।",
+                "sen2": "the sudden storm was an aberrance in the otherwise predictable weather pattern.",
+                "senT2": "আকস্মিক ঝড়টি অন্যথায় পূর্বাভাসযোগ্য আবহাওয়ার প্যাটার্নে একটি বিপর্যয় ছিল।",
+                "sen3": "the scientist noted the flower's color, a stunning aberrance in the field.",
+                "senT3": "বিজ্ঞানী ফুলের রঙ, ক্ষেত্রের একটি অত্যাশ্চর্য বিপর্যয় নোট."
+            },
+            {
+                "word": "aberrancy",
+                "translation": "বিভ্রান্তি",
+                "pronunciation": "অ্যাবে‘র\u200c্যান্সি ",
+                "sen1": "the historian unearthed a document revealing an aberrancy in the official timeline of events.",
+                "senT1": "ঐতিহাসিক ঘটনাগুলির অফিসিয়াল টাইমলাইনে একটি বিভ্রান্তি প্রকাশ করে এমন একটি নথি আবিষ্কার করেছিলেন।",
+                "sen2": "her unique artistic style thrived on embracing aberrancy, defying conventional beauty standards.",
+                "senT2": "তার অনন্য শৈল্পিক শৈলী বিভ্রান্তিকর আলিঙ্গন করে, প্রচলিত সৌন্দর্যের মানকে অস্বীকার করে।",
+                "sen3": " the doctor studied the patient's test results, concerned by the aberrancy in their bloodwork.",
+                "senT3": "ডাক্তার রোগীর পরীক্ষার ফলাফলগুলি অধ্যয়ন করেন, তাদের রক্তের কাজের বিভ্রান্তির কারণে উদ্বিগ্ন।"
+            },
+            {
+                "word": "aberrant",
+                "translation": "বিপথগামী;",
+                "pronunciation": "অ্যাবে‘রান্ট",
+                "sen1": "the creature's glowing eyes and leathery wings marked it as aberrant.",
+                "senT1": "প্রাণীটির উজ্জ্বল চোখ এবং চামড়ার ডানাগুলি এটিকে বিকৃত হিসাবে চিহ্নিত করেছে।",
+                "sen2": "his aberrant behavior at the party ostracized him from the group.",
+                "senT2": "পার্টিতে তার বিকৃত আচরণ তাকে দল থেকে বহিষ্কার করে।",
+                "sen3": "scientists studied the aberrant cell growth, searching for a cure.",
+                "senT3": "বিজ্ঞানীরা একটি প্রতিকারের সন্ধানে অপ্রচলিত কোষের বৃদ্ধি অধ্যয়ন করেছেন।"
+            },
+            {
+                "word": "abeyance",
+                "translation": "স্থগিত অবস্থা;",
+                "pronunciation": "অ্যাবে‘য়্যানস্",
+                "sen1": "we put their request in abeyance for further consideration.",
+                "senT1": "আমরা আরও বিবেচনার জন্য তাদের অনুরোধ স্থগিত রেখেছি।",
+                "sen2": "the project is in abeyance until funding is secured.",
+                "senT2": "তহবিল নিশ্চিত না হওয়া পর্যন্ত প্রকল্পটি স্থগিত রয়েছে।",
+                "sen3": "he kept his feelings in abeyance, unsure of her response.",
+                "senT3": "তিনি তার অনুভূতিকে স্থগিত রেখেছিলেন, তার প্রতিক্রিয়া সম্পর্কে অনিশ্চিত।"
+            },
+            {
+                "word": "annual",
+                "translation": "বার্ষিক",
+                "pronunciation": "অ্যা'নিউয়্যাল্ ",
+                "sen1": "we track our progress with annual evaluations.",
+                "senT1": "আমরা বার্ষিক মূল্যায়নের সাথে আমাদের অগ্রগতি ট্র্যাক করি।",
+                "sen2": "the annual festival brought the town together.",
+                "senT2": "বার্ষিক উত্সব শহরকে একত্রিত করেছিল।",
+                "sen3": "she paid her annual gym membership fee.",
+                "senT3": "তিনি তার বার্ষিক জিমের সদস্যতা ফি প্রদান করেছেন।"
+            },
+            {
+                "word": "answer",
+                "translation": "উত্তর",
+                "pronunciation": "অ্যান্সার",
+                "sen1": "her silence spoke volumes, offering an unspoken answer.",
+                "senT1": "তার নীরবতা ভলিউম কথা বলে, একটি অব্যক্ত উত্তর প্রস্তাব.",
+                "sen2": "he nervously awaited the answer to his question.",
+                "senT2": "সে অস্থিরভাবে তার প্রশ্নের উত্তরের অপেক্ষায় ছিল।",
+                "sen3": "the riddle stumped everyone, leaving the answer unknown.",
+                "senT3": "ধাঁধাটি সবাইকে স্তব্ধ করে দিয়েছে, উত্তর অজানা রেখে গেছে।"
+            },
+            {
+                "word": "answerphone",
+                "translation": "ফোনটি ধর;",
+                "pronunciation": "আনসারফোন",
+                "sen1": "the answerphone blinked, signaling a missed call.",
+                "senT1": "উত্তর ফোনটি মিসড কলের সংকেত দেয়।",
+                "sen2": "she listened to the message on the answerphone, hope fading.",
+                "senT2": "তিনি উত্তর ফোনে বার্তাটি শুনলেন, আশা ম্লান হয়ে গেল।",
+                "sen3": "he recorded a friendly greeting on his new answerphone.",
+                "senT3": "তিনি তার নতুন উত্তর ফোনে একটি বন্ধুত্বপূর্ণ শুভেচ্ছা রেকর্ড করেছেন।"
+            },
+            {
+                "word": "appear",
+                "translation": "প্রদর্শিত",
+                "pronunciation": "আপীয়ার",
+                "sen1": "the truth will appear eventually.",
+                "senT1": "সত্য অবশেষে প্রকাশ পাবে।"
+            },
+            {
+                "word": "approach",
+                "translation": "পন্থা",
+                "pronunciation": "এ-প্রো-চ",
+                "sen1": "take a slow approach to learn a new skill thoroughly.",
+                "senT1": "একটি নতুন দক্ষতা পুঙ্খানুপুঙ্খভাবে শিখতে একটি ধীর পদ্ধতি অবলম্বন করুন।"
+            },
+            {
+                "word": "argue",
+                "translation": "তর্ক করা",
+                "pronunciation": "আর্-গু",
+                "sen1": "the older sister pointed her finger at her younger brother. \"you clean up your mess right now! asenT1 don't you dare argue with me!\"",
+                "translation": "বড় বোন তার ছোট ভাইয়ের দিকে আঙুল দেখাল। \"আপনি এখনই আপনার জগাখিচুড়ি পরিষ্কার! এবং আপনি আমার সাথে তর্ক করার সাহস করবেন না!\""
+            },
+            {
+                "word": "arrangement",
+                "translation": "ব্যবস্থা",
+                "pronunciation": "অ্যারেঞ্জমেন্ট",
+                "sen1": "the travel agency offered a custom vacation arrangement.",
+                "senT1": "ট্রাভেল এজেন্সি কাস্টম অবকাশের ব্যবস্থা করেছে।",
+                "sen2": "the band leader made a new arrangement of the classic song.",
+                "senT2": "ক্লাসিক গানের নতুন আয়োজন করেছেন ব্যান্ড লিডার।",
+                "sen3": "he proposed a mutually beneficial arrangement.",
+                "senT3": "তিনি একটি পারস্পরিক উপকারী ব্যবস্থার প্রস্তাব করেছিলেন।"
+            },
+            {
+                "word": "arrest",
+                "translation": "গ্রেফতার",
+                "pronunciation": "অ্যারেস্ট",
+                "sen1": "the warrant outlined the specific charges leading to the arrest.",
+                "senT1": "ওয়ারেন্টে সুনির্দিষ্ট অভিযোগের রূপরেখা দেওয়া হয়েছে যা গ্রেপ্তারের দিকে পরিচালিত করে।"
+            },
+            {
+                "word": "arrive",
+                "translation": "পৌঁছা",
+                "pronunciation": "অ্যার্া-ইভ্",
+                "sen1": "i bet he'll arrive early for the meeting.",
+                "senT1": "আমি বাজি ধরেছি সে মিটিংয়ের জন্য তাড়াতাড়ি আসবে।",
+                "sen2": "please clean your room before guests arrive.",
+                "senT2": "অতিথিদের আগমনের আগে দয়া করে আপনার ঘর পরিষ্কার করুন।",
+                "sen3": "she should arrive at the meeting on time.",
+                "senT3": "তাকে সময়মতো মিটিংয়ে পৌঁছাতে হবে।"
+            },
+            {
+                "word": "art",
+                "translation": "শিল্প",
+                "pronunciation": "আর্ট",
+                "sen1": "the music moved me to tears, a true work of art.",
+                "senT1": "সঙ্গীত আমাকে অশ্রুসঞ্চার করেছে, শিল্পের একটি সত্যিকারের কাজ।",
+                "sen2": "art inspires emotions and sparks creative expression in individuals.",
+                "senT2": "শিল্প আবেগকে অনুপ্রাণিত করে এবং ব্যক্তিদের মধ্যে সৃজনশীল অভিব্যক্তিকে স্ফুলিঙ্গ করে।",
+                "sen3": "he poured his heart and soul into his art, leaving no emotion unshared.",
+                "senT3": "তিনি তার শিল্পে তার হৃদয় এবং আত্মা ঢেলে দিয়েছেন, কোনো আবেগকে ভাগ না করে রেখেছিলেন।"
+            },
+            {
+                "word": "article",
+                "translation": "নিবন্ধ",
+                "pronunciation": "আর্টিকেল",
+                "sen1": "the newspaper article revealed shocking new details.",
+                "senT1": "সংবাদপত্রের নিবন্ধে চমকপ্রদ নতুন বিবরণ প্রকাশিত হয়েছে।",
+                "sen2": "she researched meticulously for her article on climate change.",
+                "senT2": "তিনি জলবায়ু পরিবর্তনের উপর তার নিবন্ধের জন্য সতর্কতার সাথে গবেষণা করেছেন।",
+                "sen3": "the article sparked lively debate among readers.",
+                "senT3": "নিবন্ধটি পাঠকদের মধ্যে প্রাণবন্ত বিতর্কের জন্ম দিয়েছে।"
+            },
+            {
+                "word": "ask",
+                "translation": "জিজ্ঞাসা",
+                "pronunciation": "আস্‘ক",
+                "sen1": "can you ask the teacher about homework?",
+                "senT1": "আপনি হোমওয়ার্ক সম্পর্কে শিক্ষক জিজ্ঞাসা করতে পারেন?",
+                "sen2": "i'll ask mom for permission later.",
+                "senT2": "আমি পরে মাকে অনুমতি চাইব।",
+                "sen3": "please ask him where the meeting is.",
+                "senT3": "অনুগ্রহ করে তাকে জিজ্ঞাসা করুন মিটিং কোথায়।"
+            },
+            {
+                "word": "agency",
+                "translation": "সংস্থা",
+                "pronunciation": "এজেন্সি",
+                "sen1": "the travel agency offered a custom vacation arrangement.",
+                "senT1": "ট্রাভেল এজেন্সি কাস্টম অবকাশের ব্যবস্থা করেছে।",
+                "sen2": "talented actors sought a powerful agency to represent them.",
+                "senT2": "প্রতিভাবান অভিনেতারা তাদের প্রতিনিধিত্ব করার জন্য একটি শক্তিশালী সংস্থা চেয়েছিলেন।",
+                "sen3": "she signed with a top modeling agency to launch her career.",
+                "senT3": "তিনি তার ক্যারিয়ার শুরু করার জন্য একটি শীর্ষ মডেলিং সংস্থার সাথে চুক্তিবদ্ধ হন।"
+            },
+            {
+                "word": "ago",
+                "translation": "আগে",
+                "pronunciation": "অ্যাগো",
+                "sen1": "the worn path, etched deep by time, led to secrets hidden ago.",
+                "senT1": "জীর্ণ পথ, সময়ের গভীরে খোদাই করা, আগে লুকানো গোপনীয়তার দিকে নিয়ে যায়।",
+                "sen2": "the wind whispered stories of long ago, rustling through ancient leaves.",
+                "senT2": "বাতাস অনেক আগেকার গল্পগুলোকে ফিসফিস করে বলে, প্রাচীন পাতার মধ্যে গজগজ করছে।",
+                "sen3": "a single tear, tracing a memory from a love lost long ago.",
+                "senT3": "একটি একক অশ্রু, অনেক আগে হারিয়ে যাওয়া প্রেম থেকে একটি স্মৃতি ট্রেসিং."
+            },
+            {
+                "word": "agree",
+                "translation": "একমত",
+                "pronunciation": "অ্যাগরি",
+                "sen1": "we both agree, the sunset tonight is breathtaking.",
+                "senT1": "আমরা দুজনেই একমত, আজ রাতের সূর্যাস্ত শ্বাসরুদ্ধকর।",
+                "sen2": "\"i agree,\" she smiled, accepting his invitation to dance.",
+                "senT2": "\"আমি রাজি,\" সে নাচের আমন্ত্রণ গ্রহণ করে হেসেছিল।",
+                "sen3": "i agree with your perspective on this matter.",
+                "senT3": "আমি এই বিষয়ে আপনার দৃষ্টিকোণ সঙ্গে একমত."
+            },
+            {
+                "word": "air",
+                "translation": "বায়ু",
+                "pronunciation": "এয়ার",
+                "sen1": "air is essential for breathing and sustaining life.",
+                "senT1": "শ্বাস-প্রশ্বাস এবং জীবন টিকিয়ে রাখার জন্য বায়ু অপরিহার্য।",
+                "sen2": "the crisp air filled her lungs with invigorating energy.",
+                "senT2": "খাস্তা বাতাস তার ফুসফুসকে প্রাণবন্ত শক্তিতে ভরিয়ে দেয়।",
+                "sen3": "hot air balloons soared majestically against the azure sky.",
+                "senT3": "হট এয়ার বেলুনগুলি আকাশের আকাশে মহিমান্বিতভাবে উড়েছিল।"
+            },
+            {
+                "word": "air conditioning",
+                "translation": "এয়ার কন্ডিশনার",
+                "pronunciation": "এয়ার কন্ডিশনীং",
+                "sen1": "a symphony of dripping condensation echoed from the air conditioning unit.",
+                "senT1": "এয়ার কন্ডিশনার ইউনিট থেকে ফোঁটা ফোঁটা ঘনীভবনের একটি সিম্ফনি প্রতিধ্বনিত হয়।",
+                "sen2": "the cool air conditioning provided a welcome escape from the heat.",
+                "senT2": "শীতল শীতাতপ নিয়ন্ত্রণ তাপ থেকে একটি স্বাগত অব্যাহতি প্রদান.",
+                "sen3": "air conditioning cools indoor spaces during hot weather.",
+                "senT3": "শীতাতপনিয়ন্ত্রণ গরম আবহাওয়ার সময় অন্দর স্থানগুলিকে শীতল করে।"
+            },
+            {
+                "word": "air force",
+                "translation": "বিমান বাহিনী ",
+                "pronunciation": "এয়ার ফোর্স ",
+                "sen1": "the air force patrols the skies diligently.",
+                "senT1": "আকাশে বিমানবাহিনী নিষ্ঠার সাথে টহল দিচ্ছে।",
+                "sen2": "air force personnel undergo rigorous training exercises.",
+                "senT2": "বিমান বাহিনীর সদস্যরা কঠোর প্রশিক্ষণ অনুশীলনের মধ্য দিয়ে যায়।",
+                "sen3": "modern technology enhances air force strategic capabilities.",
+                "senT3": "আধুনিক প্রযুক্তি বিমান বাহিনীর কৌশলগত সক্ষমতা বাড়ায়।"
+            },
+            {
+                "word": "airline",
+                "translation": "এয়ারলাইন",
+                "pronunciation": "এয়ারলাইন",
+                "sen1": "the airline offer cheap flights to sunny destinations.",
+                "senT1": "এয়ারলাইনটি রৌদ্রোজ্জ্বল গন্তব্যে সস্তা ফ্লাইট অফার করে।",
+                "sen2": "the airline offers affordable fares for travelers.",
+                "senT2": "এয়ারলাইন যাত্রীদের জন্য সাশ্রয়ী মূল্যের ভাড়া প্রদান করে।",
+                "sen3": "passengers enjoy comfortable flights with excellent airline service.",
+                "senT3": "যাত্রীরা চমৎকার বিমান পরিষেবা সহ আরামদায়ক ফ্লাইট উপভোগ করেন।"
+            },
+            {
+                "word": "airport",
+                "translation": "বিমানবন্দর",
+                "pronunciation": "এয়ারপোর্ট",
+                "sen1": " i arrived at the airport in the morning.",
+                "senT1": "আমি সকালে বিমানবন্দরে পৌঁছালাম। ",
+                "sen2": "i am going to the airport tomorrow.",
+                "senT2": "আমি কাল বিমানবন্দরে যাচ্ছি।",
+                "sen3": "the international airport is far from the city.",
+                "senT3": "আন্তর্জাতিক বিমানবন্দরটি শহর থেকে অনেক দূরে।"
+            },
+            {
+                "word": "alarm",
+                "translation": "সতর্ক করা",
+                "pronunciation": "এলার্ম",
+                "sen1": "the alarm sounded before the thief arrived.",
+                "senT1": "চোর আসার আগেই বিপদ সংকেত বাজল।",
+                "sen2": "the alarm clock rings at 5 am.",
+                "senT2": "ঘুম ভাঙ্গানো ঘড়িটি ভোর 5 টায় বাজে।",
+                "sen3": "i rely on my alarm clock for punctuality.",
+                "senT3": "আমি সময়ানুবর্তিতার জন্য আমার অ্যালার্ম ঘড়ির উপর নির্ভর করি।"
+            },
+            {
+                "word": "alarm clock",
+                "translation": "অ্যালার্মঘড়ি",
+                "pronunciation": "অ্যালার্মক্লক",
+                "sen1": "the alarm clock rings at 5 am.",
+                "senT1": "ঘুম ভাঙ্গানো ঘড়িটি ভোর 5 টায় বাজে।",
+                "sen2": "i rely on my alarm clock for punctuality.",
+                "senT2": "আমি সময়ানুবর্তিতার জন্য আমার অ্যালার্ম ঘড়ির উপর নির্ভর করি।",
+                "sen3": "set the alarm clock for 7 a.m.",
+                "senT3": "সকাল ৭টার জন্য অ্যালার্ম ঘড়ি সেট করুন"
+            },
+            {
+                "word": "album",
+                "translation": "অ্যালবাম",
+                "pronunciation": "অ্যালবাম",
+                "sen1": "the album played on repeat, filling the room with nostalgia.",
+                "senT1": "অ্যালবাম বার বার বাজানো, নস্টালজিয়া সঙ্গে ঘর ভর্তি.",
+                "sen2": "he poured over the old album, filled with faded memories",
+                "senT2": "পুরোনো অ্যালবামের ওপর ঢেলে দিলেন বিবর্ণ স্মৃতিতে ভরা",
+                "sen3": "the album cover displayed a band with wild hairstyles.",
+                "senT3": "অ্যালবাম কভার বন্য hairstyles সঙ্গে একটি ব্যান্ড প্রদর্শন."
+            },
+            {
+                "word": "alike",
+                "translation": "একইভাবে",
+                "pronunciation": "এলাইক",
+                "sen1": "the twins, dressed alike, confused everyone.",
+                "senT1": "যমজ, একই রকম পোশাক পরা, সবাইকে বিভ্রান্ত করেছে।",
+                "sen2": "though different, they treated everyone alike.",
+                "senT2": "ভিন্ন হলেও তারা সবার সাথে সমান আচরণ করত।",
+                "sen3": "the leaves on the trees danced alike in the wind.",
+                "senT3": "বাতাসে গাছের পাতাগুলো সমানভাবে নেচে উঠল।"
+            },
+            {
+                "word": "alive",
+                "translation": "জীবিত",
+                "pronunciation": "অ্যালাইভ",
+                "sen1": "she felt alive as the sun rose.",
+                "senT1": "সূর্য উঠার সাথে সাথে তিনি জীবিত অনুভব করেছিলেন।",
+                "sen2": " i am alive and aware.",
+                "senT2": "আমি সচেতন আছি।",
+                "sen3": "everything is alive and functioning.",
+                "senT3": "বকিছু জীবিত ও চালু আছে।"
+            },
+            {
+                "word": "allow",
+                "translation": "অনুমতি",
+                "pronunciation": "অ্যালও",
+                "sen1": "please allow me to explain the situation briefly.",
+                "senT1": "দয়া করে আমাকে পরিস্থিতিটি সংক্ষেপে ব্যাখ্যা করার অনুমতি দিন।",
+                "sen2": "kindly allow access to the requested information.",
+                "senT2": "অনুগ্রহ করে অনুরোধ করা তথ্য অ্যাক্সেসের অনুমতি দিন।",
+                "sen3": "the password wouldn't allow me access to the file.",
+                "senT3": "পাসওয়ার্ড আমাকে ফাইল অ্যাক্সেস করার অনুমতি দেবে না."
+            },
+            {
+                "word": "almost",
+                "translation": "প্রায়",
+                "pronunciation": "অলমোস্ট",
+                "sen1": "the cake is almost done baking in the oven.",
+                "senT1": "চুলায় কেক বেক করা প্রায় শেষ।",
+                "sen2": "she's almost ready to submit her application.",
+                "senT2": "সে তার আবেদন জমা দেওয়ার জন্য প্রায় প্রস্তুত।",
+                "sen3": "we are almost finished with the project.",
+                "senT3": "আমাদের প্রকল্পের কাজ প্রায় শেষ।"
+            },
+            {
+                "word": "alone",
+                "translation": "একা",
+                "pronunciation": "অ্যাল্ন",
+                "sen1": "the abbey stood alone, shrouded in mist and mystery.",
+                "senT1": "অ্যাবে একা দাঁড়িয়ে ছিল, কুয়াশা এবং রহস্যে আবৃত।",
+                "sen2": "she abetted her friend, knowing her plan was wrong, but fearing she would do it alone.",
+                "senT2": "তিনি তার বন্ধুকে উৎসাহিত করেছিলেন, জেনেছিলেন যে তার পরিকল্পনা ভুল ছিল, কিন্তু ভয়ে যে সে একা এটি করবে।",
+                "sen3": "sometimes, being alone is a peaceful experience.",
+                "senT3": "কখনও কখনও, একা থাকা একটি শান্তিপূর্ণ অভিজ্ঞতা।"
+            },
+            {
+                "word": "along",
+                "translation": "বরাবর",
+                "pronunciation": "অ্যালং",
+                "sen1": "the car sped along the road.",
+                "senT1": "গাড়িটি রাস্তা দিয়ে দৌড়ে গেল।",
+                "sen2": "he walked along the river.",
+                "senT2": "তিনি নদীর বরাবর হেঁটে গেলেন।",
+                "sen3": "the tram smoothly glided along the tracks through the urban landscape.",
+                "senT3": "ট্রাম মসৃণভাবে শহুরে ল্যান্ডস্কেপ মাধ্যমে ট্র্যাক বরাবর glided."
+            },
+            {
+                "word": "aloud",
+                "translation": "সশব্দে",
+                "pronunciation": "অ্যালাউড",
+                "sen1": "the teacher asked the students to read aloud.",
+                "senT1": "শিক্ষক শিক্ষার্থীদের উচ্চৈস্বরে পড়তে বললেন।",
+                "sen2": " he expressed his opinion aloud.",
+                "senT2": "তিনি কণ্ঠস্বরে তার মত প্রকাশ করলেন।"
+            },
+            {
+                "word": "alphabet",
+                "translation": "বর্ণমালা",
+                "pronunciation": "আল‘ফাবেট",
+                "sen1": "i am still learning the alphabet.",
+                "senT1": "আমি এখনও হরফ শিখছি।",
+                "sen2": "the alphabet consists of 26 letters.",
+                "senT2": "বর্ণমালা 26টি অক্ষর নিয়ে গঠিত।",
+                "sen3": "let's practice reciting the alphabet together.",
+                "senT3": "আসুন একসাথে বর্ণমালা আবৃত্তি করার অভ্যাস করি।"
+            },
+            {
+                "word": "already",
+                "translation": "ইতিমধ্যে",
+                "pronunciation": "অল‘রেডি",
+                "sen1": " the work is already completed ahead of schedule.",
+                "senT1": "নির্ধারিত সময়ের আগেই কাজ শেষ হয়েছে।",
+                "sen2": "she has already visited that museum twice this month.",
+                "senT2": "তিনি ইতিমধ্যে এই মাসে দুবার সেই জাদুঘর পরিদর্শন করেছেন।",
+                "sen3": "i've already sent the email to confirm our meeting.",
+                "senT3": "আমি ইতিমধ্যে আমাদের মিটিং নিশ্চিত করতে ইমেল পাঠিয়েছি।"
+            },
+            {
+                "word": "also",
+                "translation": "এছাড়াও",
+                "pronunciation": "অ‘লস",
+                "sen1": "he enjoys hiking, and he also loves to swim.",
+                "senT1": "তিনি হাইকিং উপভোগ করেন, এবং তিনি সাঁতার কাটতেও ভালবাসেন।",
+                "sen2": "she is a talented singer and also a skilled guitarist.",
+                "senT2": "তিনি একজন প্রতিভাবান গায়ক এবং একজন দক্ষ গিটারিস্টও।",
+                "sen3": "i will attend the meeting, and i'll also contribute.",
+                "senT3": "আমি সভায় উপস্থিত হব, এবং আমিও অবদান রাখব।"
+            },
+            {
+                "word": "although",
+                "translation": "যদিও",
+                "pronunciation": "অল‘দোও",
+                "sen1": "she went to the party, although feeling a bit tired.",
+                "senT1": "তিনি পার্টিতে গিয়েছিলেন, যদিও কিছুটা ক্লান্ত বোধ করছেন।",
+                "sen2": "although it is raining, we will go outside.",
+                "senT2": "যদিও বৃষ্টি হচ্ছে, আমরা বাইরে যাব।",
+                "sen3": "although it rained, we still had a great picnic.",
+                "senT3": "যদিও বৃষ্টি হয়েছে, তবুও আমাদের দারুণ পিকনিক ছিল।"
+            },
+            {
+                "word": "altogether",
+                "translation": "সব মিলিয়ে",
+                "pronunciation": "অল্টু‘গেদার",
+                "sen1": "let's work on this project altogether for better efficiency.",
+                "senT1": "আসুন আরও ভাল দক্ষতার জন্য এই প্রকল্পে সম্পূর্ণভাবে কাজ করি।",
+                "sen2": "the family enjoyed a meal altogether at the dinner table.",
+                "senT2": "পরিবারের সবাই রাতের খাবার টেবিলে সম্পূর্ণভাবে খাবার উপভোগ করেছে।",
+                "sen3": "despite differences, we are altogether a strong, united team.",
+                "senT3": "পার্থক্য থাকা সত্ত্বেও, আমরা পুরোপুরি একটি শক্তিশালী, ঐক্যবদ্ধ দল।"
+            },
+            {
+                "word": "always",
+                "translation": "সর্বদা",
+                "pronunciation": "অল‘য়েজ্",
+                "sen1": "he always comes late.",
+                "senT1": "তিনি সবসময় দেরিতে আসেন।",
+                "sen2": "the sun always rises in the east.",
+                "senT2": "সূর্য সর্বদা পূর্ব দিকে উদিত হয়।",
+                "sen3": "he always tells the truth.",
+                "senT3": "তিনি সর্বদা সত্য বলেন।"
+            },
+            {
+                "word": "amazed",
+                "translation": "বিস্মিত",
+                "pronunciation": "অ্যামে‘য়জ্ড",
+                "sen1": "she was amazed at the unexpected kindness from strangers.",
+                "senT1": "তিনি অপরিচিতদের কাছ থেকে অপ্রত্যাশিত দয়া দেখে অবাক হয়েছিলেন।",
+                "sen2": "the magician's tricks left the audience amazed and delighted.",
+                "senT2": "জাদুকরের কৌশল দর্শকদের বিস্মিত এবং আনন্দিত করে।",
+                "sen3": "i was amazed by the breathtaking view from the summit.",
+                "senT3": "আমি চূড়া থেকে শ্বাসরুদ্ধকর দৃশ্য দ্বারা বিস্মিত."
+            },
+            {
+                "word": "amazing",
+                "translation": "আশ্চর্যজনক",
+                "pronunciation": "অ্যামেই‘জিং",
+                "sen1": "the technology advancements in recent years are amazing.",
+                "senT1": "সাম্প্রতিক বছরগুলিতে প্রযুক্তির অগ্রগতি আশ্চর্যজনক।",
+                "sen2": "her performance was amazing and captivated the audience.",
+                "senT2": "তার অভিনয় ছিল আশ্চর্যজনক এবং দর্শকদের বিমোহিত করেছিল।",
+                "sen3": "the sunset view is truly amazing from the beach.",
+                "senT3": "সৈকত থেকে সূর্যাস্তের দৃশ্য সত্যিই আশ্চর্যজনক।"
+            },
+            {
+                "word": "ambition",
+                "translation": "উচ্চাকাঙ্ক্ষা",
+                "pronunciation": "অ্যামবিশ্‘ন",
+                "sen1": "he pursues his academic goals with unwavering ambition.",
+                "senT1": "তিনি অটল উচ্চাকাঙ্ক্ষার সাথে তার একাডেমিক লক্ষ্যগুলি অনুসরণ করেন।",
+                "sen2": "her ambition is to become a successful entrepreneur.",
+                "senT2": "তার উচ্চাকাঙ্ক্ষা একজন সফল উদ্যোক্তা হওয়া।",
+                "sen3": "ambition drives him to constantly strive for excellence.",
+                "senT3": "উচ্চাকাঙ্ক্ষা তাকে ক্রমাগত শ্রেষ্ঠত্বের জন্য প্রচেষ্টা চালায়।"
+            },
+            {
+                "word": "ambulance",
+                "translation": "অ্যাম্বুলেন্স",
+                "pronunciation": "অ্যাম্বুলেন্স",
+                "sen1": "the ambulance arrived swiftly to attend to the injured.",
+                "senT1": "আহতদের চিকিৎসার জন্য দ্রুত অ্যাম্বুলেন্স পৌঁছে যায়।",
+                "sen2": "he was rushed to the hospital in an ambulance.",
+                "senT2": "তাকে দ্রুত অ্যাম্বুলেন্সে করে হাসপাতালে নিয়ে যাওয়া হয়।",
+                "sen3": "call an ambulance; there's been a car accident.",
+                "senT3": "একটি অ্যাম্বুলেন্স কল; একটি গাড়ী দুর্ঘটনা হয়েছে"
+            },
+            {
+                "word": "among",
+                "translation": "মধ্যে",
+                "pronunciation": "অ্যামং",
+                "sen1": "the article sparked lively debate among readers.",
+                "senT1": "নিবন্ধটি পাঠকদের মধ্যে প্রাণবন্ত বিতর্কের জন্ম দিয়েছে।",
+                "sen2": "she stood out among the talented group of artists.",
+                "senT2": "তিনি প্রতিভাবান শিল্পীদের মধ্যে দাঁড়িয়েছিলেন।",
+                "sen3": "the treasure was hidden among the ancient ruins.",
+                "senT3": "প্রাচীন ধ্বংসাবশেষের মধ্যে গুপ্তধন লুকিয়ে ছিল।"
+            },
+            {
+                "word": "amount",
+                "translation": "পরিমাণ",
+                "pronunciation": "অ্যামাউন্ট",
+                "sen1": "please deposit the exact amount in the account.",
+                "senT1": "অনুগ্রহ করে অ্যাকাউন্টে সঠিক পরিমাণ জমা দিন।",
+                "sen2": "the total amount spent exceeded the budget.",
+                "senT2": "মোট ব্যয়ের পরিমাণ বাজেটকে ছাড়িয়ে গেছে।",
+                "sen3": "a significant amount of time was devoted to research.",
+                "senT3": "একটি উল্লেখযোগ্য সময় গবেষণায় নিবেদিত ছিল।"
+            },
+            {
+                "word": "amusing",
+                "translation": "মজাদার",
+                "pronunciation": "অ্যামে‘যিং",
+                "sen1": "the playful kittens were amusing to watch.",
+                "senT1": "কৌতুকপূর্ণ বিড়ালছানা দেখতে মজার ছিল.",
+                "sen2": "his amusing anecdotes always make everyone laugh.",
+                "senT2": "তার মজার উপাখ্যান সবসময় সবাইকে হাসায়।",
+                "sen3": "the comedian's jokes were genuinely amusing and entertaining.",
+                "senT3": "কৌতুক অভিনেতার কৌতুক সত্যিই মজাদার এবং বিনোদনমূলক ছিল।"
+            },
+            {
+                "word": "an",
+                "translation": "একটি",
+                "pronunciation": "অ্যান",
+                "sen1": "his erratic behavior was an aberrance from his usual calm demeanor.",
+                "senT1": "তার এলোমেলো আচরণ তার স্বাভাবিক শান্ত আচরণ থেকে একটি বিভ্রান্তি ছিল।",
+                "sen2": "the sudden storm was an aberrance in the otherwise predictable weather pattern.",
+                "senT2": "আকস্মিক ঝড়টি অন্যথায় পূর্বাভাসযোগ্য আবহাওয়ার প্যাটার্নে একটি বিপর্যয় ছিল।",
+                "sen3": "the historian unearthed a document revealing an aberrancy in the official timeline of events.",
+                "senT3": "ঐতিহাসিক ঘটনাগুলির অফিসিয়াল টাইমলাইনে একটি বিভ্রান্তি প্রকাশ করে এমন একটি নথি আবিষ্কার করেছিলেন।"
+            },
+            {
+                "word": "ancient",
+                "translation": "প্রাচীন",
+                "pronunciation": "এনশিএন্ট",
+                "sen1": "the wind whispered stories of long ago, rustling through ancient leaves.",
+                "senT1": "বাতাস অনেক আগেকার গল্পগুলোকে ফিসফিস করে বলে, প্রাচীন পাতার মধ্যে গজগজ করছে।",
+                "sen2": "the treasure was hidden among the ancient ruins.",
+                "senT2": "প্রাচীন ধ্বংসাবশেষের মধ্যে গুপ্তধন লুকিয়ে ছিল।",
+                "sen3": "ancient wisdom often provides valuable insights for today.",
+                "senT3": "প্রাচীন জ্ঞান প্রায়ই আজকের জন্য মূল্যবান অন্তর্দৃষ্টি প্রদান করে।"
+            },
+            {
+                "word": "ablution",
+                "translation": "অযু",
+                "pronunciation": "আব্লুশন",
+                "sen1": "proper ablution is essential for certain religious ceremonies.",
+                "senT1": "নির্দিষ্ট কিছু ধর্মীয় অনুষ্ঠানের জন্য সঠিকভাবে অযু করা অপরিহার্য।",
+                "sen2": "a quick ablution refreshed her before the important meeting.",
+                "senT2": "গুরুত্বপূর্ণ মিটিংয়ের আগে দ্রুত অজু তাকে সতেজ করে।",
+                "sen3": "muslims perform ablution before their daily prayers.",
+                "senT3": "মুসলমানরা তাদের প্রতিদিনের নামাজের আগে অজু করে।"
+            },
+            {
+                "word": "abomination",
+                "translation": "জঘন্য ",
+                "pronunciation": "আবমি‘নেইশন",
+                "sen1": "his actions were considered an abomination by the community.",
+                "senT1": "তার ক্রিয়াকলাপ সম্প্রদায় দ্বারা একটি ঘৃণ্য বলে বিবেচিত হয়েছিল।",
+                "sen2": "the unethical practices were seen as an abomination.",
+                "senT2": "অনৈতিক অভ্যাস একটি জঘন্য হিসাবে দেখা হয়.",
+                "sen3": "the new policy was met with widespread criticism, deemed an abomination.",
+                "senT3": "নতুন নীতিটি ব্যাপক সমালোচনার সম্মুখীন হয়েছিল, এটি একটি ঘৃণ্য বলে বিবেচিত হয়েছিল।"
+            },
+            {
+                "word": "above",
+                "translation": "উপরে",
+                "pronunciation": "আ‘বাভ",
+                "sen1": "clouds drifted lazily in the sky above.",
+                "senT1": "উপরে আকাশে অলসভাবে মেঘ ভেসে যায়।",
+                "sen2": "the banner hung proudly above the entrance.",
+                "senT2": "প্রবেশদ্বারের উপরে গর্বভরে ব্যানার টাঙানো ছিল।",
+                "sen3": "look above to find the information on the top shelf.",
+                "senT3": "উপরের শেলফে তথ্য খুঁজে পেতে উপরে দেখুন।"
+            },
+            {
+                "word": "about",
+                "translation": "সম্পর্কিত",
+                "pronunciation": "অ্যাবাউট",
+                "sen1": "they argued about the best way to solve the problem.",
+                "senT1": "তারা সমস্যা সমাধানের সর্বোত্তম উপায় সম্পর্কে তর্ক করেছেন।",
+                "sen2": "can you ask the teacher about homework?",
+                "senT2": "আপনি হোমওয়ার্ক সম্পর্কে শিক্ষক জিজ্ঞাসা করতে পারেন?",
+                "sen3": "the government has issued a warning about recent events.",
+                "senT3": "সরকার সাম্প্রতিক ঘটনার বিষয়ে সতর্কবার্তা জারি করেছে।"
+            },
+            {
+                "word": "attention",
+                "translation": "মনোযোগ",
+                "pronunciation": "অ্যাঠেন্শন",
+                "sen1": "the speaker captured everyone's attention with an inspiring opening statement.",
+                "senT1": "স্পিকার একটি অনুপ্রেরণামূলক উদ্বোধনী বিবৃতি দিয়ে প্রত্যেকের দৃষ্টি আকর্ষণ করেছিলেন।",
+                "sen2": "the teacher requested the students' attention before starting the lesson.",
+                "senT2": "শিক্ষক পাঠ শুরু করার আগে শিক্ষার্থীদের মনোযোগের জন্য অনুরোধ করেছিলেন।",
+                "sen3": "the toddler sought attention by giggling and playing in the room.",
+                "senT3": "বাচ্চাটি গিগলিং এবং ঘরে খেলতে মনোযোগ চেয়েছিল।"
+            },
+            {
+                "word": "attend",
+                "translation": "উপস্থিত",
+                "pronunciation": "আঠেন্ড",
+                "sen1": "i will attend the meeting, and i'll also contribute.",
+                "senT1": "আমি সভায় উপস্থিত হব, এবং আমিও অবদান রাখব।",
+                "sen2": "the ambulance arrived swiftly to attend to the injured.",
+                "senT2": "আহতদের চিকিৎসার জন্য দ্রুত অ্যাম্বুলেন্স পৌঁছে যায়।",
+                "sen3": "students should attend class regularly to succeed in their studies.",
+                "senT3": "শিক্ষার্থীদের তাদের পড়াশোনায় সফল হওয়ার জন্য নিয়মিত ক্লাসে অংশ নেওয়া উচিত।"
+            },
+            {
+                "word": "america",
+                "translation": "আমেরিকা",
+                "pronunciation": "আমেরিকা",
+                "sen1": "america is known for its diverse culture and melting pot society.",
+                "senT1": "আমেরিকা তার বিচিত্র সংস্কৃতি এবং গলে যাওয়া পট সোসাইটির জন্য পরিচিত।",
+                "sen2": "many people dream of visiting america to explore its vast landscapes.",
+                "senT2": "অনেকে আমেরিকাতে পরিদর্শন করার স্বপ্ন দেখে তার বিশাল ল্যান্ডস্কেপগুলি অন্বেষণ করতে পারে।",
+                "sen3": "the statue of liberty symbolizes freedom and opportunity in america.",
+                "senT3": "লিবার্টি স্ট্যাচু আমেরিকাতে স্বাধীনতা এবং সুযোগের প্রতীক।"
+            },
+            {
+                "word": "ability",
+                "translation": "ক্ষমতা",
+                "pronunciation": "অ্যাবিলিটি",
+                "sen1": "developing a growth mindset enhances one's learning ability.",
+                "senT1": "একটি বৃদ্ধির মানসিকতা বিকাশ করা কারও শেখার ক্ষমতা বাড়ায়।",
+                "sen2": "his ability to solve complex problems impressed the entire team.",
+                "senT2": "জটিল সমস্যাগুলি সমাধান করার তার দক্ষতা পুরো দলকে মুগ্ধ করেছে।",
+                "sen3": "everyone has the ability to learn and adapt to new challenges.",
+                "senT3": "প্রত্যেকেরই নতুন চ্যালেঞ্জগুলি শিখতে এবং খাপ খাইয়ে নেওয়ার ক্ষমতা রয়েছে।"
+            },
+            {
+                "word": "accounting ",
+                "translation": "হিসাববিজ্ঞান",
+                "pronunciation": "আ‘খাউন্টিং",
+                "sen1": "accounting is essential for tracking a company's financial transactions.",
+                "senT1": "কোনও সংস্থার আর্থিক লেনদেনগুলি ট্র্যাক করার জন্য অ্যাকাউন্টিং অপরিহার্য।",
+                "sen2": "she pursued a degree in accounting to work in finance.",
+                "senT2": "তিনি ফিনান্সে কাজ করার জন্য অ্যাকাউন্টিংয়ে একটি ডিগ্রি অর্জন করেছিলেন।",
+                "sen3": "accurate accounting ensures transparency and compliance with financial regulations.",
+                "senT3": "সঠিক অ্যাকাউন্টিং স্বচ্ছতা এবং আর্থিক বিধিগুলির সাথে সম্মতি নিশ্চিত করে।"
+            },
+            {
+                "word": "aback",
+                "translation": "পেছন",
+                "pronunciation": "আব্যাক",
+                "sen1": "his sudden resignation left the team members aback.",
+                "senT1": "তার হঠাৎ পদত্যাগ দলের সদস্যদের হতাশ করে ফেলেছে।",
+                "sen2": "she was taken aback by the unexpected turn of events.",
+                "senT2": "ঘটনার অপ্রত্যাশিত পালা দ্বারা তাকে হতাশ করা হয়েছিল।",
+                "sen3": "the startling news left everyone aback, speechless for a moment.",
+                "senT3": "চমকপ্রদ সংবাদটি সবাইকে এক মুহুর্তের জন্য নির্বাক করে দিয়েছে।"
+            },
+            {
+                "word": "abhorrence",
+                "translation": "ঘৃণা",
+                "pronunciation": "অ্যাবরান্স",
+                "sen1": "she felt a deep abhorrence for cruelty towards animals.",
+                "senT1": "তিনি প্রাণীদের প্রতি নিষ্ঠুরতার জন্য গভীর ঘৃণা অনুভব করেছিলেন।",
+                "sen2": "his abhorrence of violence led him to promote peaceful solutions.",
+                "senT2": "তাঁর সহিংসতার ঘৃণার ফলে তাকে শান্তিপূর্ণ সমাধান প্রচার করতে পরিচালিত করে।",
+                "sen3": "the community expressed abhorrence towards any form of discrimination.",
+                "senT3": "সম্প্রদায় যে কোনও বৈষম্যের প্রতি ঘৃণা প্রকাশ করেছিল।"
+            },
+            {
+                "word": "application",
+                "translation": "আবেদন",
+                "pronunciation": "অ্যাপ্লিখেশন",
+                "sen1": "she's almost ready to submit her application.",
+                "senT1": "সে তার আবেদন জমা দেওয়ার জন্য প্রায় প্রস্তুত।",
+                "sen2": "his scholarship application was approved, granting him financial support for college.",
+                "senT2": "কলেজের জন্য তাকে আর্থিক সহায়তা প্রদান করে তার বৃত্তির আবেদন মঞ্জুর করা হয়।",
+                "sen3": "the mobile application quickly became popular for its user-friendly design.",
+                "senT3": "মোবাইল অ্যাপ্লিকেশনটি তার ব্যবহারকারী-বান্ধব ডিজাইনের জন্য দ্রুত জনপ্রিয় হয়ে ওঠে।"
+            },
+            {
+                "word": "army",
+                "translation": "সেনাবাহিনী",
+                "pronunciation": "আ:মি",
+                "sen1": "he proudly served in the army for over a decade.",
+                "senT1": "তিনি গর্বিতভাবে এক দশকেরও বেশি সময় ধরে সেনাবাহিনীতে চাকরি করেছেন।",
+                "sen2": "the army's discipline and teamwork were crucial in the mission's success.",
+                "senT2": "The army's discipline and teamwork were crucial in the mission's success.",
+                "sen3": "the army conducted training exercises to enhance soldier skills.",
+                "senT3": "সৈনিকদের দক্ষতা বৃদ্ধির জন্য সেনাবাহিনী প্রশিক্ষণ অনুশীলন করেছে।"
+            },
+            {
+                "word": "arm",
+                "translation": "বাহু",
+                "pronunciation": "আ:ম",
+                "sen1": "she carried groceries in one arm and held her child with the other.",
+                "senT1": "তিনি এক হাতে মুদি বহন করেন এবং অন্য হাতে তার সন্তানকে ধরে রাখেন।",
+                "sen2": "the baseball pitcher threw the ball with a powerful arm.",
+                "senT2": "বেসবল পিচার শক্তিশালী বাহু দিয়ে বল ছুঁড়ে দিল।",
+                "sen3": "he injured his arm while playing sports and needed a cast.",
+                "senT3": "খেলাধুলা করার সময় তিনি তার বাহুতে আঘাত পেয়েছিলেন এবং একটি কাস্টের প্রয়োজন ছিল।"
+            },
+            {
+                "word": "area",
+                "translation": "অঞ্চল",
+                "pronunciation": "অ্যাআরিয়া",
+                "sen1": "the doctor examined the child's swollen abdominal area.",
+                "senT1": "ডাক্তার শিশুটির ফোলা পেটের অংশ পরীক্ষা করেন।",
+                "sen2": "the city sprawled across a wide area.",
+                "senT2": "শহরটি বিস্তীর্ণ এলাকা জুড়ে বিস্তৃত।",
+                "sen3": "lush forests covered the vast area.",
+                "senT3": "বিস্তীর্ণ এলাকা জুড়ে ছেয়ে গেছে লীলাভূমি।"
+            },
+            {
+                "word": "arena",
+                "translation": "রঙ্গভূমি/গোলাকার স্থান",
+                "pronunciation": "আ‘রীনা",
+                "sen1": "gladiators clashed swords in the sandy arena.",
+                "senT1": "গ্ল্যাডিয়েটররা বালুকাময় মাঠে তলোয়ার নিয়ে সংঘর্ষে লিপ্ত হয়।",
+                "sen2": "the roar of the crowd echoed in the arena.",
+                "senT2": "জনতার গর্জন অঙ্গনে প্রতিধ্বনিত হয়।",
+                "sen3": "the rock concert rocked the massive arena.",
+                "senT3": "রক কনসার্ট বিশাল অঙ্গনে দোলা দিয়েছিল।"
+            },
+            {
+                "word": "audience",
+                "translation": "শ্রোতা",
+                "pronunciation": "ওডিয়েনস",
+                "sen1": "the magician's tricks left the audience amazed and delighted.",
+                "senT1": "জাদুকরের কৌশল দর্শকদের বিস্মিত এবং আনন্দিত করে।",
+                "sen2": "her performance was amazing and captivated the audience.",
+                "senT2": "তার অভিনয় ছিল আশ্চর্যজনক এবং দর্শকদের বিমোহিত করেছিল।",
+                "sen3": "their story unfolded through movement, captivating the audience.",
+                "senT3": "তাদের গল্প আন্দোলনের মধ্য দিয়ে ফুটে উঠেছে, দর্শকদের বিমোহিত করেছে।"
+            },
+            {
+                "word": "abate",
+                "translation": "হ্রাস করা",
+                "pronunciation": "আ‘বেইট",
+                "sen1": "the doctor prescribed medication to help abate the patient's pain.",
+                "senT1": "ডাক্তার রোগীর ব্যথা কমাতে সাহায্য করার জন্য ওষুধ লিখে দেন।",
+                "sen2": "after the storm, the wind began to abate, and the rain lessened.",
+                "senT2": "ঝড়ের পরে, বাতাস কমতে শুরু করে এবং বৃষ্টি কমে যায়।",
+                "sen3": "with time, the intensity of the argument started to abate.",
+                "senT3": "সময়ের সাথে সাথে তর্কের তীব্রতা কমতে থাকে।"
+            },
+            {
+                "word": "able",
+                "translation": "সক্ষম",
+                "pronunciation": "এইবল",
+                "sen1": "he is not only intelligent but also able to adapt quickly.",
+                "senT1": "তিনি শুধু বুদ্ধিমানই নন, দ্রুত মানিয়ে নিতেও সক্ষম।",
+                "sen2": "despite the challenge, she proved she was able to complete the task.",
+                "senT2": "চ্যালেঞ্জ সত্ত্বেও, তিনি প্রমাণ করেছেন যে তিনি কাজটি সম্পূর্ণ করতে সক্ষম হয়েছেন।",
+                "sen3": "being able to communicate effectively is a valuable skill in any profession.",
+                "senT3": "কার্যকরভাবে যোগাযোগ করতে সক্ষম হওয়া যে কোনও পেশায় একটি মূল্যবান দক্ষতা।"
+            },
+            {
+                "word": "avow",
+                "translation": "শপথপূর্বক বলা",
+                "pronunciation": "আভাউ",
+                "sen1": "she chose to avow her commitment to the cause publicly.",
+                "senT1": "তিনি প্রকাশ্যে কারণের প্রতি তার প্রতিশ্রুতি প্রকাশ করতে বেছে নিয়েছিলেন।",
+                "sen2": "in the courtroom, the witness will avow to tell the truth.",
+                "senT2": "আদালতে সাক্ষী সত্য বলার অঙ্গীকার করবেন।",
+                "sen3": "the politician will avow their stance on key issues during the debate.",
+                "senT3": "রাজনীতিবিদ বিতর্কের সময় মূল বিষয়গুলিতে তাদের অবস্থানকে স্বীকৃত করবেন।"
+            },
+            {
+                "word": "appearance",
+                "translation": "উপস্থিতি",
+                "pronunciation": "অ্যাফিয়ারেন্স",
+                "sen1": "we were startled by the appearance of the goon.",
+                "senT1": "গুন্ডার চেহারা দেখে আমরা চমকে উঠলাম।",
+                "sen2": "the detective's hat added a touch of mystery to his appearance.",
+                "senT2": "গোয়েন্দার টুপি তার চেহারায় রহস্যের স্পর্শ যোগ করেছে।",
+                "sen3": "his rugged appearance was accentuated by a thick, well-groomed beard.",
+                "senT3": "তার রুক্ষ চেহারা একটি ঘন, সুসজ্জিত দাড়ি দ্বারা উচ্চারিত হয়েছিল।"
+            },
+            {
+                "word": "account",
+                "translation": "হিসাব",
+                "pronunciation": "আখাউন্ট",
+                "sen1": "please deposit the exact amount in the account.",
+                "senT1": "অনুগ্রহ করে অ্যাকাউন্টে সঠিক পরিমাণ জমা দিন।",
+                "sen2": "please log in to your account to access personalized features.",
+                "senT2": "ব্যক্তিগতকৃত বৈশিষ্ট্য অ্যাক্সেস করতে আপনার অ্যাকাউন্টে লগ ইন করুন.",
+                "sen3": "opening a savings account is a wise financial decision for the future.",
+                "senT3": "একটি সেভিংস অ্যাকাউন্ট খোলা ভবিষ্যতের জন্য একটি বিজ্ঞ আর্থিক সিদ্ধান্ত।"
+            }
+        ]
     },
     {
-        "letter": "b"
-    },
-    {
-        "letter": "c"
-    },
-    {
-        "letter": "d"
-    },
-    {
-        "letter": "e"
-    },
-    {
-        "letter": "f"
-    },
-    {
-        "letter": "g"
-    },
-    {
-        "letter": "h"
-    },
-    {
-        "letter": "i"
-    },
-    {
-        "letter": "j"
-    },
-    {
-        "letter": "k"
-    },
-    {
-        "letter": "l"
-    },
-    {
-        "letter": "m"
-    },
-    {
-        "letter": "n"
-    },
-    {
-        "letter": "o"
-    },
-    {
-        "letter": "p"
-    },
-    {
-        "letter": "q"
-    },
-    {
-        "letter": "r"
-    },
-    {
-        "letter": "s"
-    },
-    {
-        "letter": "t"
-    },
-    {
-        "letter": "u"
-    },
-    {
-        "letter": "v"
-    },
-    {
-        "letter": "w"
-    },
-    {
-        "letter": "x"
-    },
-    {
-        "letter": "y"
-    },
-    {
-        "letter": "z"
+        "category": "z",
+        "words": [
+            {
+                "word": "zoo",
+                "translation": "চিরিয়াখানা",
+                "pronunciation": "জূ",
+                "date": "2023-12-12T19:42:51",
+                "sen1": "the children were excited to visit the zoo's new exhibit.",
+                "senT1": "শিশুরা চিড়িয়াখানার নতুন প্রদর্শনী দেখার জন্য উত্তেজিত ছিল।",
+                "sen2": "we enjoyed a family day at the zoo.",
+                "senT2": "আমরা চিড়িয়াখানায় একটি পারিবারিক দিন উপভোগ করেছি।",
+                "sen3": "the zoo is a fun place to see exotic animals.",
+                "senT3": "চিড়িয়াখানা বিদেশী প্রাণী দেখার জন্য একটি মজার জায়গা।"
+            },
+            {
+                "word": "zoom",
+                "translation": "জুম",
+                "pronunciation": "জুম",
+                "date": "2023-12-12T19:43:36",
+                "sen1": "let's have a zoom meeting tomorrow morning.",
+                "senT1": "আসুন কাল সকালে একটি জুম মিটিং করি।",
+                "sen2": "she used zoom to connect with her colleagues.",
+                "senT2": "তিনি তার সহকর্মীদের সাথে সংযোগ করতে জুম ব্যবহার করেছিলেন।",
+                "sen3": "the online class will be conducted via zoom.",
+                "senT3": "অনলাইন ক্লাস জুমের মাধ্যমে পরিচালিত হবে।"
+            },
+            {
+                "word": "zeal",
+                "translation": "চাড়, গভীর অনুভূতি",
+                "pronunciation": "জীল্",
+                "date": "2023-12-18T22:05:53",
+                "sen1": "she tackled the project with boundless zeal and determination.",
+                "senT1": "তিনি সীমাহীন উদ্যোগ এবং সংকল্পের সাথে প্রকল্পটি মোকাবেলা করেছিলেন।",
+                "sen2": "the team's zeal for innovation led to groundbreaking discoveries in the field.",
+                "senT2": "উদ্ভাবনের জন্য দলের উদ্যম ক্ষেত্রটিতে যুগান্তকারী আবিষ্কারের দিকে পরিচালিত করে।",
+                "sen3": "his speeches were filled with zeal, inspiring everyone in the audience.",
+                "senT3": "তার বক্তৃতা ছিল উৎসাহে ভরপুর, শ্রোতাদের সবাইকে অনুপ্রাণিত করত।"
+            },
+            {
+                "word": "zealot",
+                "translation": "ধর্মান্ধ",
+                "pronunciation": "জীলট্",
+                "date": "2023-12-18T22:07:12",
+                "sen1": "despite differing opinions, he remained a loyal zealot for his favorite sports t__eam.",
+                "senT1": "ভিন্ন মত থাকা সত্ত্বেও, তিনি তার প্রিয় ক্রীড়া দলের জন্য একজন অনুগত উদ্যমী ছিলেন।",
+                "sen2": "the political zealot passionately advocated for their ideology at every o__pportunity.",
+                "senT2": "The political zealot passionately advocated for their ideology at every opportunity.",
+                "sen3": "the religious zealot fervently devoted their life to spreading their faith.",
+                "senT3": "ধর্মীয় উদ্যমীরা তাদের বিশ্বাসকে ছড়িয়ে দেওয়ার জন্য তাদের জীবন উৎসর্গ করেছিল।"
+            },
+            {
+                "word": "zenith",
+                "translation": "সুবিন্দু",
+                "pronunciation": "জেনিথ্",
+                "date": "2023-12-18T22:08:24",
+                "sen1": "the artist's career reached its zenith with a widely acclaimed masterpiece.",
+                "senT1": "শিল্পীর কর্মজীবন একটি ব্যাপকভাবে প্রশংসিত মাস্টারপিস দিয়ে শীর্ষে পৌঁছেছে।",
+                "sen2": "with hard work and dedication, she reached the zenith of her profession.",
+                "senT2": "কঠোর পরিশ্রম এবং নিষ্ঠার সাথে, তিনি তার পেশার শীর্ষে পৌঁছেছেন।",
+                "sen3": "at noon, the sun reaches its zenith in the cloudless sky.",
+                "senT3": "দুপুরে, মেঘহীন আকাশে সূর্য তার শীর্ষে পৌঁছেছে।"
+            },
+            {
+                "word": "zero",
+                "translation": "শূন্য, গোল্লা, নবডঙ্কা",
+                "pronunciation": "জিরো",
+                "date": "2023-12-18T22:10:28",
+                "sen1": "the thermometer displayed zero degrees, signaling an icy winter morning.",
+                "senT1": "থার্মোমিটার শূন্য ডিগ্রী প্রদর্শন করে, একটি বরফ শীতের সকালের সংকেত দেয়।",
+                "sen2": "after careful calculations, the balance sheet showed a net profit of zero.",
+                "senT2": "After careful calculations, the balance sheet showed a net profit of zero.",
+                "sen3": "he felt a sense of emptiness, as if his efforts amounted to zero.",
+                "senT3": "তিনি শূন্যতার অনুভূতি অনুভব করেছিলেন, যেন তার প্রচেষ্টা শূন্যের সমান।"
+            },
+            {
+                "word": "zigzag",
+                "translation": "আঁকাবাঁকা",
+                "pronunciation": "জিগ্জ্যাগ্",
+                "date": "2023-12-18T22:11:53",
+                "sen1": "the playful lightning created a dazzling display with its zigzag pattern.",
+                "senT1": "কৌতুকপূর্ণ বাজ তার জিগজ্যাগ প্যাটার্নের সাথে একটি জমকালো ডিসপ্লে তৈরি করেছে।",
+                "sen2": "the mountain road was a series of zigzag turns, challenging the drivers.",
+                "senT2": "পাহাড়ি রাস্তাটি চালকদের চ্যালেঞ্জ করে জিগজ্যাগ বাঁকের একটি সিরিজ ছিল।",
+                "sen3": "following a zigzag path through the forest, they stumbled upon a hidden clearing.",
+                "senT3": "বনের মধ্য দিয়ে একটি জিগজ্যাগ পথ অনুসরণ করে, তারা একটি লুকানো ক্লিয়ারিংয়ে হোঁচট খেয়েছিল।"
+            },
+            {
+                "word": "zombie",
+                "translation": "জীয়ন্ত লাশ",
+                "pronunciation": "জআমবি",
+                "date": "2023-12-18T22:13:07",
+                "sen1": "the abandoned city streets were eerily silent, except for distant zombie moans.",
+                "senT1": "দূরবর্তী জম্বি হাহাকার ব্যতীত পরিত্যক্ত শহরের রাস্তাগুলি ভয়ঙ্করভাবে নীরব ছিল।",
+                "sen2": "in the horror movie, a relentless zombie horde pursued the survivors.",
+                "senT2": "হরর মুভিতে, একটি নিরলস জম্বি হর্ড বেঁচে থাকাদের তাড়া করেছিল।"
+            }
+        ]
     }
 ]

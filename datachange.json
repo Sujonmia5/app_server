@@ -1,0 +1,4657 @@
+[
+    {
+        "_id": "6570cc5eb8e4f41f5149cd15",
+        "letter": "a",
+        "words": [
+            {
+                "_id": "6575e65067f95487282096ca",
+                "word": "abatement",
+                "translation": "কম করা",
+                "pronunciation": "অ্যাবেট্’মেন্ট",
+                "date": "2023-12-10T22:24:46"
+            },
+            {
+                "_id": "6575eec99a597e9965321aef",
+                "word": "abandon",
+                "translation": "পরিত্যাগ করা",
+                "pronunciation": "অ্যাব্যান্’ডন",
+                "date": "2023-12-10T23:00:54"
+            },
+            {
+                "_id": "6575f07369b18029eaa9b2b9",
+                "word": "abase",
+                "translation": "অবজ্ঞা",
+                "pronunciation": "অ্যাব্যাস",
+                "date": "2023-12-10T23:08:01"
+            },
+            {
+                "_id": "6575f2dcae21afdc582c3215",
+                "word": "abbreviate",
+                "translation": "সংক্ষিপ্ত করা",
+                "pronunciation": "অ্যাব্রী‘ভিয়েট্",
+                "date": "2023-12-10T23:18:16"
+            },
+            {
+                "_id": "657673b65af13843086be637",
+                "word": "abbey",
+                "translation": "মঠ",
+                "pronunciation": "অ্যা‘বি",
+                "date": "2023-12-11T08:28:05"
+            },
+            {
+                "_id": "657675bd5af13843086be63b",
+                "word": "abdicate",
+                "translation": "কর্ম, পদ, \u200dসিংহাসন",
+                "pronunciation": "অ্যাব্‘ডিকেট",
+                "date": "2023-12-11T08:36:44"
+            },
+            {
+                "_id": "657676815af13843086be63f",
+                "word": "abdication",
+                "translation": "কর্ম, পদ, \u200dসিংহাসন পরিত্যাগ",
+                "pronunciation": "অ্যাব্ডিকে‘শন",
+                "date": "2023-12-11T08:40:01"
+            },
+            {
+                "_id": "6576772a5af13843086be643",
+                "word": "abdominal",
+                "translation": "উদর না পেট-সম্বন্ধীয়",
+                "pronunciation": "অ্যাব্ড‘মিনাল",
+                "date": "2023-12-11T08:42:49"
+            },
+            {
+                "_id": "657677c45af13843086be647",
+                "word": "abdominous",
+                "translation": "পেট মোটা; নাদাপেট",
+                "pronunciation": "অ্যাব্ড‘মিনাস",
+                "date": "2023-12-11T08:45:24"
+            },
+            {
+                "_id": "657678875af13843086be64b",
+                "word": "abduct",
+                "translation": "অপহরণ করা;",
+                "pronunciation": "অ্যাব্ডাকট",
+                "date": "2023-12-11T08:48:38"
+            },
+            {
+                "_id": "657679195af13843086be64f",
+                "word": "abductor",
+                "translation": "অপহরণকারী;",
+                "pronunciation": "অ্যাব্ডাক্‘টর্",
+                "date": "2023-12-11T08:51:04"
+            },
+            {
+                "_id": "65767a155af13843086be653",
+                "word": "abed",
+                "translation": "একটি বিছানা",
+                "pronunciation": "অ্যাবেড্",
+                "date": "2023-12-11T08:55:16"
+            },
+            {
+                "_id": "65767b3e5af13843086be657",
+                "word": "aberrance",
+                "translation": "বিপথে গমন",
+                "pronunciation": "অ্যাবে‘ র\u200c্যান্স্",
+                "date": "2023-12-11T09:00:13"
+            },
+            {
+                "_id": "65767bea5af13843086be65b",
+                "word": "aberrancy",
+                "translation": "বিভ্রান্তি",
+                "pronunciation": "অ্যাবে‘র\u200c্যান্সি ",
+                "date": "2023-12-11T09:03:06"
+            },
+            {
+                "_id": "65767c755af13843086be65f",
+                "word": "aberrant",
+                "translation": "বিপথগামী;",
+                "pronunciation": "অ্যাবে‘রান্ট",
+                "date": "2023-12-11T09:05:25"
+            },
+            {
+                "_id": "65767dcceb1798cf2edfa92f",
+                "word": "abet",
+                "translation": "অসৎ কর্মে সাহায্য করা;",
+                "pronunciation": "অ্যাবেট",
+                "date": "2023-12-11T09:11:04"
+            },
+            {
+                "_id": "65767ec6eb1798cf2edfa933",
+                "word": "abeyance",
+                "translation": "স্থগিত অবস্থা;",
+                "pronunciation": "অ্যাবে‘য়্যানস্",
+                "date": "2023-12-11T09:15:17"
+            },
+            {
+                "_id": "6576d6833fe6ef80eb324a96",
+                "word": "annual",
+                "translation": "বার্ষিক",
+                "pronunciation": "অ্যা'নিউয়্যাল্ ",
+                "date": "2023-12-11T15:29:35"
+            },
+            {
+                "_id": "6576d77ea773e32fa302351e",
+                "word": "announce",
+                "translation": "ঘোষণা করা",
+                "pronunciation": "আনোউনস ",
+                "date": "2023-12-11T15:33:47"
+            },
+            {
+                "_id": "6576d7fca773e32fa3023522",
+                "word": "answer",
+                "translation": "উত্তর",
+                "pronunciation": "অ্যান্সার",
+                "date": "2023-12-11T15:35:55"
+            },
+            {
+                "_id": "6576d87fa773e32fa3023526",
+                "word": "answerphone",
+                "translation": "ফোনটি ধর;",
+                "pronunciation": "আনসারফোন",
+                "date": "2023-12-11T15:38:06"
+            },
+            {
+                "_id": "6576e6cd420ad738550e32e6",
+                "word": "apologise",
+                "translation": "ক্ষমাপ্রার্থী",
+                "pronunciation": "আপোলোজাইজ",
+                "date": "2023-12-11T16:39:08"
+            },
+            {
+                "_id": "6576e7a1420ad738550e32ea",
+                "word": "appear",
+                "translation": "প্রদর্শিত",
+                "pronunciation": "আপীয়ার",
+                "date": "2023-12-11T16:42:41"
+            },
+            {
+                "_id": "6576e835c9fafc8d4701e87b",
+                "word": "apply",
+                "translation": "আবেদন",
+                "pronunciation": "আ-প্লাই",
+                "date": "2023-12-11T16:45:06"
+            },
+            {
+                "_id": "6576e8c8c9fafc8d4701e87f",
+                "word": "approach",
+                "translation": "পন্থা",
+                "pronunciation": "এ-প্রো-চ",
+                "date": "2023-12-11T16:47:35"
+            },
+            {
+                "_id": "6576e973c9fafc8d4701e883",
+                "word": "approve",
+                "translation": "অনুমোদন",
+                "pronunciation": " অ্যা-প্রুভ",
+                "date": "2023-12-11T16:50:27"
+            },
+            {
+                "_id": "6576e9e8c9fafc8d4701e887",
+                "word": "argue",
+                "translation": "তর্ক করা",
+                "pronunciation": "আর্-গু",
+                "date": "2023-12-11T16:52:23"
+            },
+            {
+                "_id": "6576ea6fc9fafc8d4701e88b",
+                "word": "arrange",
+                "translation": "ব্যবস্থা করা",
+                "pronunciation": "অ্যারেন্জ",
+                "date": "2023-12-11T16:54:39"
+            },
+            {
+                "_id": "6576f625279562842fa81a76",
+                "word": "arrangement",
+                "translation": "ব্যবস্থা",
+                "pronunciation": "অ্যারেঞ্জমেন্ট",
+                "date": "2023-12-11T17:44:34"
+            },
+            {
+                "_id": "6576f6b4279562842fa81a7a",
+                "word": "arrest",
+                "translation": "গ্রেফতার",
+                "pronunciation": "অ্যারেস্ট",
+                "date": "2023-12-11T17:46:59"
+            },
+            {
+                "_id": "6576f9e19fea878625fe9193",
+                "word": "arrive",
+                "translation": "পৌঁছা",
+                "pronunciation": "অ্যার্া-ইভ্",
+                "date": "2023-12-11T18:00:30"
+            },
+            {
+                "_id": "6576fc5d9fea878625fe9197",
+                "word": "art",
+                "translation": "শিল্প",
+                "pronunciation": "আর্ট",
+                "date": "2023-12-11T18:11:08"
+            },
+            {
+                "_id": "6576fd3f9fea878625fe919b",
+                "word": "article",
+                "translation": "নিবন্ধ",
+                "pronunciation": "আর্টিকেল",
+                "date": "2023-12-11T18:14:55"
+            },
+            {
+                "_id": "6576fe9166b697b7de1e1506",
+                "word": "ask",
+                "translation": "জিজ্ঞাসা",
+                "pronunciation": "আস্‘ক",
+                "date": "2023-12-11T18:20:30"
+            },
+            {
+                "_id": "6577002466b697b7de1e150a",
+                "word": "agency",
+                "translation": "সংস্থা",
+                "pronunciation": "এজেন্সি",
+                "date": "2023-12-11T18:27:15"
+            },
+            {
+                "_id": "657700f566b697b7de1e150e",
+                "word": "ago",
+                "translation": "আগে",
+                "pronunciation": "অ্যাগো",
+                "date": "2023-12-11T18:30:44"
+            },
+            {
+                "_id": "657701bf66b697b7de1e1512",
+                "word": "agree",
+                "translation": "একমত",
+                "pronunciation": "অ্যাগরি",
+                "date": "2023-12-11T18:34:06"
+            },
+            {
+                "_id": "657702b766b697b7de1e1516",
+                "word": "air",
+                "translation": "বায়ু",
+                "pronunciation": "এয়ার",
+                "date": "2023-12-11T18:38:15"
+            },
+            {
+                "_id": "657703c266b697b7de1e151a",
+                "word": "air conditioning",
+                "translation": "এয়ার কন্ডিশনার",
+                "pronunciation": "এয়ার কন্ডিশনীং",
+                "date": "2023-12-11T18:42:41"
+            },
+            {
+                "_id": "6577049466b697b7de1e151e",
+                "word": "air force",
+                "translation": "বিমান বাহিনী ",
+                "pronunciation": "এয়ার ফোর্স ",
+                "date": "2023-12-11T18:46:10"
+            },
+            {
+                "_id": "65770f0f458353cfb9edd743",
+                "word": "airline",
+                "translation": "এয়ারলাইন",
+                "pronunciation": "এয়ারলাইন",
+                "date": "2023-12-11T19:30:51"
+            },
+            {
+                "_id": "65770fc8458353cfb9edd747",
+                "word": "airport",
+                "translation": "বিমানবন্দর",
+                "pronunciation": "এয়ারপোর্ট",
+                "date": "2023-12-11T19:34:00"
+            },
+            {
+                "_id": "65771071458353cfb9edd74b",
+                "word": "alarm",
+                "translation": "সতর্ক করা",
+                "pronunciation": "এলার্ম",
+                "date": "2023-12-11T19:36:48"
+            },
+            {
+                "_id": "65771199458353cfb9edd74f",
+                "word": "alarm clock",
+                "translation": "অ্যালার্মঘড়ি",
+                "pronunciation": "অ্যালার্মক্লক",
+                "date": "2023-12-11T19:41:45"
+            },
+            {
+                "_id": "65771205458353cfb9edd753",
+                "word": "album",
+                "translation": "অ্যালবাম",
+                "pronunciation": "অ্যালবাম",
+                "date": "2023-12-11T19:43:32"
+            },
+            {
+                "_id": "65771286458353cfb9edd757",
+                "word": "alike",
+                "translation": "একইভাবে",
+                "pronunciation": "এলাইক",
+                "date": "2023-12-11T19:45:42"
+            },
+            {
+                "_id": "65772808198b00b1b76558c0",
+                "word": "alive",
+                "translation": "জীবিত",
+                "pronunciation": "অ্যালাইভ",
+                "date": "2023-12-11T21:17:27"
+            },
+            {
+                "_id": "657728ce198b00b1b76558c4",
+                "word": "allow",
+                "translation": "অনুমতি",
+                "pronunciation": "অ্যালও",
+                "date": "2023-12-11T21:20:46"
+            },
+            {
+                "_id": "6577292b198b00b1b76558c8",
+                "word": "almost",
+                "translation": "প্রায়",
+                "pronunciation": "অলমোস্ট",
+                "date": "2023-12-11T21:22:18"
+            },
+            {
+                "_id": "65772975198b00b1b76558cc",
+                "word": "alone",
+                "translation": "একা",
+                "pronunciation": "অ্যাল্ন",
+                "date": "2023-12-11T21:23:33"
+            },
+            {
+                "_id": "657729f7198b00b1b76558d0",
+                "word": "along",
+                "translation": "বরাবর",
+                "pronunciation": "অ্যালং",
+                "date": "2023-12-11T21:25:43"
+            },
+            {
+                "_id": "65772ada198b00b1b76558d4",
+                "word": "aloud",
+                "translation": "সশব্দে",
+                "pronunciation": "অ্যালাউড",
+                "date": "2023-12-11T21:29:30"
+            },
+            {
+                "_id": "65772b84198b00b1b76558d8",
+                "word": "alphabet",
+                "translation": "বর্ণমালা",
+                "pronunciation": "আল‘ফাবেট",
+                "date": "2023-12-11T21:32:20"
+            },
+            {
+                "_id": "65772bdf198b00b1b76558dc",
+                "word": "already",
+                "translation": "ইতিমধ্যে",
+                "pronunciation": "অল‘রেডি",
+                "date": "2023-12-11T21:33:51"
+            },
+            {
+                "_id": "65772c3d198b00b1b76558e0",
+                "word": "also",
+                "translation": "এছাড়াও",
+                "pronunciation": "অ‘লস",
+                "date": "2023-12-11T21:35:25"
+            },
+            {
+                "_id": "65772d14198b00b1b76558e4",
+                "word": "although",
+                "translation": "যদিও",
+                "pronunciation": "অল‘দোও",
+                "date": "2023-12-11T21:39:00"
+            },
+            {
+                "_id": "65772ddf198b00b1b76558e8",
+                "word": "altogether",
+                "translation": "সব মিলিয়ে",
+                "pronunciation": "অল্টু‘গেদার",
+                "date": "2023-12-11T21:42:23"
+            },
+            {
+                "_id": "65772e59198b00b1b76558ec",
+                "word": "always",
+                "translation": "সর্বদা",
+                "pronunciation": "অল‘য়েজ্",
+                "date": "2023-12-11T21:44:25"
+            },
+            {
+                "_id": "65772edf198b00b1b76558f0",
+                "word": "amazed",
+                "translation": "বিস্মিত",
+                "pronunciation": "অ্যামে‘য়জ্ড",
+                "date": "2023-12-11T21:46:39"
+            },
+            {
+                "_id": "65772f46198b00b1b76558f4",
+                "word": "amazing",
+                "translation": "আশ্চর্যজনক",
+                "pronunciation": "অ্যামেই‘জিং",
+                "date": "2023-12-11T21:48:21"
+            },
+            {
+                "_id": "65772fee198b00b1b76558f8",
+                "word": "ambition",
+                "translation": "উচ্চাকাঙ্ক্ষা",
+                "pronunciation": "অ্যামবিশ্‘ন",
+                "date": "2023-12-11T21:51:09"
+            },
+            {
+                "_id": "6577305a198b00b1b76558fc",
+                "word": "ambulance",
+                "translation": "অ্যাম্বুলেন্স",
+                "pronunciation": "অ্যাম্বুলেন্স",
+                "date": "2023-12-11T21:52:58"
+            },
+            {
+                "_id": "6577309f198b00b1b7655900",
+                "word": "among",
+                "translation": "মধ্যে",
+                "pronunciation": "অ্যামং",
+                "date": "2023-12-11T21:54:06"
+            },
+            {
+                "_id": "657730e7198b00b1b7655904",
+                "word": "amount",
+                "translation": "পরিমাণ",
+                "pronunciation": "অ্যামাউন্ট",
+                "date": "2023-12-11T21:55:18"
+            },
+            {
+                "_id": "65773175198b00b1b7655908",
+                "word": "amusing",
+                "translation": "মজাদার",
+                "pronunciation": "অ্যামে‘যিং",
+                "date": "2023-12-11T21:57:41"
+            },
+            {
+                "_id": "657731c4198b00b1b765590c",
+                "word": "an",
+                "translation": "একটি",
+                "pronunciation": "অ্যান",
+                "date": "2023-12-11T21:59:00"
+            },
+            {
+                "_id": "65773239198b00b1b7655910",
+                "word": "ancient",
+                "translation": "প্রাচীন",
+                "pronunciation": "এনশিএন্ট",
+                "date": "2023-12-11T22:00:57"
+            },
+            {
+                "_id": "6577f29a5654dba1b7494566",
+                "word": "ablution",
+                "translation": "অযু",
+                "pronunciation": "আব্লুশন",
+                "date": "2023-12-12T11:41:45"
+            },
+            {
+                "_id": "6577f3105654dba1b749456a",
+                "word": "abomination",
+                "translation": "জঘন্য ",
+                "pronunciation": "আবমি‘নেইশন",
+                "date": "2023-12-12T11:43:43"
+            },
+            {
+                "_id": "6577f37e5654dba1b749456e",
+                "word": "above",
+                "translation": "উপরে",
+                "pronunciation": "আ‘বাভ",
+                "date": "2023-12-12T11:45:33"
+            },
+            {
+                "_id": "657872d4622b9f498e4b58c3",
+                "word": "about",
+                "translation": "সম্পর্কিত",
+                "pronunciation": "অ্যাবাউট",
+                "date": "2023-12-12T20:48:51"
+            },
+            {
+                "_id": "65787466622b9f498e4b58d3",
+                "word": "attention",
+                "translation": "মনোযোগ",
+                "pronunciation": "অ্যাঠেন্শন",
+                "date": "2023-12-12T20:55:33"
+            },
+            {
+                "_id": "657874c2622b9f498e4b58d7",
+                "word": "attend",
+                "translation": "উপস্থিত",
+                "pronunciation": "আঠেন্ড",
+                "date": "2023-12-12T20:57:05"
+            },
+            {
+                "_id": "65787550622b9f498e4b58db",
+                "word": "america",
+                "translation": "আমেরিকা",
+                "pronunciation": "আমেরিকা",
+                "date": "2023-12-12T20:59:27"
+            },
+            {
+                "_id": "65787599622b9f498e4b58df",
+                "word": "ability",
+                "translation": "ক্ষমতা",
+                "pronunciation": "অ্যাবিলিটি",
+                "date": "2023-12-12T21:00:41"
+            },
+            {
+                "_id": "6578760d622b9f498e4b58e3",
+                "word": "accounting ",
+                "translation": "হিসাববিজ্ঞান",
+                "pronunciation": "আ‘খাউন্টিং",
+                "date": "2023-12-12T21:02:36"
+            },
+            {
+                "_id": "65787651622b9f498e4b58e7",
+                "word": "aback",
+                "translation": "পেছন",
+                "pronunciation": "আব্যাক",
+                "date": "2023-12-12T21:03:44"
+            },
+            {
+                "_id": "6578769b622b9f498e4b58eb",
+                "word": "abhorrence",
+                "translation": "ঘৃণা",
+                "pronunciation": "অ্যাবরান্স",
+                "date": "2023-12-12T21:04:58"
+            },
+            {
+                "_id": "65788c2d50650fa7341f919f",
+                "word": "application",
+                "translation": "আবেদন",
+                "pronunciation": "অ্যাপ্লিখেশন",
+                "date": "2023-12-12T22:36:59"
+            },
+            {
+                "_id": "65789c028093e3e99db2543e",
+                "word": "army",
+                "translation": "সেনাবাহিনী",
+                "pronunciation": "আ:মি",
+                "date": "2023-12-12T23:44:33"
+            },
+            {
+                "_id": "65789c388093e3e99db25442",
+                "word": "arm",
+                "translation": "বাহু",
+                "pronunciation": "আ:ম",
+                "date": "2023-12-12T23:45:27"
+            },
+            {
+                "_id": "657931082e744385867c593a",
+                "word": "area",
+                "translation": "অঞ্চল",
+                "pronunciation": "অ্যাআরিয়া",
+                "date": "2023-12-13T10:20:23"
+            },
+            {
+                "_id": "657932632e744385867c5942",
+                "word": "arena",
+                "translation": "রঙ্গভূমি/গোলাকার স্থান",
+                "pronunciation": "আ‘রীনা",
+                "date": "2023-12-13T10:26:10"
+            },
+            {
+                "_id": "657940fe79ccf2088c5859b8",
+                "word": "audience",
+                "translation": "শ্রোতা",
+                "pronunciation": "ওডিয়েনস",
+                "date": "2023-12-13T11:28:28"
+            },
+            {
+                "_id": "657a889b9cc82efe52dcb8df",
+                "word": "abate",
+                "translation": "হ্রাস করা",
+                "pronunciation": "আ‘বেইট",
+                "date": "2023-12-14T10:46:19"
+            },
+            {
+                "_id": "657a89739cc82efe52dcb8e3",
+                "word": "able",
+                "translation": "সক্ষম",
+                "pronunciation": "এইবল",
+                "date": "2023-12-14T10:49:55"
+            },
+            {
+                "_id": "657aca31f4cae273ec861eab",
+                "word": "avow",
+                "translation": "শপথপূর্বক বলা",
+                "pronunciation": "আভাউ",
+                "date": "2023-12-14T15:26:09"
+            },
+            {
+                "_id": "657aedc370ab41c6f45747f7",
+                "word": "appearance",
+                "translation": "উপস্থিতি",
+                "pronunciation": "অ্যাফিয়ারেন্স",
+                "date": "2023-12-14T17:57:55"
+            },
+            {
+                "_id": "657af86770ab41c6f4574883",
+                "word": "adjure",
+                "translation": "শপথ করানো",
+                "pronunciation": "আ‘জুআ‘র",
+                "date": "2023-12-14T18:43:19"
+            },
+            {
+                "_id": "657b1e45d46128fc1edea27a",
+                "word": "account",
+                "translation": "হিসাব",
+                "pronunciation": "আখাউন্ট",
+                "date": "2023-12-14T21:24:52"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd16",
+        "letter": "b",
+        "words": [
+            {
+                "_id": "6575df1150b901bef60dc7e5",
+                "word": "bean",
+                "translation": "শিম",
+                "pronunciation": "বীন",
+                "date": "2023-12-10T21:53:48"
+            },
+            {
+                "_id": "6575e27167f95487282096c2",
+                "word": "beef",
+                "translation": "গরুর মাংস",
+                "pronunciation": "বীফ",
+                "date": "2023-12-10T22:08:13"
+            },
+            {
+                "_id": "65784f9c19f9f4923d24c41d",
+                "word": "bet",
+                "translation": "বাজি",
+                "pronunciation": "বেট",
+                "date": "2023-12-12T18:18:35"
+            },
+            {
+                "_id": "65788645015b13cbf60f0b01",
+                "word": "bank",
+                "translation": "ব্যাংক",
+                "pronunciation": "ব্যাংক",
+                "date": "2023-12-12T22:11:48"
+            },
+            {
+                "_id": "65788729015b13cbf60f0b05",
+                "word": "bat",
+                "translation": "বাদুড়",
+                "pronunciation": "ব্যাট",
+                "date": "2023-12-12T22:15:36"
+            },
+            {
+                "_id": "65788a8350650fa7341f9193",
+                "word": "bad",
+                "translation": "খারাপ",
+                "pronunciation": "ব্যাড",
+                "date": "2023-12-12T22:29:53"
+            },
+            {
+                "_id": "657895365c3aa55645abfe60",
+                "word": "barn",
+                "translation": "শস্যাগার",
+                "pronunciation": "বা:ন",
+                "date": "2023-12-12T23:15:33"
+            },
+            {
+                "_id": "65789b6b8093e3e99db25436",
+                "word": "blast",
+                "translation": "বিস্ফোরিত হওয়া",
+                "pronunciation": "ব্লা:সট",
+                "date": "2023-12-12T23:42:02"
+            },
+            {
+                "_id": "65789d358093e3e99db25446",
+                "word": "bill",
+                "translation": "বেতন",
+                "pronunciation": "বিল",
+                "date": "2023-12-12T23:49:40"
+            },
+            {
+                "_id": "65791f9f4c921141e38770b3",
+                "word": "bit",
+                "translation": "ক্ষুদ্র অংশ",
+                "pronunciation": "বিট",
+                "date": "2023-12-13T09:06:05"
+            },
+            {
+                "_id": "657921574c921141e38770c7",
+                "word": "bin",
+                "translation": "ময়ালার ঝুড়ি",
+                "pronunciation": "বিন",
+                "date": "2023-12-13T09:13:25"
+            },
+            {
+                "_id": "657923b2b1fa856c6679f931",
+                "word": "busy",
+                "translation": "ব্যস্ত",
+                "pronunciation": "বিজি",
+                "date": "2023-12-13T09:23:28"
+            },
+            {
+                "_id": "65792fbf2e744385867c592a",
+                "word": "beckon",
+                "translation": "সংকেত",
+                "pronunciation": "বীকন",
+                "date": "2023-12-13T10:14:53"
+            },
+            {
+                "_id": "65792ff32e744385867c592e",
+                "word": "bid",
+                "translation": "নিলাম",
+                "pronunciation": "বিড",
+                "date": "2023-12-13T10:15:44"
+            },
+            {
+                "_id": "657933492e744385867c594a",
+                "word": "breed",
+                "translation": "শাবক/ছানা",
+                "pronunciation": "ব্রীড",
+                "date": "2023-12-13T10:30:00"
+            },
+            {
+                "_id": "6579346b2e744385867c595a",
+                "word": "beagle",
+                "translation": "শিকারি কুকুর",
+                "pronunciation": "বীগল্",
+                "date": "2023-12-13T10:34:49"
+            },
+            {
+                "_id": "657934f62e744385867c5962",
+                "word": "beast",
+                "translation": "পশু, জন্তু",
+                "pronunciation": "বীষ্ট",
+                "date": "2023-12-13T10:37:09"
+            },
+            {
+                "_id": "6579355a2e744385867c5966",
+                "word": "beak",
+                "translation": "পাখির ঠোঁট",
+                "pronunciation": "বীক",
+                "date": "2023-12-13T10:38:49"
+            },
+            {
+                "_id": "657935c52e744385867c596a",
+                "word": "beach",
+                "translation": "বমুদ্রসৈকত",
+                "pronunciation": "বীচ",
+                "date": "2023-12-13T10:40:36"
+            },
+            {
+                "_id": "657935ff2e744385867c596e",
+                "word": "beat",
+                "translation": "প্রহার করা",
+                "pronunciation": "বীট",
+                "date": "2023-12-13T10:41:33"
+            },
+            {
+                "_id": "657938d4f198d8f00b9caeb8",
+                "word": "bossy",
+                "translation": "কর্তৃত্বপরায়ণ",
+                "pronunciation": "বসি",
+                "date": "2023-12-13T10:53:38"
+            },
+            {
+                "_id": "65793e1c79ccf2088c58598c",
+                "word": "because",
+                "translation": "কারণ",
+                "pronunciation": "বিখজ",
+                "date": "2023-12-13T11:16:11"
+            },
+            {
+                "_id": "65793ee579ccf2088c585998",
+                "word": "bald",
+                "translation": "টাক",
+                "pronunciation": "বোল্ড",
+                "date": "2023-12-13T11:19:32"
+            },
+            {
+                "_id": "6579413e79ccf2088c5859bc",
+                "word": "board",
+                "translation": "সমিতি",
+                "pronunciation": "বোড",
+                "date": "2023-12-13T11:29:33"
+            },
+            {
+                "_id": "6579450c0c4413d6d05a9fde",
+                "word": "boon",
+                "translation": "আশীর্বাদ",
+                "pronunciation": "বূন",
+                "date": "2023-12-13T11:45:46"
+            },
+            {
+                "_id": "657a83ed9cc82efe52dcb893",
+                "word": "bun",
+                "translation": "ঝুঁটি",
+                "pronunciation": "বান",
+                "date": "2023-12-14T10:26:21"
+            },
+            {
+                "_id": "657a87999cc82efe52dcb8cf",
+                "word": "bay",
+                "translation": "উপসাগর",
+                "pronunciation": "বেই",
+                "date": "2023-12-14T10:42:00"
+            },
+            {
+                "_id": "657a8d8f9cc82efe52dcb917",
+                "word": "brain",
+                "translation": "মস্তিস্ক",
+                "pronunciation": "ব্রেইন",
+                "date": "2023-12-14T11:07:27"
+            },
+            {
+                "_id": "657a8e7a9cc82efe52dcb927",
+                "word": "bail",
+                "translation": "জামিন দেওয়া",
+                "pronunciation": "বেইল",
+                "date": "2023-12-14T11:11:22"
+            },
+            {
+                "_id": "657a8eb09cc82efe52dcb92b",
+                "word": "break",
+                "translation": "ভাঙা",
+                "pronunciation": "ব্রেইক",
+                "date": "2023-12-14T11:12:16"
+            },
+            {
+                "_id": "657a90039cc82efe52dcb93f",
+                "word": "broke",
+                "translation": "ভাঙা",
+                "pronunciation": "ব্রৌক",
+                "date": "2023-12-14T11:17:55"
+            },
+            {
+                "_id": "657a91039cc82efe52dcb953",
+                "word": "bowl",
+                "translation": "বড় পাত্র",
+                "pronunciation": "বৌল",
+                "date": "2023-12-14T11:22:11"
+            },
+            {
+                "_id": "657a91739cc82efe52dcb95b",
+                "word": "bower",
+                "translation": "বাসা, আবাস",
+                "pronunciation": "বৌআ‘র",
+                "date": "2023-12-14T11:24:03"
+            },
+            {
+                "_id": "657a91cf9cc82efe52dcb95f",
+                "word": "bow",
+                "translation": "বশ্যতা স্বীকার করা",
+                "pronunciation": "বাউ",
+                "date": "2023-12-14T11:25:35"
+            },
+            {
+                "_id": "657abab8732aa0efa6eee5df",
+                "word": "bite",
+                "translation": "কামড় দেওয়া",
+                "pronunciation": "বাইট",
+                "date": "2023-12-14T14:20:07"
+            },
+            {
+                "_id": "657abf94f4cae273ec861e07",
+                "word": "bind",
+                "translation": "বাঁধাই করা",
+                "pronunciation": "বাইন্ড",
+                "date": "2023-12-14T14:40:51"
+            },
+            {
+                "_id": "657abfdcf4cae273ec861e0b",
+                "word": "bio-bank",
+                "translation": "বায়ো-ব্যাঙ্ক",
+                "pronunciation": "বাইয়ৌ ব্যাংক",
+                "date": "2023-12-14T14:42:04"
+            },
+            {
+                "_id": "657ac029f4cae273ec861e0f",
+                "word": "biology",
+                "translation": "জীববিদ্যা",
+                "pronunciation": "বাই‘অলাজি",
+                "date": "2023-12-14T14:43:20"
+            },
+            {
+                "_id": "657ac069f4cae273ec861e13",
+                "word": "biography",
+                "translation": "জীবনী",
+                "pronunciation": "বাই‘অগ্রাফি",
+                "date": "2023-12-14T14:44:24"
+            },
+            {
+                "_id": "657ac0fff4cae273ec861e1f",
+                "word": "bye",
+                "translation": "বিদায়",
+                "pronunciation": "বাই",
+                "date": "2023-12-14T14:46:54"
+            },
+            {
+                "_id": "657ac484f4cae273ec861e4b",
+                "word": "buy",
+                "translation": "কেনা/ক্রয় করা",
+                "pronunciation": "বাই",
+                "date": "2023-12-14T15:01:55"
+            },
+            {
+                "_id": "657ac6cbf4cae273ec861e77",
+                "word": "brown",
+                "translation": "বাদামি",
+                "pronunciation": "ব্রাউন",
+                "date": "2023-12-14T15:11:39"
+            },
+            {
+                "_id": "657ac750f4cae273ec861e7b",
+                "word": "bowel",
+                "translation": "নাড়িভুঁড়ি",
+                "pronunciation": "বাউআল্",
+                "date": "2023-12-14T15:13:51"
+            },
+            {
+                "_id": "657ac783f4cae273ec861e7f",
+                "word": "browser",
+                "translation": "ব্রাউজার",
+                "pronunciation": "ব্রাউজার",
+                "date": "2023-12-14T15:14:42"
+            },
+            {
+                "_id": "657adc7bf3fdcafffc3858c5",
+                "word": "boiled",
+                "translation": "সেদ্ধ",
+                "pronunciation": "বোইল্ড",
+                "date": "2023-12-14T16:44:07"
+            },
+            {
+                "_id": "657addb5f3fdcafffc3858dd",
+                "word": "boy",
+                "translation": "ছেলে",
+                "pronunciation": "বোই",
+                "date": "2023-12-14T16:49:24"
+            },
+            {
+                "_id": "657ade40f3fdcafffc3858e5",
+                "word": "boycott",
+                "translation": "বর্জন",
+                "pronunciation": "বোইখট",
+                "date": "2023-12-14T16:51:42"
+            },
+            {
+                "_id": "657ade6af3fdcafffc3858e9",
+                "word": "boyish",
+                "translation": "বালকসুলভ",
+                "pronunciation": "বোইশ",
+                "date": "2023-12-14T16:52:25"
+            },
+            {
+                "_id": "657adec7f3fdcafffc3858ed",
+                "word": "boyhood",
+                "translation": "শৈশব",
+                "pronunciation": "বোইহুড",
+                "date": "2023-12-14T16:53:58"
+            },
+            {
+                "_id": "657aecb370ab41c6f45747e3",
+                "word": "beer",
+                "translation": "বিয়ার/একপ্রকার সুরা",
+                "pronunciation": "বিয়া‘র",
+                "date": "2023-12-14T17:53:22"
+            },
+            {
+                "_id": "657aed8270ab41c6f45747f3",
+                "word": "beard",
+                "translation": "দাড়ি",
+                "pronunciation": "বিয়াড্",
+                "date": "2023-12-14T17:56:49"
+            },
+            {
+                "_id": "657aef0670ab41c6f4574807",
+                "word": "bear",
+                "translation": "ভালুক",
+                "pronunciation": "ব্যায়া‘রে",
+                "date": "2023-12-14T18:03:17"
+            },
+            {
+                "_id": "657af38c70ab41c6f457483b",
+                "word": "bare",
+                "translation": "খালি, শূন্য",
+                "pronunciation": "বেয়ার",
+                "date": "2023-12-14T18:22:35"
+            },
+            {
+                "_id": "657af43b70ab41c6f457483f",
+                "word": "bare-foot",
+                "translation": "খালি পায়ে",
+                "pronunciation": "ব্যায়া ফুট",
+                "date": "2023-12-14T18:25:30"
+            },
+            {
+                "_id": "657af83170ab41c6f457487f",
+                "word": "bourgeois",
+                "translation": "বুর্জোয়া",
+                "pronunciation": "বুঝওয়া",
+                "date": "2023-12-14T18:42:25"
+            },
+            {
+                "_id": "657b25cad3b2ed44a934245c",
+                "word": "borrow",
+                "translation": "ধার করা",
+                "pronunciation": "বরৌ",
+                "date": "2023-12-14T21:56:56"
+            },
+            {
+                "_id": "657b31ebeca83c9fb264551d",
+                "word": "bring",
+                "translation": "আনা",
+                "pronunciation": "ব্রিং",
+                "date": "2023-12-14T22:48:42"
+            },
+            {
+                "_id": "657b335aeca83c9fb2645535",
+                "word": "behave",
+                "translation": "আচরণ",
+                "pronunciation": "বিহেইভ্",
+                "date": "2023-12-14T22:54:49"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd17",
+        "letter": "c",
+        "words": [
+            {
+                "_id": "6575ec87a5585a103a257ee5",
+                "word": "create",
+                "translation": "তৈরি করা / সৃষ্টি ",
+                "pronunciation": "খ্রী’এইট",
+                "date": "2023-12-10T22:51:12"
+            },
+            {
+                "_id": "6577f59f5654dba1b749457e",
+                "word": "circuit",
+                "translation": "সার্কিট, বর্তনী",
+                "pronunciation": "সার্কিট",
+                "date": "2023-12-12T11:54:38"
+            },
+            {
+                "_id": "65784f4419f9f4923d24c419",
+                "word": "cent ",
+                "translation": "শতাংশ",
+                "pronunciation": "সেন্ট",
+                "date": "2023-12-12T18:17:07"
+            },
+            {
+                "_id": "657863d40ad9fcd073551ac9",
+                "word": "could",
+                "translation": "পারা",
+                "pronunciation": "খূড",
+                "date": "2023-12-12T19:44:51"
+            },
+            {
+                "_id": "65787373622b9f498e4b58c7",
+                "word": "complain",
+                "translation": "অভিযোগ",
+                "pronunciation": "কমফ্লেইন",
+                "date": "2023-12-12T20:51:30"
+            },
+            {
+                "_id": "6578741a622b9f498e4b58cf",
+                "word": "camera",
+                "translation": "ক্যামেরা",
+                "pronunciation": "খ্যামরা",
+                "date": "2023-12-12T20:54:18"
+            },
+            {
+                "_id": "6578856f015b13cbf60f0af5",
+                "word": "crash",
+                "translation": "সংঘর্ষ ঘটা",
+                "pronunciation": "ক্র্যাশ",
+                "date": "2023-12-12T22:08:14"
+            },
+            {
+                "_id": "65788607015b13cbf60f0afd",
+                "word": "carry",
+                "translation": "বহন",
+                "pronunciation": "খ্যারি",
+                "date": "2023-12-12T22:10:46"
+            },
+            {
+                "_id": "657887f3015b13cbf60f0b0d",
+                "word": "cat",
+                "translation": "বিড়াল",
+                "pronunciation": "খ্যাট",
+                "date": "2023-12-12T22:18:57"
+            },
+            {
+                "_id": "657894e85c3aa55645abfe5c",
+                "word": "cast",
+                "translation": "নিক্ষেপ",
+                "pronunciation": "খা:স্ট্",
+                "date": "2023-12-12T23:14:15"
+            },
+            {
+                "_id": "657896ae8093e3e99db253fa",
+                "word": "cart",
+                "translation": "দুই চাকাওয়ালা গাড়ি",
+                "pronunciation": "খা:ট",
+                "date": "2023-12-12T23:21:46"
+            },
+            {
+                "_id": "657897028093e3e99db253fe",
+                "word": "cartoon",
+                "translation": "ব্যঙ্গচিত্র",
+                "pronunciation": "কার্টুন",
+                "date": "2023-12-12T23:23:13"
+            },
+            {
+                "_id": "657897448093e3e99db25402",
+                "word": "came",
+                "translation": "এসেছে",
+                "pronunciation": "খেইম",
+                "date": "2023-12-12T23:24:19"
+            },
+            {
+                "_id": "657897a48093e3e99db25406",
+                "word": "can`t",
+                "translation": "পারে না",
+                "pronunciation": "খা:নট",
+                "date": "2023-12-12T23:25:55"
+            },
+            {
+                "_id": "657933892e744385867c594e",
+                "word": "cease",
+                "translation": "বিরতি",
+                "pronunciation": "সীজ ",
+                "date": "2023-12-13T10:31:04"
+            },
+            {
+                "_id": "6579342d2e744385867c5956",
+                "word": "cedar",
+                "translation": "একপ্রকার গাছ",
+                "pronunciation": "সীডা‘র",
+                "date": "2023-12-13T10:33:47"
+            },
+            {
+                "_id": "657934b62e744385867c595e",
+                "word": "ceiling",
+                "translation": "ঘরের ছাদের নিচের অংশ",
+                "pronunciation": "সীলিং",
+                "date": "2023-12-13T10:36:05"
+            },
+            {
+                "_id": "657937fbf198d8f00b9caeb0",
+                "word": "cost",
+                "translation": "ব্যয়, খরচ",
+                "pronunciation": "খস্ট",
+                "date": "2023-12-13T10:50:01"
+            },
+            {
+                "_id": "657939d7f198d8f00b9caec8",
+                "word": "cot",
+                "translation": "খাট",
+                "pronunciation": "খট",
+                "date": "2023-12-13T10:57:58"
+            },
+            {
+                "_id": "6579404579ccf2088c5859ac",
+                "word": "course",
+                "translation": "বিষয়",
+                "pronunciation": "খোস্",
+                "date": "2023-12-13T11:25:23"
+            },
+            {
+                "_id": "657940bb79ccf2088c5859b4",
+                "word": "caught",
+                "translation": "ধরা",
+                "pronunciation": "খোট",
+                "date": "2023-12-13T11:27:22"
+            },
+            {
+                "_id": "657941ee79ccf2088c5859c8",
+                "word": "cook",
+                "translation": "রান্না করা",
+                "pronunciation": "খুক",
+                "date": "2023-12-13T11:32:28"
+            },
+            {
+                "_id": "657a862e9cc82efe52dcb8b3",
+                "word": "couple",
+                "translation": "যুগল, দম্পতি",
+                "pronunciation": "খাপল্",
+                "date": "2023-12-14T10:35:58"
+            },
+            {
+                "_id": "657a8a059cc82efe52dcb8eb",
+                "word": "clay",
+                "translation": "কাদামাটি",
+                "pronunciation": "খে্‘লই",
+                "date": "2023-12-14T10:52:21"
+            },
+            {
+                "_id": "657a8d4d9cc82efe52dcb913",
+                "word": "crane",
+                "translation": "সারস পাখি",
+                "pronunciation": "খ্রেইন",
+                "date": "2023-12-14T11:06:21"
+            },
+            {
+                "_id": "657a8e469cc82efe52dcb923",
+                "word": "cane",
+                "translation": "বেত",
+                "pronunciation": "খেইন",
+                "date": "2023-12-14T11:10:30"
+            },
+            {
+                "_id": "657a92259cc82efe52dcb963",
+                "word": "covert",
+                "translation": "গুপ্ত",
+                "pronunciation": "খৌভাট",
+                "date": "2023-12-14T11:27:01"
+            },
+            {
+                "_id": "657abed8f4cae273ec861dfb",
+                "word": "cycle",
+                "translation": "চক্রাকার",
+                "pronunciation": "সাইকল্",
+                "date": "2023-12-14T14:37:40"
+            },
+            {
+                "_id": "657ac292f4cae273ec861e37",
+                "word": "cry",
+                "translation": "কান্না করা",
+                "pronunciation": "খ্রাই",
+                "date": "2023-12-14T14:53:38"
+            },
+            {
+                "_id": "657ac7f6f4cae273ec861e87",
+                "word": "cow",
+                "translation": "গরু",
+                "pronunciation": "খাউ",
+                "date": "2023-12-14T15:16:37"
+            },
+            {
+                "_id": "657ac82df4cae273ec861e8b",
+                "word": "coward",
+                "translation": "কাপুরুষ",
+                "pronunciation": "খাউআড",
+                "date": "2023-12-14T15:17:32"
+            },
+            {
+                "_id": "657add69f3fdcafffc3858d5",
+                "word": "coin",
+                "translation": "মুদ্রা",
+                "pronunciation": "খোইন",
+                "date": "2023-12-14T16:48:07"
+            },
+            {
+                "_id": "657adee7f3fdcafffc3858f1",
+                "word": "choice",
+                "translation": "পছন্দ",
+                "pronunciation": "চোইছ",
+                "date": "2023-12-14T16:54:29"
+            },
+            {
+                "_id": "657af36570ab41c6f4574837",
+                "word": "careful",
+                "translation": "সতর্ক/সাবধান",
+                "pronunciation": "খ্যায়াফুল",
+                "date": "2023-12-14T18:21:56"
+            },
+            {
+                "_id": "657af8be70ab41c6f4574887",
+                "word": "cure",
+                "translation": "আরোগ্য",
+                "pronunciation": "খউআ‘র",
+                "date": "2023-12-14T18:44:45"
+            },
+            {
+                "_id": "657b081cbd202232c94ea181",
+                "word": "crab",
+                "translation": "কাঁকড়া",
+                "pronunciation": "খ্র্যান",
+                "date": "2023-12-14T19:50:18"
+            },
+            {
+                "_id": "657b0a75bd202232c94ea191",
+                "word": "court",
+                "translation": "আদালত",
+                "pronunciation": "খোট",
+                "date": "2023-12-14T20:00:19"
+            },
+            {
+                "_id": "657b1d7ad46128fc1edea26e",
+                "word": "chemist",
+                "translation": "রসায়নবিদ",
+                "pronunciation": "খেমিষ্ট",
+                "date": "2023-12-14T21:21:29"
+            },
+            {
+                "_id": "657b2130d3b2ed44a934240c",
+                "word": "change",
+                "translation": "পরিবর্তন",
+                "pronunciation": "চেইন্জ",
+                "date": "2023-12-14T21:37:16"
+            },
+            {
+                "_id": "657b215dd3b2ed44a9342410",
+                "word": "cheat",
+                "translation": "প্রতারণা",
+                "pronunciation": "চীট",
+                "date": "2023-12-14T21:38:04"
+            },
+            {
+                "_id": "657b25fbd3b2ed44a9342460",
+                "word": "carriage",
+                "translation": "পরিবহন",
+                "pronunciation": "খ্যারিজ",
+                "date": "2023-12-14T21:57:46"
+            },
+            {
+                "_id": "657b2cb6eca83c9fb26454e1",
+                "word": "charming",
+                "translation": "মনোমুগ্ধকর",
+                "pronunciation": "চা:মিং",
+                "date": "2023-12-14T22:26:29"
+            },
+            {
+                "_id": "657b2e51eca83c9fb26454fd",
+                "word": "chimney",
+                "translation": "চিমনি",
+                "pronunciation": "চিমনি",
+                "date": "2023-12-14T22:33:20"
+            },
+            {
+                "_id": "657b30d5eca83c9fb2645511",
+                "word": "cooking",
+                "translation": "রান্না",
+                "pronunciation": "খুকিং",
+                "date": "2023-12-14T22:44:03"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd18",
+        "letter": "d",
+        "words": [
+            {
+                "_id": "6575e0c5999da085c2be73e5",
+                "word": "dish",
+                "translation": "থালা",
+                "pronunciation": "ডিশ",
+                "date": "2023-12-10T22:01:05"
+            },
+            {
+                "_id": "6577f5355654dba1b749457a",
+                "word": "dirty",
+                "translation": "নোংরা",
+                "pronunciation": "ডারটি",
+                "date": "2023-12-12T11:52:53"
+            },
+            {
+                "_id": "6578611c0ad9fcd073551aa5",
+                "word": "do",
+                "translation": "করা",
+                "pronunciation": "ডূ",
+                "date": "2023-12-12T19:33:15"
+            },
+            {
+                "_id": "657861750ad9fcd073551aa9",
+                "word": "doing",
+                "translation": "করা",
+                "pronunciation": "ডূইং",
+                "date": "2023-12-12T19:34:44"
+            },
+            {
+                "_id": "657888cd015b13cbf60f0b19",
+                "word": "dad",
+                "translation": "বাবা",
+                "pronunciation": "ড্যাড",
+                "date": "2023-12-12T22:22:36"
+            },
+            {
+                "_id": "657894415c3aa55645abfe58",
+                "word": "drama",
+                "translation": "নাটক",
+                "pronunciation": "ড্রা:মা",
+                "date": "2023-12-12T23:11:27"
+            },
+            {
+                "_id": "657898108093e3e99db2540a",
+                "word": "dark",
+                "translation": "অন্ধকার",
+                "pronunciation": "ডা:র্ক",
+                "date": "2023-12-12T23:27:43"
+            },
+            {
+                "_id": "6578986a8093e3e99db2540e",
+                "word": "dancer",
+                "translation": "নৃত্যশিল্পী",
+                "pronunciation": "ডা:নসার",
+                "date": "2023-12-12T23:29:13"
+            },
+            {
+                "_id": "657898e48093e3e99db25412",
+                "word": "dart",
+                "translation": "তীর",
+                "pronunciation": "ডা:ট",
+                "date": "2023-12-12T23:31:15"
+            },
+            {
+                "_id": "65792407b1fa856c6679f935",
+                "word": "decide",
+                "translation": "সিদ্ধান্ত",
+                "pronunciation": "ডি‘সাইড",
+                "date": "2023-12-13T09:24:53"
+            },
+            {
+                "_id": "65792f412e744385867c5922",
+                "word": "demon",
+                "translation": "দৈত্য, দানব",
+                "pronunciation": "ডীমন",
+                "date": "2023-12-13T10:12:48"
+            },
+            {
+                "_id": "657930272e744385867c5932",
+                "word": "deal",
+                "translation": "চুক্তি",
+                "pronunciation": "ডীল",
+                "date": "2023-12-13T10:16:38"
+            },
+            {
+                "_id": "657933c62e744385867c5952",
+                "word": "deep",
+                "translation": "গভীর",
+                "pronunciation": "ডীপ",
+                "date": "2023-12-13T10:32:04"
+            },
+            {
+                "_id": "65793a0579ccf2088c585950",
+                "word": "dot",
+                "translation": "বিন্দু",
+                "pronunciation": "ডট",
+                "date": "2023-12-13T10:58:43"
+            },
+            {
+                "_id": "65793fb079ccf2088c5859a4",
+                "word": "draw",
+                "translation": "আঁকা",
+                "pronunciation": "ড্রো",
+                "date": "2023-12-13T11:22:55"
+            },
+            {
+                "_id": "657a7069cd15e6f68c22d579",
+                "word": "duck",
+                "translation": "হাঁস",
+                "pronunciation": "ডাক",
+                "date": "2023-12-14T09:03:04"
+            },
+            {
+                "_id": "657a776fb80654a821849147",
+                "word": "done",
+                "translation": "সমাপ্ত",
+                "pronunciation": "ডান",
+                "date": "2023-12-14T09:32:59"
+            },
+            {
+                "_id": "657a87c49cc82efe52dcb8d3",
+                "word": "day",
+                "translation": "দিন",
+                "pronunciation": "ডেই",
+                "date": "2023-12-14T10:42:44"
+            },
+            {
+                "_id": "657a88279cc82efe52dcb8db",
+                "word": "dale",
+                "translation": "উপত্যকা",
+                "pronunciation": "ডেইল",
+                "date": "2023-12-14T10:44:23"
+            },
+            {
+                "_id": "657a8ab19cc82efe52dcb8f3",
+                "word": "date",
+                "translation": "তারিখ",
+                "pronunciation": "ডেইট",
+                "date": "2023-12-14T10:55:13"
+            },
+            {
+                "_id": "657a8de09cc82efe52dcb91b",
+                "word": "drain",
+                "translation": "নর্দমা",
+                "pronunciation": "ড্রেইন",
+                "date": "2023-12-14T11:08:48"
+            },
+            {
+                "_id": "657a925f9cc82efe52dcb967",
+                "word": "donate",
+                "translation": "দান করা",
+                "pronunciation": "ডৌ‘নেইট",
+                "date": "2023-12-14T11:27:59"
+            },
+            {
+                "_id": "657a928f9cc82efe52dcb96b",
+                "word": "dole",
+                "translation": "বেদনা",
+                "pronunciation": "ডৌল",
+                "date": "2023-12-14T11:28:47"
+            },
+            {
+                "_id": "657ac0c9f4cae273ec861e1b",
+                "word": "die",
+                "translation": "মারা যাওয়া",
+                "pronunciation": "ডাই",
+                "date": "2023-12-14T14:46:01"
+            },
+            {
+                "_id": "657ac91af4cae273ec861e97",
+                "word": "down",
+                "translation": "নিচে",
+                "pronunciation": "ডাউন",
+                "date": "2023-12-14T15:21:29"
+            },
+            {
+                "_id": "657ac94ff4cae273ec861e9b",
+                "word": "download",
+                "translation": "ডাউনলোড ",
+                "pronunciation": "ডাউনলোড ",
+                "date": "2023-12-14T15:22:22"
+            },
+            {
+                "_id": "657ac999f4cae273ec861e9f",
+                "word": "downwards",
+                "translation": "নিচের দিকে",
+                "pronunciation": "ডাউন ওয়াডজ",
+                "date": "2023-12-14T15:23:37"
+            },
+            {
+                "_id": "657ae028f3fdcafffc385901",
+                "word": "decoy",
+                "translation": "ফাঁদ/টোপ",
+                "pronunciation": "ডীখোই",
+                "date": "2023-12-14T16:59:50"
+            },
+            {
+                "_id": "657ae051f3fdcafffc385905",
+                "word": "destroy",
+                "translation": "ধ্বংস করা",
+                "pronunciation": "ডিসট্রোই",
+                "date": "2023-12-14T17:00:32"
+            },
+            {
+                "_id": "657aef3070ab41c6f457480b",
+                "word": "dear",
+                "translation": "প্রিয়",
+                "pronunciation": "ডিয়া‘র",
+                "date": "2023-12-14T18:04:00"
+            },
+            {
+                "_id": "657af4b970ab41c6f4574847",
+                "word": "dare",
+                "translation": "সাহস",
+                "pronunciation": "ড্যাআ‘র",
+                "date": "2023-12-14T18:27:36"
+            },
+            {
+                "_id": "657b09b4bd202232c94ea18d",
+                "word": "dubbed",
+                "translation": "খেতাব/অনুদিত",
+                "pronunciation": "ডাব্ড",
+                "date": "2023-12-14T19:57:06"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd19",
+        "letter": "e",
+        "words": [
+            {
+                "_id": "657a85979cc82efe52dcb8ab",
+                "word": "enough",
+                "translation": "যথেষ্ট",
+                "pronunciation": "ই‘নাফ",
+                "date": "2023-12-14T10:33:27"
+            },
+            {
+                "_id": "657a899b9cc82efe52dcb8e7",
+                "word": "eight",
+                "translation": "আট",
+                "pronunciation": "এইট",
+                "date": "2023-12-14T10:50:35"
+            },
+            {
+                "_id": "657a95919cc82efe52dcb99f",
+                "word": "elbow",
+                "translation": "কনুই",
+                "pronunciation": "এল বৌ",
+                "date": "2023-12-14T11:41:37"
+            },
+            {
+                "_id": "657ac4b3f4cae273ec861e4f",
+                "word": "eyes",
+                "translation": "চোখ",
+                "pronunciation": "আইজ",
+                "date": "2023-12-14T15:02:43"
+            },
+            {
+                "_id": "657add1cf3fdcafffc3858d1",
+                "word": "employer",
+                "translation": "নিয়োগকর্তা",
+                "pronunciation": "ইম‘ফ্লোইআ‘র",
+                "date": "2023-12-14T16:46:51"
+            },
+            {
+                "_id": "657add96f3fdcafffc3858d9",
+                "word": "enjoy",
+                "translation": "উপভোগ করুন",
+                "pronunciation": "ইনজোই",
+                "date": "2023-12-14T16:48:52"
+            },
+            {
+                "_id": "657aed2070ab41c6f45747eb",
+                "word": "engineer",
+                "translation": "প্রকৌশলী",
+                "pronunciation": "এনজিনীয়া‘র",
+                "date": "2023-12-14T17:55:11"
+            },
+            {
+                "_id": "657af68970ab41c6f457485f",
+                "word": "euro",
+                "translation": "ইউরো",
+                "pronunciation": "ইউআরৌ",
+                "date": "2023-12-14T18:35:20"
+            },
+            {
+                "_id": "657af90270ab41c6f457488b",
+                "word": "endure",
+                "translation": "সহ্য করা",
+                "pronunciation": "ইন‘জুআ‘র",
+                "date": "2023-12-14T18:45:53"
+            },
+            {
+                "_id": "657b051fbd202232c94ea155",
+                "word": "endurable",
+                "translation": "সহনীয়",
+                "pronunciation": "ইনডিউরাবল",
+                "date": "2023-12-14T19:37:33"
+            },
+            {
+                "_id": "657b058cbd202232c94ea159",
+                "word": "enduring",
+                "translation": "স্থায়ী",
+                "pronunciation": "ইন‘ডিউরিং",
+                "date": "2023-12-14T19:39:22"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd1a",
+        "letter": "f",
+        "words": [
+            {
+                "_id": "6578530c19f9f4923d24c44d",
+                "word": "friendly",
+                "translation": "বন্ধুভাবাপন্ন",
+                "pronunciation": "ফ্রেন্ডলি",
+                "date": "2023-12-12T18:33:16"
+            },
+            {
+                "_id": "657864dc0ad9fcd073551ad9",
+                "word": "food",
+                "translation": "খাদ্য",
+                "pronunciation": "ফূড",
+                "date": "2023-12-12T19:49:15"
+            },
+            {
+                "_id": "657865d60ad9fcd073551ae1",
+                "word": "few",
+                "translation": "কিছু",
+                "pronunciation": "ফিউ",
+                "date": "2023-12-12T19:53:25"
+            },
+            {
+                "_id": "65786c5d982add6f03b5c239",
+                "word": "flew",
+                "translation": "পলায়ন করা",
+                "pronunciation": "ফৃলেও",
+                "date": "2023-12-12T20:21:13"
+            },
+            {
+                "_id": "657889cb015b13cbf60f0b1d",
+                "word": "fat",
+                "translation": "চর্বি",
+                "pronunciation": "ফ্যাট",
+                "date": "2023-12-12T22:26:50"
+            },
+            {
+                "_id": "657895fc5c3aa55645abfe64",
+                "word": "farm",
+                "translation": "খামার",
+                "pronunciation": "ফা:ম",
+                "date": "2023-12-12T23:18:51"
+            },
+            {
+                "_id": "65789ad48093e3e99db2542e",
+                "word": "fast",
+                "translation": "দ্রুত",
+                "pronunciation": "ফা:স্ট",
+                "date": "2023-12-12T23:39:31"
+            },
+            {
+                "_id": "65789bab8093e3e99db2543a",
+                "word": "far",
+                "translation": "দূরে",
+                "pronunciation": "ফা:র",
+                "date": "2023-12-12T23:43:06"
+            },
+            {
+                "_id": "65789de98093e3e99db2544e",
+                "word": "fit",
+                "translation": "সঠিক, ঠিক",
+                "pronunciation": "ফিট",
+                "date": "2023-12-12T23:52:41"
+            },
+            {
+                "_id": "6579219b4c921141e38770cb",
+                "word": "finger",
+                "translation": "আঙুল",
+                "pronunciation": "ফিংগা‘র",
+                "date": "2023-12-13T09:14:33"
+            },
+            {
+                "_id": "657921f5fc812760997a4796",
+                "word": "finish",
+                "translation": "শেষ করা",
+                "pronunciation": "ফিনিশ",
+                "date": "2023-12-13T09:16:04"
+            },
+            {
+                "_id": "65793e9b79ccf2088c585994",
+                "word": "floor",
+                "translation": "মেঝে",
+                "pronunciation": "ফ্লো‘র",
+                "date": "2023-12-13T11:18:18"
+            },
+            {
+                "_id": "6579418679ccf2088c5859c0",
+                "word": "full",
+                "translation": "পরিপূর্ণ",
+                "pronunciation": "ফুল",
+                "date": "2023-12-13T11:30:45"
+            },
+            {
+                "_id": "657943fbb318184ab2bb9f08",
+                "word": "foot",
+                "translation": "পায়ের পাতা",
+                "pronunciation": "ফূট",
+                "date": "2023-12-13T11:41:10"
+            },
+            {
+                "_id": "657a77a3b80654a82184914b",
+                "word": "fun",
+                "translation": "মজা করা",
+                "pronunciation": "ফান",
+                "date": "2023-12-14T09:33:54"
+            },
+            {
+                "_id": "657a86d59cc82efe52dcb8bf",
+                "word": "fail",
+                "translation": "ব্যর্থ হওয়া",
+                "pronunciation": "ফেইল",
+                "date": "2023-12-14T10:38:45"
+            },
+            {
+                "_id": "657a90669cc82efe52dcb947",
+                "word": "frozen",
+                "translation": "হিমায়িত",
+                "pronunciation": "ফ্রৌজন্",
+                "date": "2023-12-14T11:19:34"
+            },
+            {
+                "_id": "657a94399cc82efe52dcb987",
+                "word": "flow",
+                "translation": "প্রবাহ, বহা",
+                "pronunciation": "ফ্লৌ",
+                "date": "2023-12-14T11:35:53"
+            },
+            {
+                "_id": "657abf21f4cae273ec861dff",
+                "word": "flight",
+                "translation": "উড্ডয়ন",
+                "pronunciation": "ফ্লাইট",
+                "date": "2023-12-14T14:38:57"
+            },
+            {
+                "_id": "657ac2daf4cae273ec861e3b",
+                "word": "fry",
+                "translation": "ভাজা",
+                "pronunciation": "ফ্রাই",
+                "date": "2023-12-14T14:54:50"
+            },
+            {
+                "_id": "657ac9c4f4cae273ec861ea3",
+                "word": "fowl",
+                "translation": "পাখির মাংস",
+                "pronunciation": "ফাউল",
+                "date": "2023-12-14T15:24:19"
+            },
+            {
+                "_id": "657aef5d70ab41c6f457480f",
+                "word": "fear",
+                "translation": "ভয়",
+                "pronunciation": "ফিআ‘র",
+                "date": "2023-12-14T18:04:44"
+            },
+            {
+                "_id": "657af2bf70ab41c6f457482b",
+                "word": "fair",
+                "translation": "পরিস্কার",
+                "pronunciation": "ফ্যাআ‘র",
+                "date": "2023-12-14T18:19:11"
+            },
+            {
+                "_id": "657af6c170ab41c6f4574863",
+                "word": "furious",
+                "translation": "অগ্নিশর্মা",
+                "pronunciation": "ফিউআরিয়্ছ",
+                "date": "2023-12-14T18:36:17"
+            },
+            {
+                "_id": "657b220ed3b2ed44a934241c",
+                "word": "future",
+                "translation": "ভবিষ্যৎ",
+                "pronunciation": "ফিউচা‘র",
+                "date": "2023-12-14T21:41:01"
+            },
+            {
+                "_id": "657b22ffd3b2ed44a9342428",
+                "word": "fridge",
+                "translation": "ফ্রিজ",
+                "pronunciation": "ফ্রিজ",
+                "date": "2023-12-14T21:45:02"
+            },
+            {
+                "_id": "657b2594d3b2ed44a9342458",
+                "word": "fried",
+                "translation": "ভাজা",
+                "pronunciation": "ফ্রাইড",
+                "date": "2023-12-14T21:56:02"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd1b",
+        "letter": "g",
+        "words": [
+            {
+                "_id": "6575e3aa67f95487282096c6",
+                "word": "give",
+                "translation": "দেওয়া",
+                "pronunciation": "গীভ্",
+                "date": "2023-12-10T22:13:26"
+            },
+            {
+                "_id": "6578503f19f9f4923d24c429",
+                "word": "get",
+                "translation": "পাওয়া",
+                "pronunciation": "গেট",
+                "date": "2023-12-12T18:21:18"
+            },
+            {
+                "_id": "657855bd19f9f4923d24c461",
+                "word": "goon",
+                "translation": "গুন্ডা",
+                "pronunciation": "গূণ",
+                "date": "2023-12-12T18:44:44"
+            },
+            {
+                "_id": "657862bb0ad9fcd073551ab9",
+                "word": "groom",
+                "translation": "বর",
+                "pronunciation": "গ্রুম",
+                "date": "2023-12-12T19:40:10"
+            },
+            {
+                "_id": "65788c8650650fa7341f91a3",
+                "word": "glad",
+                "translation": "আনন্দিত",
+                "pronunciation": "গ্ল্যাড",
+                "date": "2023-12-12T22:38:29"
+            },
+            {
+                "_id": "65788d4f50650fa7341f91ab",
+                "word": "garden",
+                "translation": "বাগান",
+                "pronunciation": "গা:ডেন",
+                "date": "2023-12-12T22:41:50"
+            },
+            {
+                "_id": "6578991f8093e3e99db25416",
+                "word": "guitar",
+                "translation": "গিটার",
+                "pronunciation": "গিটার",
+                "date": "2023-12-12T23:32:14"
+            },
+            {
+                "_id": "65793a3579ccf2088c585954",
+                "word": "got",
+                "translation": "পাওয়া",
+                "pronunciation": "গট",
+                "date": "2023-12-13T10:59:31"
+            },
+            {
+                "_id": "65793a35f198d8f00b9caecc",
+                "word": "got",
+                "translation": "পাওয়া",
+                "pronunciation": "গট",
+                "date": "2023-12-13T10:59:32"
+            },
+            {
+                "_id": "6579447a0c4413d6d05a9fd6",
+                "word": "good",
+                "translation": "ভালো",
+                "pronunciation": "গুড",
+                "date": "2023-12-13T11:43:20"
+            },
+            {
+                "_id": "657a77e2b80654a82184914f",
+                "word": "gun",
+                "translation": "বন্দুক",
+                "pronunciation": "গান",
+                "date": "2023-12-14T09:34:57"
+            },
+            {
+                "_id": "657a86969cc82efe52dcb8bb",
+                "word": "gate",
+                "translation": "দরজা",
+                "pronunciation": "গেইট",
+                "date": "2023-12-14T10:37:42"
+            },
+            {
+                "_id": "657a8a7c9cc82efe52dcb8ef",
+                "word": "grey",
+                "translation": "ধূসর",
+                "pronunciation": "গ্রেই",
+                "date": "2023-12-14T10:54:20"
+            },
+            {
+                "_id": "657a8b509cc82efe52dcb8ff",
+                "word": "game",
+                "translation": "খেলা",
+                "pronunciation": "গেইম",
+                "date": "2023-12-14T10:57:52"
+            },
+            {
+                "_id": "657a8f4c9cc82efe52dcb933",
+                "word": "great",
+                "translation": "দারুণ",
+                "pronunciation": "গ্রেইট",
+                "date": "2023-12-14T11:14:52"
+            },
+            {
+                "_id": "657a92ce9cc82efe52dcb96f",
+                "word": "gopher",
+                "translation": "খনন করা",
+                "pronunciation": "গৌফা‘র",
+                "date": "2023-12-14T11:29:50"
+            },
+            {
+                "_id": "657a92fd9cc82efe52dcb973",
+                "word": "grow",
+                "translation": "জন্মানো",
+                "pronunciation": "গ্রৌ",
+                "date": "2023-12-14T11:30:37"
+            },
+            {
+                "_id": "657a933e9cc82efe52dcb977",
+                "word": "growing",
+                "translation": "জন্মানো",
+                "pronunciation": "গ্রৌইং",
+                "date": "2023-12-14T11:31:42"
+            },
+            {
+                "_id": "657a937c9cc82efe52dcb97b",
+                "word": "growth",
+                "translation": "উন্নতি",
+                "pronunciation": "গ্রৌথ",
+                "date": "2023-12-14T11:32:44"
+            },
+            {
+                "_id": "657a93fe9cc82efe52dcb983",
+                "word": "go",
+                "translation": "যাওয়া",
+                "pronunciation": "গৌ",
+                "date": "2023-12-14T11:34:54"
+            },
+            {
+                "_id": "657ac659f4cae273ec861e6f",
+                "word": "ground",
+                "translation": "স্থল",
+                "pronunciation": "গ্রাউন্ড",
+                "date": "2023-12-14T15:09:45"
+            },
+            {
+                "_id": "657b2340d3b2ed44a934242c",
+                "word": "generous",
+                "translation": "উদার, মহানুভব",
+                "pronunciation": "জেনারাস",
+                "date": "2023-12-14T21:46:07"
+            },
+            {
+                "_id": "657b310beca83c9fb2645515",
+                "word": "going",
+                "translation": "যাওয়া",
+                "pronunciation": "গৌইং",
+                "date": "2023-12-14T22:44:57"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd1c",
+        "letter": "h",
+        "words": [
+            {
+                "_id": "6575f35131588246fbbd8cda",
+                "word": "help",
+                "translation": "সাহায্য করা",
+                "pronunciation": "হেলপ্",
+                "date": "2023-12-10T23:20:13"
+            },
+            {
+                "_id": "65784fd719f9f4923d24c421",
+                "word": "head",
+                "translation": "মাথা",
+                "pronunciation": "হেড",
+                "date": "2023-12-12T18:19:35"
+            },
+            {
+                "_id": "657853d719f9f4923d24c451",
+                "word": "healthy",
+                "translation": "স্বাস্থ্যকর",
+                "pronunciation": "হেলথি",
+                "date": "2023-12-12T18:36:38"
+            },
+            {
+                "_id": "65788af750650fa7341f9197",
+                "word": "hat",
+                "translation": "টুপি",
+                "pronunciation": "হ্যাট",
+                "date": "2023-12-12T22:31:50"
+            },
+            {
+                "_id": "65788cc650650fa7341f91a7",
+                "word": "had",
+                "translation": "ছিল",
+                "pronunciation": "হ্যাড",
+                "date": "2023-12-12T22:39:33"
+            },
+            {
+                "_id": "6578996f8093e3e99db2541a",
+                "word": "half",
+                "translation": "অর্ধেক",
+                "pronunciation": "হা:ফ",
+                "date": "2023-12-12T23:33:34"
+            },
+            {
+                "_id": "657899ad8093e3e99db2541e",
+                "word": "hard",
+                "translation": "কঠিন",
+                "pronunciation": "হা:ড",
+                "date": "2023-12-12T23:34:36"
+            },
+            {
+                "_id": "657899ea8093e3e99db25422",
+                "word": "harm",
+                "translation": "ক্ষতিকর",
+                "pronunciation": "হা:ম",
+                "date": "2023-12-12T23:35:37"
+            },
+            {
+                "_id": "657920224c921141e38770bb",
+                "word": "hit",
+                "translation": "আঘাত করা",
+                "pronunciation": "হিট",
+                "date": "2023-12-13T09:08:16"
+            },
+            {
+                "_id": "65793762f198d8f00b9caea8",
+                "word": "heart",
+                "translation": "হৃদয়",
+                "pronunciation": "হা:ট",
+                "date": "2023-12-13T10:47:25"
+            },
+            {
+                "_id": "65793c9679ccf2088c58597c",
+                "word": "hot",
+                "translation": "গরম",
+                "pronunciation": "হট",
+                "date": "2023-12-13T11:09:40"
+            },
+            {
+                "_id": "657a6fe4cd15e6f68c22d571",
+                "word": "hug",
+                "translation": "আলিঙ্গন করা",
+                "pronunciation": "হাগ্",
+                "date": "2023-12-14T09:00:51"
+            },
+            {
+                "_id": "657a7818b80654a821849153",
+                "word": "hunt",
+                "translation": "শিকার করা",
+                "pronunciation": "হান্ট",
+                "date": "2023-12-14T09:35:51"
+            },
+            {
+                "_id": "657a7852b80654a821849157",
+                "word": "hurry",
+                "translation": "তাড়াাড়ি",
+                "pronunciation": "হারি",
+                "date": "2023-12-14T09:36:50"
+            },
+            {
+                "_id": "657a84269cc82efe52dcb897",
+                "word": "hunter",
+                "translation": "শিকারী",
+                "pronunciation": "হান্টা‘র",
+                "date": "2023-12-14T10:27:18"
+            },
+            {
+                "_id": "657ac4ebf4cae273ec861e53",
+                "word": "height",
+                "translation": "উচ্চতা",
+                "pronunciation": "হাইট",
+                "date": "2023-12-14T15:03:39"
+            },
+            {
+                "_id": "657ac5a1f4cae273ec861e63",
+                "word": "hour",
+                "translation": "ঘন্টা",
+                "pronunciation": "আউআ‘র",
+                "date": "2023-12-14T15:06:40"
+            },
+            {
+                "_id": "657ac8ddf4cae273ec861e93",
+                "word": "how ",
+                "translation": "কিভাবে",
+                "pronunciation": "হাউ",
+                "date": "2023-12-14T15:20:28"
+            },
+            {
+                "_id": "657ac9fff4cae273ec861ea7",
+                "word": "howl",
+                "translation": "গর্জন",
+                "pronunciation": "হাউল",
+                "date": "2023-12-14T15:25:18"
+            },
+            {
+                "_id": "657aecf370ab41c6f45747e7",
+                "word": "here",
+                "translation": "এখানে",
+                "pronunciation": "হিআ‘র",
+                "date": "2023-12-14T17:54:26"
+            },
+            {
+                "_id": "657aeede70ab41c6f4574803",
+                "word": "hear",
+                "translation": "শোনা",
+                "pronunciation": "হিয়া‘র",
+                "date": "2023-12-14T18:02:38"
+            },
+            {
+                "_id": "657aef8870ab41c6f4574813",
+                "word": "hereby",
+                "translation": "এতদ্বারা",
+                "pronunciation": "হিয়াবাই",
+                "date": "2023-12-14T18:05:27"
+            },
+            {
+                "_id": "657aefc870ab41c6f4574817",
+                "word": "here-after",
+                "translation": "এখানে-পরে",
+                "pronunciation": "হিয়ার আ:ঠা‘র",
+                "date": "2023-12-14T18:06:31"
+            },
+            {
+                "_id": "657af2e670ab41c6f457482f",
+                "word": "hair",
+                "translation": "চুল",
+                "pronunciation": "হ্যাআ‘র",
+                "date": "2023-12-14T18:19:50"
+            },
+            {
+                "_id": "657af4e470ab41c6f457484b",
+                "word": "hare",
+                "translation": "খরগোশ",
+                "pronunciation": "হ্যাআ‘র",
+                "date": "2023-12-14T18:28:19"
+            },
+            {
+                "_id": "657b2df2eca83c9fb26454f5",
+                "word": "honest",
+                "translation": "সৎ",
+                "pronunciation": "অনিস্ট",
+                "date": "2023-12-14T22:31:44"
+            },
+            {
+                "_id": "657b329aeca83c9fb2645525",
+                "word": "handsome",
+                "translation": "সুদর্শন",
+                "pronunciation": "হ্যানসাম",
+                "date": "2023-12-14T22:51:36"
+            },
+            {
+                "_id": "657b32fdeca83c9fb264552d",
+                "word": "helmet",
+                "translation": "শিরস্ত্রাণ",
+                "pronunciation": "হেলমেট",
+                "date": "2023-12-14T22:53:16"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd1d",
+        "letter": "i",
+        "words": [
+            {
+                "_id": "657873c8622b9f498e4b58cb",
+                "word": "information",
+                "translation": "তথ্য",
+                "pronunciation": "ইনফামেইশন",
+                "date": "2023-12-12T20:52:55"
+            },
+            {
+                "_id": "65789a398093e3e99db25426",
+                "word": "impart",
+                "translation": "জানানো",
+                "pronunciation": "ইম‘ফা:ট",
+                "date": "2023-12-12T23:36:56"
+            },
+            {
+                "_id": "657af03070ab41c6f457481f",
+                "word": "idea",
+                "translation": "ধারণা",
+                "pronunciation": "আইডিয়া",
+                "date": "2023-12-14T18:08:15"
+            },
+            {
+                "_id": "657b32caeca83c9fb2645529",
+                "word": "inherit",
+                "translation": "উত্তরাধিকার",
+                "pronunciation": "ইন‘হেব্রিট",
+                "date": "2023-12-14T22:52:24"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd1e",
+        "letter": "j",
+        "words": [
+            {
+                "_id": "65784d1c19f9f4923d24c401",
+                "word": "journey",
+                "translation": "ভ্রমণ",
+                "pronunciation": "জা‘র্নি",
+                "date": "2023-12-12T18:07:55"
+            },
+            {
+                "_id": "657851c719f9f4923d24c43d",
+                "word": "jet",
+                "translation": "নকল ফোয়ারা",
+                "pronunciation": "জেট",
+                "date": "2023-12-12T18:27:50"
+            },
+            {
+                "_id": "6578542b19f9f4923d24c455",
+                "word": "jealous",
+                "translation": "ঈর্ষান্বিত",
+                "pronunciation": "জেলাস",
+                "date": "2023-12-12T18:38:03"
+            },
+            {
+                "_id": "65786fed622b9f498e4b58a3",
+                "word": "juice",
+                "translation": "রস, ঝোল",
+                "pronunciation": "জূস",
+                "date": "2023-12-12T20:36:28"
+            },
+            {
+                "_id": "657a6fa6cd15e6f68c22d56d",
+                "word": "junk",
+                "translation": "আবর্জনা",
+                "pronunciation": "জাঙ্ক  ",
+                "date": "2023-12-14T08:59:50"
+            },
+            {
+                "_id": "657adf54f3fdcafffc3858f5",
+                "word": "join",
+                "translation": "যোগদান করুন",
+                "pronunciation": "জোইন",
+                "date": "2023-12-14T16:56:19"
+            },
+            {
+                "_id": "657adfb5f3fdcafffc3858fd",
+                "word": "joy",
+                "translation": "আনন্দ",
+                "pronunciation": "জোই",
+                "date": "2023-12-14T16:57:56"
+            },
+            {
+                "_id": "657b22d8d3b2ed44a9342424",
+                "word": "just",
+                "translation": "অবশ্যই",
+                "pronunciation": "জাস্ট",
+                "date": "2023-12-14T21:44:23"
+            },
+            {
+                "_id": "657b2367d3b2ed44a9342430",
+                "word": "judge",
+                "translation": "বিচারক",
+                "pronunciation": "জাজ",
+                "date": "2023-12-14T21:46:45"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd1f",
+        "letter": "k",
+        "words": [
+            {
+                "_id": "657883f5015b13cbf60f0ae1",
+                "word": "key",
+                "translation": "চাবি",
+                "pronunciation": "খী",
+                "date": "2023-12-12T22:01:56"
+            },
+            {
+                "_id": "657ac413f4cae273ec861e43",
+                "word": "kite",
+                "translation": "ঘুড়ি",
+                "pronunciation": "খাইট",
+                "date": "2023-12-14T15:00:02"
+            },
+            {
+                "_id": "657b1d08d46128fc1edea266",
+                "word": "kind",
+                "translation": "দয়ালু",
+                "pronunciation": "খাইন্ড",
+                "date": "2023-12-14T21:19:35"
+            },
+            {
+                "_id": "657b1e89d46128fc1edea27e",
+                "word": "kick",
+                "translation": "লাথি মারা",
+                "pronunciation": "খিক",
+                "date": "2023-12-14T21:25:59"
+            },
+            {
+                "_id": "657b2f03eca83c9fb2645509",
+                "word": "knee",
+                "translation": "হাঁটু",
+                "pronunciation": "নী",
+                "date": "2023-12-14T22:36:17"
+            },
+            {
+                "_id": "657b2f55eca83c9fb264550d",
+                "word": "knew",
+                "translation": "জানতাম",
+                "pronunciation": "নিউ",
+                "date": "2023-12-14T22:37:40"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd20",
+        "letter": "l",
+        "words": [
+            {
+                "_id": "6575f13a69b18029eaa9b2bd",
+                "word": "listen",
+                "translation": "শোনা",
+                "pronunciation": "লিসে্ন্",
+                "date": "2023-12-10T23:11:18"
+            },
+            {
+                "_id": "65784b6f19f9f4923d24c3f5",
+                "word": "learn ",
+                "translation": "শেখা",
+                "pronunciation": "লা‘র্ন",
+                "date": "2023-12-12T18:00:43"
+            },
+            {
+                "_id": "65784d6519f9f4923d24c405",
+                "word": "lemon",
+                "translation": "লেবু",
+                "pronunciation": "লেমন্",
+                "date": "2023-12-12T18:09:08"
+            },
+            {
+                "_id": "65784da419f9f4923d24c409",
+                "word": "lend ",
+                "translation": "ধার দেওয়া",
+                "pronunciation": "লেন্ড",
+                "date": "2023-12-12T18:10:12"
+            },
+            {
+                "_id": "6578516e19f9f4923d24c439",
+                "word": "let",
+                "translation": "অনুমতি দেওয়া",
+                "pronunciation": "লেট",
+                "date": "2023-12-12T18:26:21"
+            },
+            {
+                "_id": "65789b198093e3e99db25432",
+                "word": "last",
+                "translation": "সর্বশেষ",
+                "pronunciation": "লা:স্ট",
+                "date": "2023-12-12T23:40:40"
+            },
+            {
+                "_id": "657921234c921141e38770c3",
+                "word": "lip",
+                "translation": "ঠোট",
+                "pronunciation": "লিপ",
+                "date": "2023-12-13T09:12:33"
+            },
+            {
+                "_id": "657937b4f198d8f00b9caeac",
+                "word": "lorry",
+                "translation": "মালবাহী ট্রাক",
+                "pronunciation": "লরি",
+                "date": "2023-12-13T10:48:50"
+            },
+            {
+                "_id": "65793a6a79ccf2088c585958",
+                "word": "lot",
+                "translation": "প্রচুর, অনেক",
+                "pronunciation": "লট",
+                "date": "2023-12-13T11:00:25"
+            },
+            {
+                "_id": "65793bb779ccf2088c58596c",
+                "word": "long",
+                "translation": "দীর্ঘ",
+                "pronunciation": "লং",
+                "date": "2023-12-13T11:05:58"
+            },
+            {
+                "_id": "657944430c4413d6d05a9fd2",
+                "word": "look",
+                "translation": "তাকানো",
+                "pronunciation": "লুক",
+                "date": "2023-12-13T11:42:23"
+            },
+            {
+                "_id": "657a8b9e9cc82efe52dcb903",
+                "word": "lame",
+                "translation": "খোঁড়া, পঙ্গু",
+                "pronunciation": "লেইম",
+                "date": "2023-12-14T10:59:10"
+            },
+            {
+                "_id": "657a8c219cc82efe52dcb90b",
+                "word": "laid",
+                "translation": "পাড়া",
+                "pronunciation": "লেইড",
+                "date": "2023-12-14T11:01:21"
+            },
+            {
+                "_id": "657a8e0f9cc82efe52dcb91f",
+                "word": "lane",
+                "translation": "ছোট গলি",
+                "pronunciation": "লেইন",
+                "date": "2023-12-14T11:09:35"
+            },
+            {
+                "_id": "657abf5df4cae273ec861e03",
+                "word": "lights",
+                "translation": "আলো",
+                "pronunciation": "লাইট্স",
+                "date": "2023-12-14T14:39:56"
+            },
+            {
+                "_id": "657ac176f4cae273ec861e23",
+                "word": "live",
+                "translation": "জীবন্ত, সরাসরি",
+                "pronunciation": "লাইভ",
+                "date": "2023-12-14T14:48:53"
+            },
+            {
+                "_id": "657ac1a9f4cae273ec861e27",
+                "word": "life",
+                "translation": "জীবন",
+                "pronunciation": "লাইফ",
+                "date": "2023-12-14T14:49:44"
+            },
+            {
+                "_id": "657ac1e9f4cae273ec861e2b",
+                "word": "lie",
+                "translation": "মিথ্যা",
+                "pronunciation": "লাই",
+                "date": "2023-12-14T14:50:48"
+            },
+            {
+                "_id": "657b05bbbd202232c94ea15d",
+                "word": "lure",
+                "translation": "লোভ",
+                "pronunciation": "লুআ‘র",
+                "date": "2023-12-14T19:40:09"
+            },
+            {
+                "_id": "657b1d30d46128fc1edea26a",
+                "word": "lucky",
+                "translation": "ভাগ্যবান",
+                "pronunciation": "লাকি",
+                "date": "2023-12-14T21:20:15"
+            },
+            {
+                "_id": "657b2392d3b2ed44a9342434",
+                "word": "limit",
+                "translation": "সীমানা",
+                "pronunciation": "লিমিট",
+                "date": "2023-12-14T21:47:29"
+            },
+            {
+                "_id": "657b2d79eca83c9fb26454ed",
+                "word": "lamb",
+                "translation": "মেষশাবক",
+                "pronunciation": "ল্যাম",
+                "date": "2023-12-14T22:29:44"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd21",
+        "letter": "m",
+        "words": [
+            {
+                "_id": "6575f3f531588246fbbd8cde",
+                "word": "make",
+                "translation": "তৈরি করা / সৃষ্টি ",
+                "pronunciation": "মেইক্",
+                "date": "2023-12-10T23:22:57"
+            },
+            {
+                "_id": "6578520419f9f4923d24c441",
+                "word": "met",
+                "translation": "মিলিত",
+                "pronunciation": "মেট",
+                "date": "2023-12-12T18:28:51"
+            },
+            {
+                "_id": "6578547a19f9f4923d24c459",
+                "word": "many",
+                "translation": "অনেক",
+                "pronunciation": "মেনি",
+                "date": "2023-12-12T18:39:21"
+            },
+            {
+                "_id": "657864ae0ad9fcd073551ad5",
+                "word": "moody",
+                "translation": "মেজাজ/ দেমাগি",
+                "pronunciation": "মূডি",
+                "date": "2023-12-12T19:48:29"
+            },
+            {
+                "_id": "657870aa622b9f498e4b58ab",
+                "word": "move",
+                "translation": "সরানো",
+                "pronunciation": "মূভ",
+                "date": "2023-12-12T20:39:37"
+            },
+            {
+                "_id": "657883b6015b13cbf60f0add",
+                "word": "magazine",
+                "translation": "সাময়িক পত্রিকা",
+                "pronunciation": "ম্যাগাজীন",
+                "date": "2023-12-12T22:00:53"
+            },
+            {
+                "_id": "657884ea015b13cbf60f0aed",
+                "word": "mango",
+                "translation": "আম",
+                "pronunciation": "ম্যাংগো",
+                "date": "2023-12-12T22:06:01"
+            },
+            {
+                "_id": "6578887f015b13cbf60f0b15",
+                "word": "mad",
+                "translation": "পাগল",
+                "pronunciation": "ম্যাড",
+                "date": "2023-12-12T22:21:18"
+            },
+            {
+                "_id": "65788b6250650fa7341f919b",
+                "word": "mat",
+                "translation": "মাদুর",
+                "pronunciation": "ম্যাট",
+                "date": "2023-12-12T22:33:37"
+            },
+            {
+                "_id": "65792248fc812760997a479a",
+                "word": "mid",
+                "translation": "মধ্যবর্তী",
+                "pronunciation": "মিড্",
+                "date": "2023-12-13T09:17:27"
+            },
+            {
+                "_id": "657932ad2e744385867c5946",
+                "word": "medium",
+                "translation": "মধ্যম",
+                "pronunciation": "মীডিয়াম",
+                "date": "2023-12-13T10:27:24"
+            },
+            {
+                "_id": "657944a80c4413d6d05a9fda",
+                "word": "moon",
+                "translation": "চাঁদ",
+                "pronunciation": "মূন",
+                "date": "2023-12-13T11:44:06"
+            },
+            {
+                "_id": "657a849c9cc82efe52dcb89f",
+                "word": "money",
+                "translation": "টাকা, অর্থ",
+                "pronunciation": "মানি",
+                "date": "2023-12-14T10:29:16"
+            },
+            {
+                "_id": "657a87359cc82efe52dcb8c7",
+                "word": "may",
+                "translation": "হতে পারে",
+                "pronunciation": "মেই",
+                "date": "2023-12-14T10:40:21"
+            },
+            {
+                "_id": "657a8af79cc82efe52dcb8f7",
+                "word": "mate",
+                "translation": "সঙ্গী",
+                "pronunciation": "মেইট",
+                "date": "2023-12-14T10:56:23"
+            },
+            {
+                "_id": "657ac3bff4cae273ec861e3f",
+                "word": "my",
+                "translation": "আমার",
+                "pronunciation": "মাই",
+                "date": "2023-12-14T14:58:38"
+            },
+            {
+                "_id": "657ac5dcf4cae273ec861e67",
+                "word": "mouth",
+                "translation": "মুখ",
+                "pronunciation": "মাউথ",
+                "date": "2023-12-14T15:07:39"
+            },
+            {
+                "_id": "657adf8df3fdcafffc3858f9",
+                "word": "moist",
+                "translation": "আর্দ্রতা",
+                "pronunciation": "মোইস্ট",
+                "date": "2023-12-14T16:57:16"
+            },
+            {
+                "_id": "657b0619bd202232c94ea165",
+                "word": "mature",
+                "translation": "পরিপক্ক",
+                "pronunciation": "মাঠুআ‘র",
+                "date": "2023-12-14T19:41:43"
+            },
+            {
+                "_id": "657b21b1d3b2ed44a9342414",
+                "word": "match",
+                "translation": "মিল করা",
+                "pronunciation": "ম্যাচ",
+                "date": "2023-12-14T21:39:28"
+            },
+            {
+                "_id": "657b2289d3b2ed44a9342420",
+                "word": "manager",
+                "translation": "ব্যবস্থাপক",
+                "pronunciation": "ম্যানিজা‘র",
+                "date": "2023-12-14T21:43:04"
+            },
+            {
+                "_id": "657b2735d3b2ed44a9342478",
+                "word": "motorway",
+                "translation": "মোটরওয়ে",
+                "pronunciation": "মোটরওয়ে",
+                "date": "2023-12-14T22:03:00"
+            },
+            {
+                "_id": "657b2c2eeca83c9fb26454d9",
+                "word": "mean",
+                "translation": "মানে",
+                "pronunciation": "মীন",
+                "date": "2023-12-14T22:24:09"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd22",
+        "letter": "n",
+        "words": [
+            {
+                "_id": "6577f66c5654dba1b7494582",
+                "word": "nursery ",
+                "translation": "শিশুশালা",
+                "pronunciation": "নাসারি",
+                "date": "2023-12-12T11:58:04"
+            },
+            {
+                "_id": "6578526219f9f4923d24c445",
+                "word": "net",
+                "translation": "জাল",
+                "pronunciation": "নেট",
+                "date": "2023-12-12T18:30:25"
+            },
+            {
+                "_id": "657860960ad9fcd073551aa1",
+                "word": "noon",
+                "translation": "দুপুর, বিকেল",
+                "pronunciation": "নূন",
+                "date": "2023-12-12T19:30:58"
+            },
+            {
+                "_id": "65787273622b9f498e4b58bf",
+                "word": "nervous",
+                "translation": "ভীত",
+                "pronunciation": "নাভাছ",
+                "date": "2023-12-12T20:47:14"
+            },
+            {
+                "_id": "65788442015b13cbf60f0ae5",
+                "word": "niece",
+                "translation": "ভাগ্নি, ভাইঝি",
+                "pronunciation": "নীস",
+                "date": "2023-12-12T22:03:12"
+            },
+            {
+                "_id": "65789a838093e3e99db2542a",
+                "word": "nasty",
+                "translation": "অশ্লীল",
+                "pronunciation": "না:সটি",
+                "date": "2023-12-12T23:38:10"
+            },
+            {
+                "_id": "6579205b4c921141e38770bf",
+                "word": "nit",
+                "translation": "তুচ্ছ ব্যাপার",
+                "pronunciation": "নিট",
+                "date": "2023-12-13T09:09:13"
+            },
+            {
+                "_id": "6579399cf198d8f00b9caec4",
+                "word": "nod",
+                "translation": "নড়াচড়া করা",
+                "pronunciation": "নড",
+                "date": "2023-12-13T10:56:58"
+            },
+            {
+                "_id": "65793abc79ccf2088c58595c",
+                "word": "not",
+                "translation": "না",
+                "pronunciation": "নট",
+                "date": "2023-12-13T11:01:46"
+            },
+            {
+                "_id": "657a84559cc82efe52dcb89b",
+                "word": "nut",
+                "translation": "বাদাম",
+                "pronunciation": "নাট",
+                "date": "2023-12-14T10:28:05"
+            },
+            {
+                "_id": "657a8bc79cc82efe52dcb907",
+                "word": "name",
+                "translation": "নাম",
+                "pronunciation": "নেইম",
+                "date": "2023-12-14T10:59:51"
+            },
+            {
+                "_id": "657a93d09cc82efe52dcb97f",
+                "word": "no",
+                "translation": "না",
+                "pronunciation": "নৌ",
+                "date": "2023-12-14T11:34:08"
+            },
+            {
+                "_id": "657ac548f4cae273ec861e5b",
+                "word": "night",
+                "translation": "রাত",
+                "pronunciation": "নাইট",
+                "date": "2023-12-14T15:05:12"
+            },
+            {
+                "_id": "657ac8a9f4cae273ec861e8f",
+                "word": "now",
+                "translation": "এখন",
+                "pronunciation": "নাউ",
+                "date": "2023-12-14T15:19:36"
+            },
+            {
+                "_id": "657adcb0f3fdcafffc3858c9",
+                "word": "noisy",
+                "translation": "সশব্দ",
+                "pronunciation": "নোইজি",
+                "date": "2023-12-14T16:45:03"
+            },
+            {
+                "_id": "657aedf670ab41c6f45747fb",
+                "word": "near",
+                "translation": "কাছাকাছি",
+                "pronunciation": "নিয়া‘র",
+                "date": "2023-12-14T17:58:45"
+            },
+            {
+                "_id": "657b2dcceca83c9fb26454f1",
+                "word": "neck",
+                "translation": "গলা",
+                "pronunciation": "নেক",
+                "date": "2023-12-14T22:31:07"
+            },
+            {
+                "_id": "657b2e2aeca83c9fb26454f9",
+                "word": "none",
+                "translation": "কেউ না",
+                "pronunciation": "নান",
+                "date": "2023-12-14T22:32:41"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd23",
+        "letter": "o",
+        "words": [
+            {
+                "_id": "6575ef959a597e9965321af3",
+                "word": "open",
+                "translation": "খোলা",
+                "pronunciation": "ওউফেন্",
+                "date": "2023-12-10T23:04:17"
+            },
+            {
+                "_id": "65787221622b9f498e4b58bb",
+                "word": "other",
+                "translation": "ও",
+                "pronunciation": "আদা(র)",
+                "date": "2023-12-12T20:45:52"
+            },
+            {
+                "_id": "65793906f198d8f00b9caebc",
+                "word": "off",
+                "translation": "বন্ধ",
+                "pronunciation": "অফ",
+                "date": "2023-12-13T10:54:28"
+            },
+            {
+                "_id": "6579395df198d8f00b9caec0",
+                "word": "on",
+                "translation": "ওপরে, চালু",
+                "pronunciation": "অন",
+                "date": "2023-12-13T10:55:56"
+            },
+            {
+                "_id": "657a946d9cc82efe52dcb98b",
+                "word": "obey",
+                "translation": "মান্য করা",
+                "pronunciation": "ওউ‘বেই",
+                "date": "2023-12-14T11:36:45"
+            },
+            {
+                "_id": "657a94aa9cc82efe52dcb98f",
+                "word": "over",
+                "translation": "ওপর",
+                "pronunciation": "ওউভা‘র",
+                "date": "2023-12-14T11:37:46"
+            },
+            {
+                "_id": "657a94e49cc82efe52dcb993",
+                "word": "ocean",
+                "translation": "মহাসাগর",
+                "pronunciation": "ওউশন্",
+                "date": "2023-12-14T11:38:44"
+            },
+            {
+                "_id": "657a95149cc82efe52dcb997",
+                "word": "ok",
+                "translation": "ঠিক আছে",
+                "pronunciation": "ওউখেই",
+                "date": "2023-12-14T11:39:32"
+            },
+            {
+                "_id": "657a955b9cc82efe52dcb99b",
+                "word": "owe",
+                "translation": "ঋণী থাকা",
+                "pronunciation": "ওউ",
+                "date": "2023-12-14T11:40:43"
+            },
+            {
+                "_id": "657ac7baf4cae273ec861e83",
+                "word": "outdoor",
+                "translation": "বাহির",
+                "pronunciation": "আউটডো‘র",
+                "date": "2023-12-14T15:15:38"
+            },
+            {
+                "_id": "657acab7f4cae273ec861eaf",
+                "word": "out",
+                "translation": "বাহির",
+                "pronunciation": "আউট",
+                "date": "2023-12-14T15:28:22"
+            },
+            {
+                "_id": "657acae9f4cae273ec861eb3",
+                "word": "outcome",
+                "translation": "ফলাফল",
+                "pronunciation": "আউটখাম",
+                "date": "2023-12-14T15:29:13"
+            },
+            {
+                "_id": "657acb11f4cae273ec861eb7",
+                "word": "outcry",
+                "translation": "চিৎকার",
+                "pronunciation": "আউটখ্রাই",
+                "date": "2023-12-14T15:29:52"
+            },
+            {
+                "_id": "657acb79f4cae273ec861ebb",
+                "word": "outcast",
+                "translation": "নির্বাসিত",
+                "pronunciation": "আউটখা:স্ট",
+                "date": "2023-12-14T15:31:36"
+            },
+            {
+                "_id": "657acba9f4cae273ec861ebf",
+                "word": "out-smart",
+                "translation": "আউট-স্মার্ট",
+                "pronunciation": "আউট-স্মার্ট",
+                "date": "2023-12-14T15:32:24"
+            },
+            {
+                "_id": "657acbd6f4cae273ec861ec3",
+                "word": "out-turn",
+                "translation": "উৎপাদন",
+                "pronunciation": "আউট-টার্ন",
+                "date": "2023-12-14T15:33:09"
+            },
+            {
+                "_id": "657acc0df4cae273ec861ec7",
+                "word": "outline",
+                "translation": "নির্দেশনা",
+                "pronunciation": "আউটলাইন",
+                "date": "2023-12-14T15:34:04"
+            },
+            {
+                "_id": "657b05eabd202232c94ea161",
+                "word": "obscure",
+                "translation": "অস্পষ্ট",
+                "pronunciation": "অব্সকিউআ‘র",
+                "date": "2023-12-14T19:40:56"
+            },
+            {
+                "_id": "657b2804d3b2ed44a9342484",
+                "word": "one",
+                "translation": "এক",
+                "pronunciation": "ওয়ান",
+                "date": "2023-12-14T22:06:27"
+            },
+            {
+                "_id": "657b282dd3b2ed44a9342488",
+                "word": "once",
+                "translation": "একদা",
+                "pronunciation": "ওয়ানস্",
+                "date": "2023-12-14T22:07:08"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd24",
+        "letter": "p",
+        "words": [
+            {
+                "_id": "6575ee929a597e9965321aeb",
+                "word": "play",
+                "translation": "খেলা",
+                "pronunciation": "ফ্লেই",
+                "date": "2023-12-10T22:59:58"
+            },
+            {
+                "_id": "6577f4f35654dba1b7494576",
+                "word": "prefer",
+                "translation": "পছন্দ",
+                "pronunciation": "প্রি‘ফা(র)",
+                "date": "2023-12-12T11:51:46"
+            },
+            {
+                "_id": "65784ed019f9f4923d24c415",
+                "word": "plenty",
+                "translation": "প্রচুর",
+                "pronunciation": "ফ্লেনটি",
+                "date": "2023-12-12T18:15:11"
+            },
+            {
+                "_id": "657850de19f9f4923d24c431",
+                "word": "pent",
+                "translation": "আবদ্ধ",
+                "pronunciation": "ফেন্ট",
+                "date": "2023-12-12T18:23:58"
+            },
+            {
+                "_id": "6578511c19f9f4923d24c435",
+                "word": "pet",
+                "translation": "পোষা প্রাণী",
+                "pronunciation": "ফেট",
+                "date": "2023-12-12T18:24:59"
+            },
+            {
+                "_id": "65788349015b13cbf60f0ad9",
+                "word": "people",
+                "translation": "জনতা",
+                "pronunciation": "ফীপল্",
+                "date": "2023-12-12T21:59:01"
+            },
+            {
+                "_id": "657892cf5c3aa55645abfe54",
+                "word": "pass",
+                "translation": "অতিক্রম করা",
+                "pronunciation": "ফা:স",
+                "date": "2023-12-12T23:05:18"
+            },
+            {
+                "_id": "65789d768093e3e99db2544a",
+                "word": "pitch",
+                "translation": "আলকাতরা",
+                "pronunciation": "ফিচ্",
+                "date": "2023-12-12T23:50:45"
+            },
+            {
+                "_id": "65792282fc812760997a479e",
+                "word": "pin",
+                "translation": "আলফিন",
+                "pronunciation": "ফিন",
+                "date": "2023-12-13T09:18:24"
+            },
+            {
+                "_id": "65792325fc812760997a47a6",
+                "word": "pretty",
+                "translation": "সুশ্রী",
+                "pronunciation": "ফ্রিটি",
+                "date": "2023-12-13T09:21:07"
+            },
+            {
+                "_id": "657924d3b1fa856c6679f93d",
+                "word": "physics",
+                "translation": "পদার্থবিদ্যা",
+                "pronunciation": "ফিজিক্স",
+                "date": "2023-12-13T09:28:18"
+            },
+            {
+                "_id": "65793854f198d8f00b9caeb4",
+                "word": "plot",
+                "translation": "জমি কন্ড",
+                "pronunciation": "ফ্লট",
+                "date": "2023-12-13T10:51:31"
+            },
+            {
+                "_id": "65793c2279ccf2088c585974",
+                "word": "pond",
+                "translation": "পুকুর",
+                "pronunciation": "ফন্ড",
+                "date": "2023-12-13T11:07:45"
+            },
+            {
+                "_id": "65793c22f198d8f00b9caed0",
+                "word": "pond",
+                "translation": "পুকুর",
+                "pronunciation": "ফন্ড",
+                "date": "2023-12-13T11:07:45"
+            },
+            {
+                "_id": "65793f8579ccf2088c5859a0",
+                "word": "prawns",
+                "translation": "চিংড়ি",
+                "pronunciation": "ফ্রোয়ানজ",
+                "date": "2023-12-13T11:22:12"
+            },
+            {
+                "_id": "657941bc79ccf2088c5859c4",
+                "word": "put",
+                "translation": "রাখা",
+                "pronunciation": "ফুট",
+                "date": "2023-12-13T11:31:39"
+            },
+            {
+                "_id": "657a6ed8cd15e6f68c22d565",
+                "word": "publick",
+                "translation": "সাধারণ জনতা",
+                "pronunciation": "ফাবলিক",
+                "date": "2023-12-14T08:56:20"
+            },
+            {
+                "_id": "657a87fb9cc82efe52dcb8d7",
+                "word": "pail",
+                "translation": "বালতি",
+                "pronunciation": "ফেইল",
+                "date": "2023-12-14T10:43:39"
+            },
+            {
+                "_id": "657a8c4b9cc82efe52dcb90f",
+                "word": "paid",
+                "translation": "পরিশোধিত",
+                "pronunciation": "ফেইড",
+                "date": "2023-12-14T11:02:03"
+            },
+            {
+                "_id": "657ac615f4cae273ec861e6b",
+                "word": "pround",
+                "translation": "গর্বিত",
+                "pronunciation": "ফ্রাউন্ড",
+                "date": "2023-12-14T15:08:36"
+            },
+            {
+                "_id": "657af59870ab41c6f457485b",
+                "word": "pear",
+                "translation": "নাশপাতি ফল",
+                "pronunciation": "ফ্যাআ‘র",
+                "date": "2023-12-14T18:31:19"
+            },
+            {
+                "_id": "657af73e70ab41c6f457486b",
+                "word": "plural",
+                "translation": "বহুবচন",
+                "pronunciation": "ফ্লূরাল",
+                "date": "2023-12-14T18:38:21"
+            },
+            {
+                "_id": "657af79670ab41c6f4574873",
+                "word": "poor",
+                "translation": "দরিদ্র",
+                "pronunciation": "ফো‘র",
+                "date": "2023-12-14T18:39:49"
+            },
+            {
+                "_id": "657af7da70ab41c6f4574877",
+                "word": "pure",
+                "translation": "বিশুদ্ধ, খাঁটি",
+                "pronunciation": "ফিউআ‘র",
+                "date": "2023-12-14T18:40:57"
+            },
+            {
+                "_id": "657b0659bd202232c94ea169",
+                "word": "procure",
+                "translation": "সংগ্রহ করা",
+                "pronunciation": "প্র‘খিউআ‘র",
+                "date": "2023-12-14T19:42:47"
+            },
+            {
+                "_id": "657b06a5bd202232c94ea16d",
+                "word": "pupil",
+                "translation": "শিষ্য",
+                "pronunciation": "ফিউপল্",
+                "date": "2023-12-14T19:44:04"
+            },
+            {
+                "_id": "657b07f9bd202232c94ea17d",
+                "word": "plate",
+                "translation": "ফলক",
+                "pronunciation": "ফ্লেইট",
+                "date": "2023-12-14T19:49:43"
+            },
+            {
+                "_id": "657b096fbd202232c94ea189",
+                "word": "probably",
+                "translation": "সম্ভবত",
+                "pronunciation": "ফ্রোবাবলী",
+                "date": "2023-12-14T19:55:57"
+            },
+            {
+                "_id": "657b21e7d3b2ed44a9342418",
+                "word": "picture",
+                "translation": "ছবি, চিত্র",
+                "pronunciation": "ফিক্চা‘র",
+                "date": "2023-12-14T21:40:21"
+            },
+            {
+                "_id": "657b2555d3b2ed44a9342454",
+                "word": "primary",
+                "translation": "প্রাথমিক",
+                "pronunciation": "ফ্রাইমারি",
+                "date": "2023-12-14T21:55:00"
+            },
+            {
+                "_id": "657b338eeca83c9fb2645539",
+                "word": "perhaps",
+                "translation": "সম্ভবত",
+                "pronunciation": "পা‘হ্যাপস",
+                "date": "2023-12-14T22:55:41"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd25",
+        "letter": "q",
+        "words": [
+            {
+                "_id": "657871d4622b9f498e4b58b7",
+                "word": "queue",
+                "translation": "সারি, লাইন",
+                "pronunciation": "খিউ",
+                "date": "2023-12-12T20:44:35"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd26",
+        "letter": "r",
+        "words": [
+            {
+                "_id": "6578500f19f9f4923d24c425",
+                "word": "red",
+                "translation": "লাল",
+                "pronunciation": "রেড",
+                "date": "2023-12-12T18:20:31"
+            },
+            {
+                "_id": "657861e60ad9fcd073551aad",
+                "word": "ruin",
+                "translation": "ধ্বংস করা",
+                "pronunciation": "রুইন",
+                "date": "2023-12-12T19:36:36"
+            },
+            {
+                "_id": "657862550ad9fcd073551ab5",
+                "word": "roof",
+                "translation": "ছাদ",
+                "pronunciation": "রুফ",
+                "date": "2023-12-12T19:38:28"
+            },
+            {
+                "_id": "657863260ad9fcd073551abd",
+                "word": "room",
+                "translation": "কক্ষ",
+                "pronunciation": "রুম",
+                "date": "2023-12-12T19:41:57"
+            },
+            {
+                "_id": "657865880ad9fcd073551add",
+                "word": "rude",
+                "translation": "অসভ্য",
+                "pronunciation": "রুড",
+                "date": "2023-12-12T19:52:07"
+            },
+            {
+                "_id": "657884a7015b13cbf60f0ae9",
+                "word": "receipt",
+                "translation": "রসিদ",
+                "pronunciation": "রিসিট",
+                "date": "2023-12-12T22:04:54"
+            },
+            {
+                "_id": "65788781015b13cbf60f0b09",
+                "word": "rat",
+                "translation": "ইঁদুর",
+                "pronunciation": "র\u200c্যাট",
+                "date": "2023-12-12T22:17:04"
+            },
+            {
+                "_id": "657931692e744385867c593e",
+                "word": "refund",
+                "translation": "ফেরত, প্রত্যর্পণ",
+                "pronunciation": "রীফান্ড",
+                "date": "2023-12-13T10:21:59"
+            },
+            {
+                "_id": "65793af679ccf2088c585960",
+                "word": "rod",
+                "translation": "ছড়ি, লাঠি",
+                "pronunciation": "রড",
+                "date": "2023-12-13T11:02:45"
+            },
+            {
+                "_id": "657a787eb80654a82184915b",
+                "word": "rush",
+                "translation": "ভিড়",
+                "pronunciation": "রাশ",
+                "date": "2023-12-14T09:37:33"
+            },
+            {
+                "_id": "657a83bb9cc82efe52dcb88f",
+                "word": "run",
+                "translation": "দৌড়ানো",
+                "pronunciation": "রান",
+                "date": "2023-12-14T10:25:31"
+            },
+            {
+                "_id": "657a90d69cc82efe52dcb94f",
+                "word": "roast",
+                "translation": "ভাজা",
+                "pronunciation": "রৌষ্ট",
+                "date": "2023-12-14T11:21:26"
+            },
+            {
+                "_id": "657abb00732aa0efa6eee5e3",
+                "word": "retire",
+                "translation": "অবসর নেওয়া",
+                "pronunciation": "রি‘ঠাইয়া‘র",
+                "date": "2023-12-14T14:21:19"
+            },
+            {
+                "_id": "657ac574f4cae273ec861e5f",
+                "word": "right",
+                "translation": "সঠিক",
+                "pronunciation": "রাইট",
+                "date": "2023-12-14T15:05:55"
+            },
+            {
+                "_id": "657af00070ab41c6f457481b",
+                "word": "really",
+                "translation": "প্রকৃতপক্ষে",
+                "pronunciation": "রিয়ালি",
+                "date": "2023-12-14T18:07:28"
+            },
+            {
+                "_id": "657b23c4d3b2ed44a9342438",
+                "word": "reliable",
+                "translation": "নির্ভরযোগ্য",
+                "pronunciation": "রিলাইয়াবল",
+                "date": "2023-12-14T21:48:19"
+            },
+            {
+                "_id": "657b2493d3b2ed44a9342448",
+                "word": "rebellious",
+                "translation": "বিদ্রোহী",
+                "pronunciation": "রি‘বেলিয়াস",
+                "date": "2023-12-14T21:51:46"
+            },
+            {
+                "_id": "657b24ddd3b2ed44a934244c",
+                "word": "result",
+                "translation": "ফলাফল",
+                "pronunciation": "রিজাল্ট",
+                "date": "2023-12-14T21:53:00"
+            },
+            {
+                "_id": "657b250cd3b2ed44a9342450",
+                "word": "referee",
+                "translation": "রেফারি",
+                "pronunciation": "রেফা‘রী",
+                "date": "2023-12-14T21:53:47"
+            },
+            {
+                "_id": "657b2c7deca83c9fb26454dd",
+                "word": "romantic",
+                "translation": "রোমান্টিক",
+                "pronunciation": "রোমান্টিক",
+                "date": "2023-12-14T22:25:32"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd27",
+        "letter": "s",
+        "words": [
+            {
+                "_id": "65784e7319f9f4923d24c411",
+                "word": "spend",
+                "translation": "ব্যয় করা",
+                "pronunciation": "স্পেন্ড",
+                "date": "2023-12-12T18:13:38"
+            },
+            {
+                "_id": "6578508e19f9f4923d24c42d",
+                "word": "set",
+                "translation": "স্থাপন করা",
+                "pronunciation": "সেট",
+                "date": "2023-12-12T18:22:37"
+            },
+            {
+                "_id": "657854c119f9f4923d24c45d",
+                "word": "said",
+                "translation": "বললেন",
+                "pronunciation": "সেড",
+                "date": "2023-12-12T18:40:32"
+            },
+            {
+                "_id": "6578621b0ad9fcd073551ab1",
+                "word": "soon",
+                "translation": "শীঘ্রই",
+                "pronunciation": "ছূন",
+                "date": "2023-12-12T19:37:30"
+            },
+            {
+                "_id": "6578640e0ad9fcd073551acd",
+                "word": "should",
+                "translation": "উচিত",
+                "pronunciation": "শূড",
+                "date": "2023-12-12T19:45:48"
+            },
+            {
+                "_id": "65786cae982add6f03b5c23d",
+                "word": "suitcase",
+                "translation": "স্যুটকেস",
+                "pronunciation": "ছুটখেইস",
+                "date": "2023-12-12T20:22:36"
+            },
+            {
+                "_id": "65787059622b9f498e4b58a7",
+                "word": "shoe",
+                "translation": "জুতা",
+                "pronunciation": "শূ",
+                "date": "2023-12-12T20:38:16"
+            },
+            {
+                "_id": "657870ea622b9f498e4b58af",
+                "word": "soup",
+                "translation": "স্যুপ",
+                "pronunciation": "ছূপ",
+                "date": "2023-12-12T20:40:42"
+            },
+            {
+                "_id": "65788839015b13cbf60f0b11",
+                "word": "sat",
+                "translation": "বসা",
+                "pronunciation": "স্যাট",
+                "date": "2023-12-12T22:20:08"
+            },
+            {
+                "_id": "65791d844c921141e38770af",
+                "word": "since",
+                "translation": "হতে, থেকে",
+                "pronunciation": "সিন্‘স",
+                "date": "2023-12-13T08:57:07"
+            },
+            {
+                "_id": "65791fd44c921141e38770b7",
+                "word": "sit",
+                "translation": "বসা",
+                "pronunciation": "সিট",
+                "date": "2023-12-13T09:06:58"
+            },
+            {
+                "_id": "65792f722e744385867c5926",
+                "word": "speed",
+                "translation": "গতি",
+                "pronunciation": "স্পীড",
+                "date": "2023-12-13T10:13:37"
+            },
+            {
+                "_id": "65793b4a79ccf2088c585964",
+                "word": "soft",
+                "translation": "কোমল, নরম",
+                "pronunciation": "সফ্‘ট",
+                "date": "2023-12-13T11:04:08"
+            },
+            {
+                "_id": "65793b7d79ccf2088c585968",
+                "word": "song",
+                "translation": "গান",
+                "pronunciation": "সং",
+                "date": "2023-12-13T11:04:59"
+            },
+            {
+                "_id": "65793bed79ccf2088c585970",
+                "word": "shock",
+                "translation": "ধাক্কা",
+                "pronunciation": "শক",
+                "date": "2023-12-13T11:06:52"
+            },
+            {
+                "_id": "65793c6479ccf2088c585978",
+                "word": "sop",
+                "translation": "সিক্ত হওয়া",
+                "pronunciation": "সপ",
+                "date": "2023-12-13T11:08:51"
+            },
+            {
+                "_id": "65793dc179ccf2088c585988",
+                "word": "sausage",
+                "translation": "সসেজ",
+                "pronunciation": "ছছিজ",
+                "date": "2023-12-13T11:14:40"
+            },
+            {
+                "_id": "65793e5c79ccf2088c585990",
+                "word": "score",
+                "translation": "হিসাব",
+                "pronunciation": "স্কোর",
+                "date": "2023-12-13T11:17:15"
+            },
+            {
+                "_id": "657a6f0acd15e6f68c22d569",
+                "word": "subject",
+                "translation": "বিষয়",
+                "pronunciation": "সাবজেক্ট",
+                "date": "2023-12-14T08:57:13"
+            },
+            {
+                "_id": "657a78aeb80654a82184915f",
+                "word": "sun",
+                "translation": "সূর্য",
+                "pronunciation": "সান",
+                "date": "2023-12-14T09:38:22"
+            },
+            {
+                "_id": "657a78e4b80654a821849163",
+                "word": "son",
+                "translation": "পুত্র, ছেলে",
+                "pronunciation": "সান",
+                "date": "2023-12-14T09:39:15"
+            },
+            {
+                "_id": "657a855c9cc82efe52dcb8a7",
+                "word": "someone",
+                "translation": "যে কেউ, কেউ",
+                "pronunciation": "সামওয়ান",
+                "date": "2023-12-14T10:32:28"
+            },
+            {
+                "_id": "657a86679cc82efe52dcb8b7",
+                "word": "save",
+                "translation": "রক্ষা করা",
+                "pronunciation": "ছেইভ্",
+                "date": "2023-12-14T10:36:55"
+            },
+            {
+                "_id": "657a87639cc82efe52dcb8cb",
+                "word": "say",
+                "translation": "বলা",
+                "pronunciation": "সেই",
+                "date": "2023-12-14T10:41:08"
+            },
+            {
+                "_id": "657a8b299cc82efe52dcb8fb",
+                "word": "same",
+                "translation": "একই রকম",
+                "pronunciation": "সেইম",
+                "date": "2023-12-14T10:57:13"
+            },
+            {
+                "_id": "657a8ef59cc82efe52dcb92f",
+                "word": "steak",
+                "translation": "মাছ/মাংসের ফালি",
+                "pronunciation": "স্টেইক",
+                "date": "2023-12-14T11:13:26"
+            },
+            {
+                "_id": "657a90309cc82efe52dcb943",
+                "word": "stone",
+                "translation": "পাথর",
+                "pronunciation": "স্টৌন",
+                "date": "2023-12-14T11:18:40"
+            },
+            {
+                "_id": "657a90949cc82efe52dcb94b",
+                "word": "slope",
+                "translation": "ঢাল",
+                "pronunciation": "স্লৌপ",
+                "date": "2023-12-14T11:20:20"
+            },
+            {
+                "_id": "657a91399cc82efe52dcb957",
+                "word": "slow",
+                "translation": "ধীর",
+                "pronunciation": "স্লৌ",
+                "date": "2023-12-14T11:23:05"
+            },
+            {
+                "_id": "657a96259cc82efe52dcb9a3",
+                "word": "shoulders",
+                "translation": "উভয় কাঁধ",
+                "pronunciation": "শৌলডাজ",
+                "date": "2023-12-14T11:44:05"
+            },
+            {
+                "_id": "657abb45732aa0efa6eee5e7",
+                "word": "shy",
+                "translation": "লাজুক",
+                "pronunciation": "শাই",
+                "date": "2023-12-14T14:22:28"
+            },
+            {
+                "_id": "657ac21bf4cae273ec861e2f",
+                "word": "sky",
+                "translation": "আকাশ",
+                "pronunciation": "স্কাই",
+                "date": "2023-12-14T14:51:38"
+            },
+            {
+                "_id": "657ac24af4cae273ec861e33",
+                "word": "spy",
+                "translation": "গুপ্তচর",
+                "pronunciation": "স্পাই",
+                "date": "2023-12-14T14:52:24"
+            },
+            {
+                "_id": "657ac447f4cae273ec861e47",
+                "word": "site",
+                "translation": "স্থান, জায়গা",
+                "pronunciation": "ছাইট",
+                "date": "2023-12-14T15:00:55"
+            },
+            {
+                "_id": "657ac51bf4cae273ec861e57",
+                "word": "sight",
+                "translation": "দৃশ্য",
+                "pronunciation": "সাইট",
+                "date": "2023-12-14T15:04:26"
+            },
+            {
+                "_id": "657adcdef3fdcafffc3858cd",
+                "word": "spoilt",
+                "translation": "নষ্ট",
+                "pronunciation": "স্পোইল্ট",
+                "date": "2023-12-14T16:45:48"
+            },
+            {
+                "_id": "657af07570ab41c6f4574823",
+                "word": "serious",
+                "translation": "মারান্তক/গুরুত্বপূণ",
+                "pronunciation": "ছিয়ারিয়াছ",
+                "date": "2023-12-14T18:09:25"
+            },
+            {
+                "_id": "657af32870ab41c6f4574833",
+                "word": "stare",
+                "translation": "স্থির দৃষ্টিতে তাকানো",
+                "pronunciation": "স্ট্যাআ‘র",
+                "date": "2023-12-14T18:20:55"
+            },
+            {
+                "_id": "657af6fd70ab41c6f4574867",
+                "word": "sure",
+                "translation": "নিশ্চিত",
+                "pronunciation": "শো/শূআ‘র",
+                "date": "2023-12-14T18:37:17"
+            },
+            {
+                "_id": "657af80670ab41c6f457487b",
+                "word": "secure",
+                "translation": "নিরাপদ",
+                "pronunciation": "সিখিউআ‘র",
+                "date": "2023-12-14T18:41:41"
+            },
+            {
+                "_id": "657b07afbd202232c94ea179",
+                "word": "shopping",
+                "translation": "কেনাকাটা",
+                "pronunciation": "শপিং",
+                "date": "2023-12-14T19:48:29"
+            },
+            {
+                "_id": "657b093dbd202232c94ea185",
+                "word": "stubborn",
+                "translation": "একগুঁয়ে",
+                "pronunciation": "স্টাবোন",
+                "date": "2023-12-14T19:55:07"
+            },
+            {
+                "_id": "657b1db1d46128fc1edea272",
+                "word": "school",
+                "translation": "বিদ্যালয়",
+                "pronunciation": "স্কুল",
+                "date": "2023-12-14T21:22:24"
+            },
+            {
+                "_id": "657b1decd46128fc1edea276",
+                "word": "stomach",
+                "translation": "পাকস্থলী",
+                "pronunciation": "স্টামাক",
+                "date": "2023-12-14T21:23:22"
+            },
+            {
+                "_id": "657b1eefd46128fc1edea282",
+                "word": "script",
+                "translation": "হস্তলিপি",
+                "pronunciation": "স্ক্রীপ্ট",
+                "date": "2023-12-14T21:27:41"
+            },
+            {
+                "_id": "657b240fd3b2ed44a934243c",
+                "word": "salary",
+                "translation": "বেতন",
+                "pronunciation": "স্যালারি",
+                "date": "2023-12-14T21:49:34"
+            },
+            {
+                "_id": "657b2439d3b2ed44a9342440",
+                "word": "sell",
+                "translation": "বিক্রয় করা",
+                "pronunciation": "সেল",
+                "date": "2023-12-14T21:50:16"
+            },
+            {
+                "_id": "657b2d26eca83c9fb26454e5",
+                "word": "summer",
+                "translation": "গ্রীষ্ম",
+                "pronunciation": "সামা‘র",
+                "date": "2023-12-14T22:28:21"
+            },
+            {
+                "_id": "657b2d51eca83c9fb26454e9",
+                "word": "swimming",
+                "translation": "সাঁতার",
+                "pronunciation": "সুইমিং",
+                "date": "2023-12-14T22:29:04"
+            },
+            {
+                "_id": "657b313deca83c9fb2645519",
+                "word": "spring",
+                "translation": "বসন্ত",
+                "pronunciation": "স্প্রিং",
+                "date": "2023-12-14T22:45:48"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd28",
+        "letter": "t",
+        "words": [
+            {
+                "_id": "6575ede69a597e9965321ae7",
+                "word": "take",
+                "translation": "নেওয়া",
+                "pronunciation": "ঠেইক্",
+                "date": "2023-12-10T22:57:06"
+            },
+            {
+                "_id": "6577f4795654dba1b7494572",
+                "word": "term",
+                "translation": "মেয়াদ",
+                "pronunciation": "ঠাম",
+                "date": "2023-12-12T11:49:44"
+            },
+            {
+                "_id": "6577f7055654dba1b7494586",
+                "word": "turn",
+                "translation": "ঘোরা, পালা, পরিবর্তন করা",
+                "pronunciation": "ঠান",
+                "date": "2023-12-12T12:00:36"
+            },
+            {
+                "_id": "65784e1819f9f4923d24c40d",
+                "word": "text",
+                "translation": "পাঠ্য",
+                "pronunciation": "ঠেক্‘ষ্ট",
+                "date": "2023-12-12T18:12:08"
+            },
+            {
+                "_id": "65787176622b9f498e4b58b3",
+                "word": "through",
+                "translation": "মাধ্যম",
+                "pronunciation": "থ্রু",
+                "date": "2023-12-12T20:43:01"
+            },
+            {
+                "_id": "65788521015b13cbf60f0af1",
+                "word": "tram",
+                "translation": "ট্রামগাড়ি",
+                "pronunciation": "ট্রাম",
+                "date": "2023-12-12T22:06:56"
+            },
+            {
+                "_id": "657885c1015b13cbf60f0af9",
+                "word": "tax",
+                "translation": "কর",
+                "pronunciation": "ট্যাক্স",
+                "date": "2023-12-12T22:09:36"
+            },
+            {
+                "_id": "65791d424c921141e38770ab",
+                "word": "ticket",
+                "translation": "টিকিট",
+                "pronunciation": "ঠিকিট",
+                "date": "2023-12-13T08:56:01"
+            },
+            {
+                "_id": "657922e3fc812760997a47a2",
+                "word": "tin",
+                "translation": "টিন",
+                "pronunciation": "ঠিন",
+                "date": "2023-12-13T09:20:01"
+            },
+            {
+                "_id": "6579305c2e744385867c5936",
+                "word": "team",
+                "translation": "দল",
+                "pronunciation": "ঠীম",
+                "date": "2023-12-13T10:17:30"
+            },
+            {
+                "_id": "6579408379ccf2088c5859b0",
+                "word": "thought",
+                "translation": "চিন্তা",
+                "pronunciation": "থ্রোট",
+                "date": "2023-12-13T11:26:26"
+            },
+            {
+                "_id": "657a85059cc82efe52dcb8a3",
+                "word": "tongue",
+                "translation": "জিহ্বা ",
+                "pronunciation": "ঠাং",
+                "date": "2023-12-14T10:31:01"
+            },
+            {
+                "_id": "657a85eb9cc82efe52dcb8af",
+                "word": "tough",
+                "translation": "কঠিন",
+                "pronunciation": "দৌ",
+                "date": "2023-12-14T10:34:51"
+            },
+            {
+                "_id": "657a87059cc82efe52dcb8c3",
+                "word": "train",
+                "translation": "রেলগাড়ি",
+                "pronunciation": "ঠ্রেইন",
+                "date": "2023-12-14T10:39:33"
+            },
+            {
+                "_id": "657a8fb49cc82efe52dcb93b",
+                "word": "they",
+                "translation": "তারা",
+                "pronunciation": "দেই",
+                "date": "2023-12-14T11:16:36"
+            },
+            {
+                "_id": "657ac099f4cae273ec861e17",
+                "word": "try",
+                "translation": "চেষ্টা করা",
+                "pronunciation": "ঠ্রাই",
+                "date": "2023-12-14T14:45:13"
+            },
+            {
+                "_id": "657ac691f4cae273ec861e73",
+                "word": "town",
+                "translation": "শহর",
+                "pronunciation": "ঠাউন",
+                "date": "2023-12-14T15:10:41"
+            },
+            {
+                "_id": "657adddbf3fdcafffc3858e1",
+                "word": "toy",
+                "translation": "খেলনা",
+                "pronunciation": "ঠোই",
+                "date": "2023-12-14T16:50:01"
+            },
+            {
+                "_id": "657aee2d70ab41c6f45747ff",
+                "word": "tear",
+                "translation": "ছিঁড়ে ফেলা",
+                "pronunciation": "ঠিআ‘র",
+                "date": "2023-12-14T17:59:40"
+            },
+            {
+                "_id": "657af50e70ab41c6f457484f",
+                "word": "their",
+                "translation": "তাদের",
+                "pronunciation": "দ্যাআ‘র",
+                "date": "2023-12-14T18:29:01"
+            },
+            {
+                "_id": "657af53b70ab41c6f4574853",
+                "word": "there",
+                "translation": "সেখানে",
+                "pronunciation": "দ্যাআ‘র",
+                "date": "2023-12-14T18:29:47"
+            },
+            {
+                "_id": "657af76d70ab41c6f457486f",
+                "word": "tour",
+                "translation": "সফর",
+                "pronunciation": "ঠুআ‘র",
+                "date": "2023-12-14T18:39:09"
+            },
+            {
+                "_id": "657b075bbd202232c94ea171",
+                "word": "transport",
+                "translation": "যানবাহন",
+                "pronunciation": "ঠ্র্যান্সপোট",
+                "date": "2023-12-14T19:47:05"
+            },
+            {
+                "_id": "657b0789bd202232c94ea175",
+                "word": "trip",
+                "translation": "ভ্রমণ",
+                "pronunciation": "ঠ্রিপ",
+                "date": "2023-12-14T19:47:51"
+            },
+            {
+                "_id": "657b1cc0d46128fc1edea262",
+                "word": "track",
+                "translation": "পখ",
+                "pronunciation": "ট্র্যাক",
+                "date": "2023-12-14T21:18:22"
+            },
+            {
+                "_id": "657b2e88eca83c9fb2645501",
+                "word": "tennis",
+                "translation": "টেনিস খেলা",
+                "pronunciation": "ঠেনিস্",
+                "date": "2023-12-14T22:34:15"
+            },
+            {
+                "_id": "657b2ec2eca83c9fb2645505",
+                "word": "thinner",
+                "translation": "পাতলা",
+                "pronunciation": "থিনা‘র",
+                "date": "2023-12-14T22:35:13"
+            },
+            {
+                "_id": "657b322eeca83c9fb2645521",
+                "word": "think",
+                "translation": "চিন্তা করা",
+                "pronunciation": "থিংক",
+                "date": "2023-12-14T22:49:49"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd29",
+        "letter": "u",
+        "words": [
+            {
+                "_id": "657a702fcd15e6f68c22d575",
+                "word": "ugly",
+                "translation": "কুৎসিত",
+                "pronunciation": "আগ্‘লি",
+                "date": "2023-12-14T09:02:06"
+            },
+            {
+                "_id": "657af28370ab41c6f4574827",
+                "word": "upstairs",
+                "translation": "ওপরতলা",
+                "pronunciation": "আপস্ট্যাআজ",
+                "date": "2023-12-14T18:18:11"
+            },
+            {
+                "_id": "657b2464d3b2ed44a9342444",
+                "word": "until",
+                "translation": "পর্যন্ত",
+                "pronunciation": "আনঠিল",
+                "date": "2023-12-14T21:50:59"
+            },
+            {
+                "_id": "657b2913d3b2ed44a9342494",
+                "word": "university",
+                "translation": "বিশ্ববিদ্যালয়",
+                "pronunciation": "ইউনিভাসিটি",
+                "date": "2023-12-14T22:10:58"
+            },
+            {
+                "_id": "657b332ceca83c9fb2645531",
+                "word": "unhappy",
+                "translation": "অসুখী",
+                "pronunciation": "আনহ্যাফি",
+                "date": "2023-12-14T22:54:02"
+            }
+        ]
+    }   {
+        "_id": "6570cc5eb8e4f41f5149cd2a",
+        "letter": "v",
+        "words": [
+            {
+                "_id": "6579246ab1fa856c6679f939",
+                "word": "village",
+                "translation": "গ্রাম",
+                "pronunciation": "ভিলেজ",
+                "date": "2023-12-13T09:26:32"
+            },
+            {
+                "_id": "657ae07bf3fdcafffc385909",
+                "word": "voice",
+                "translation": "কন্ঠস্বর",
+                "pronunciation": "ভোইছ",
+                "date": "2023-12-14T17:01:14"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd2a",
+        "letter": "v",
+        "words": [
+            {
+                "_id": "6579246ab1fa856c6679f939",
+                "word": "village",
+                "translation": "গ্রাম",
+                "pronunciation": "ভিলেজ",
+                "date": "2023-12-13T09:26:32"
+            },
+            {
+                "_id": "657ae07bf3fdcafffc385909",
+                "word": "voice",
+                "translation": "কন্ঠস্বর",
+                "pronunciation": "ভোইছ",
+                "date": "2023-12-14T17:01:14"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd2b",
+        "letter": "w",
+        "words": [
+            {
+                "_id": "6575f04569b18029eaa9b2b5",
+                "word": "work",
+                "translation": "কাজ করা",
+                "pronunciation": "ওয়াক",
+                "date": "2023-12-10T23:07:10"
+            },
+            {
+                "_id": "65784c5f19f9f4923d24c3f9",
+                "word": "world",
+                "translation": "বিশ্ব",
+                "pronunciation": "ওয়াল্ড",
+                "date": "2023-12-12T18:04:47"
+            },
+            {
+                "_id": "65784cb119f9f4923d24c3fd",
+                "word": "worse",
+                "translation": "অধিকতর খারাপ",
+                "pronunciation": "ওয়াস",
+                "date": "2023-12-12T18:06:08"
+            },
+            {
+                "_id": "6578643f0ad9fcd073551ad1",
+                "word": "would",
+                "translation": "হবে",
+                "pronunciation": "উড",
+                "date": "2023-12-12T19:46:38"
+            },
+            {
+                "_id": "6579237db1fa856c6679f92d",
+                "word": "women",
+                "translation": "নারী, মহিলা",
+                "pronunciation": "উইমিন",
+                "date": "2023-12-13T09:22:33"
+            },
+            {
+                "_id": "65793cd279ccf2088c585980",
+                "word": "watch",
+                "translation": "দেখা",
+                "pronunciation": "ওয়াজ",
+                "date": "2023-12-13T11:10:41"
+            },
+            {
+                "_id": "65793d5379ccf2088c585984",
+                "word": "want",
+                "translation": "চাওয়া",
+                "pronunciation": "ওয়ান্ট",
+                "date": "2023-12-13T11:12:50"
+            },
+            {
+                "_id": "65793f1379ccf2088c58599c",
+                "word": "wall",
+                "translation": "দেয়াল",
+                "pronunciation": "উয়োল",
+                "date": "2023-12-13T11:20:17"
+            },
+            {
+                "_id": "65793ff179ccf2088c5859a8",
+                "word": "warm",
+                "translation": "উষ্ণ",
+                "pronunciation": "ওয়োম",
+                "date": "2023-12-13T11:24:00"
+            },
+            {
+                "_id": "657a8f849cc82efe52dcb937",
+                "word": "weight",
+                "translation": "ওজন",
+                "pronunciation": "ওয়েইট",
+                "date": "2023-12-14T11:15:48"
+            },
+            {
+                "_id": "657aed4d70ab41c6f45747ef",
+                "word": "were",
+                "translation": "ছিল",
+                "pronunciation": "ওয়া‘র",
+                "date": "2023-12-14T17:55:56"
+            },
+            {
+                "_id": "657af56c70ab41c6f4574857",
+                "word": "wear",
+                "translation": "পরিধান করা",
+                "pronunciation": "ওয়্যা‘র",
+                "date": "2023-12-14T18:30:35"
+            },
+            {
+                "_id": "657b264dd3b2ed44a9342464",
+                "word": "written",
+                "translation": "লিখিত",
+                "pronunciation": "রিট্ন",
+                "date": "2023-12-14T21:59:07"
+            },
+            {
+                "_id": "657b2671d3b2ed44a9342468",
+                "word": "wrong",
+                "translation": "ভুল",
+                "pronunciation": "রং",
+                "date": "2023-12-14T21:59:44"
+            },
+            {
+                "_id": "657b26add3b2ed44a934246c",
+                "word": "war",
+                "translation": "যুদ্ধ",
+                "pronunciation": "ওয়ো",
+                "date": "2023-12-14T22:00:44"
+            },
+            {
+                "_id": "657b26d2d3b2ed44a9342470",
+                "word": "waste",
+                "translation": "বর্জ্য",
+                "pronunciation": "ওয়েইস্ট",
+                "date": "2023-12-14T22:01:21"
+            },
+            {
+                "_id": "657b270fd3b2ed44a9342474",
+                "word": "western",
+                "translation": "পশ্চিমা",
+                "pronunciation": "ওয়েস্টান",
+                "date": "2023-12-14T22:02:22"
+            },
+            {
+                "_id": "657b27a7d3b2ed44a934247c",
+                "word": "whistle",
+                "translation": "বাঁশি",
+                "pronunciation": "উইস্‘ল",
+                "date": "2023-12-14T22:04:54"
+            },
+            {
+                "_id": "657b27dad3b2ed44a9342480",
+                "word": "which",
+                "translation": "কোনটি",
+                "pronunciation": "উইচ",
+                "date": "2023-12-14T22:05:45"
+            },
+            {
+                "_id": "657b33eaeca83c9fb264553d",
+                "word": "who",
+                "translation": "কে",
+                "pronunciation": "হু",
+                "date": "2023-12-14T22:57:13"
+            },
+            {
+                "_id": "657b3418eca83c9fb2645541",
+                "word": "whose",
+                "translation": "কার",
+                "pronunciation": "হুজ",
+                "date": "2023-12-14T22:57:59"
+            },
+            {
+                "_id": "657b344ceca83c9fb2645545",
+                "word": "whole",
+                "translation": "সম্পূর্ণ",
+                "pronunciation": "হৌল",
+                "date": "2023-12-14T22:58:51"
+            },
+            {
+                "_id": "658073fd2b8a75d7c35660e6",
+                "word": "wag",
+                "translation": "কুঁড়ে লোক, ফক্কড় ওয়াগ",
+                "pronunciation": "ওয়্যাগ্",
+                "date": "2023-12-18T22:31:53"
+            },
+            {
+                "_id": "658074772b8a75d7c35660ea",
+                "word": "wage",
+                "translation": "বেতন, রত করান",
+                "pronunciation": "ওয়েইজ্",
+                "date": "2023-12-18T22:33:58"
+            },
+            {
+                "_id": "658075242b8a75d7c35660ee",
+                "word": "wagon",
+                "translation": "কামরা, ওয়াগন, মালবাহী গাড়ী",
+                "pronunciation": "ওয়্যাগন",
+                "date": "2023-12-18T22:36:51"
+            },
+            {
+                "_id": "658075f02b8a75d7c35660f2",
+                "word": "wait",
+                "translation": "অপেক্ষা করা, অপেক্ষা করুন, প্রতীক্ষা করা",
+                "pronunciation": "ওয়েইট্",
+                "date": "2023-12-18T22:40:15"
+            },
+            {
+                "_id": "658078fab132e7b4ab5fd8c9",
+                "word": "waive",
+                "translation": "পরিত্যাগ করা",
+                "pronunciation": "ওয়েইভ",
+                "date": "2023-12-18T22:53:13"
+            },
+            {
+                "_id": "65807ac5b132e7b4ab5fd8cd",
+                "word": "walk ",
+                "translation": "হাঁটা,  চলা",
+                "pronunciation": "ওয়াক",
+                "date": "2023-12-18T23:00:51"
+            },
+            {
+                "_id": "658274e52a451939b35012af",
+                "word": "wallet",
+                "translation": "মানি বেগ, মানিব্যাগ",
+                "pronunciation": "ওয়লিট",
+                "date": "2023-12-20T11:00:17"
+            },
+            {
+                "_id": "65827674ec05f7b107cf0612",
+                "word": "wander",
+                "translation": "উদ্দেশ্যহীনভাবে ভ্রমণ করা",
+                "pronunciation": "ওয়ন্ডার",
+                "date": "2023-12-20T11:06:56"
+            },
+            {
+                "_id": "658276eeec05f7b107cf0616",
+                "word": "wane",
+                "translation": "ক্রমশ হ্রাস পাওয়া, ক্ষয়",
+                "pronunciation": "ওএইন",
+                "date": "2023-12-20T11:09:01"
+            },
+            {
+                "_id": "658277b1ec05f7b107cf061a",
+                "word": "wanton",
+                "translation": "অসচ্চরিত্র, অচল, খয়ালিভাবে চলা",
+                "pronunciation": "ওয়ান্টন",
+                "date": "2023-12-20T11:12:16"
+            },
+            {
+                "_id": "6582789cec05f7b107cf061e",
+                "word": "warfare",
+                "translation": "যুদ্ধ, যুদ্ধকালীন অবস্থা",
+                "pronunciation": "ওঅফেআ‘র্",
+                "date": "2023-12-20T11:16:11"
+            },
+            {
+                "_id": "658278fbec05f7b107cf0622",
+                "word": "warlock",
+                "translation": "মায়াবী, যুদ্ধবাজ, জাদুকর",
+                "pronunciation": "ওএআরলক",
+                "date": "2023-12-20T11:17:46"
+            },
+            {
+                "_id": "65827995ec05f7b107cf0626",
+                "word": "warmth",
+                "translation": "উত্তাপ, উষ্ণতা",
+                "pronunciation": "ওয়ম্‘র্থ",
+                "date": "2023-12-20T11:20:20"
+            },
+            {
+                "_id": "658279fbec05f7b107cf062a",
+                "word": "warning",
+                "translation": "সতর্কতা, সাবধানবাণী",
+                "pronunciation": "ওয়র্নিং",
+                "date": "2023-12-20T11:22:02"
+            },
+            {
+                "_id": "65827a48ec05f7b107cf062e",
+                "word": "warp",
+                "translation": "টানা, খুলিয়া যাওয়া",
+                "pronunciation": "ওয়ার্প",
+                "date": "2023-12-20T11:23:20"
+            },
+            {
+                "_id": "65827ab1ec05f7b107cf0632",
+                "word": "warrant",
+                "translation": "গ্রেফতারী পরওয়ানা, সনদ",
+                "pronunciation": "ওঅরান্ট",
+                "date": "2023-12-20T11:25:04"
+            },
+            {
+                "_id": "65827b1bec05f7b107cf0636",
+                "word": "warren",
+                "translation": "ঘনবসতিপূর্ণ বস্তি, ওয়ারেন",
+                "pronunciation": "ওঅরান্",
+                "date": "2023-12-20T11:26:50"
+            },
+            {
+                "_id": "65827b5cec05f7b107cf063a",
+                "word": "wary",
+                "translation": "সতর্ক, সাবধান",
+                "pronunciation": "ওএআরি",
+                "date": "2023-12-20T11:27:55"
+            },
+            {
+                "_id": "65827be2ec05f7b107cf063e",
+                "word": "warn",
+                "translation": "সতর্ক করা, পূর্বাহ্নে জ্ঞাপন করা",
+                "pronunciation": "ওঅন্",
+                "date": "2023-12-20T11:30:09"
+            },
+            {
+                "_id": "65827d7485d6e6f0c932e22f",
+                "word": "wastage",
+                "translation": "অপচয়, ব্যবহার-জনিত ক্ষয়",
+                "pronunciation": "ওয়েস্টজ্",
+                "date": "2023-12-20T11:36:48"
+            },
+            {
+                "_id": "65827de885d6e6f0c932e233",
+                "word": "watchful",
+                "translation": "বিনিদ্র, সজাগ",
+                "pronunciation": "ওয়াচ্ফুল",
+                "date": "2023-12-20T11:38:47"
+            },
+            {
+                "_id": "65827e1985d6e6f0c932e237",
+                "word": "water",
+                "translation": "পানি, জল, সলিল",
+                "pronunciation": "ওয়টার্",
+                "date": "2023-12-20T11:39:37"
+            },
+            {
+                "_id": "65827efd85d6e6f0c932e23b",
+                "word": "waterlogged",
+                "translation": "জলাবদ্ধ, জলমগ্ন",
+                "pronunciation": "ওয়টারল্‘ড্",
+                "date": "2023-12-20T11:43:24"
+            },
+            {
+                "_id": "65827f4985d6e6f0c932e23f",
+                "word": "wave ",
+                "translation": "ঢেউ, তরঙ্গ",
+                "pronunciation": "ওএই্ভ্",
+                "date": "2023-12-20T11:44:41"
+            },
+            {
+                "_id": "65827f8d85d6e6f0c932e243",
+                "word": "way",
+                "translation": "উপায়, পথ",
+                "pronunciation": "ওএই, ওয়ে",
+                "date": "2023-12-20T11:45:48"
+            },
+            {
+                "_id": "65827ffa85d6e6f0c932e247",
+                "word": "wayward",
+                "translation": "অগ্রগামী, স্বেচ্ছাচারী",
+                "pronunciation": "ওএইওআড়",
+                "date": "2023-12-20T11:47:37"
+            },
+            {
+                "_id": "658280ab85d6e6f0c932e24b",
+                "word": "weak",
+                "translation": "দুর্বল, শক্তিহীন, কমজোর",
+                "pronunciation": "উঈক্",
+                "date": "2023-12-20T11:50:34"
+            },
+            {
+                "_id": "658280e285d6e6f0c932e24f",
+                "word": "weakness",
+                "translation": "দুর্বলতা",
+                "pronunciation": "উয়ীকনেস্",
+                "date": "2023-12-20T11:51:29"
+            },
+            {
+                "_id": "6582812685d6e6f0c932e253",
+                "word": "weal",
+                "translation": "ক্ষেম, ভাল করা, সুখ",
+                "pronunciation": "উঈল্",
+                "date": "2023-12-20T11:52:38"
+            },
+            {
+                "_id": "6582815e85d6e6f0c932e257",
+                "word": "wealth",
+                "translation": "ধন, সম্পদ",
+                "pronunciation": "ওয়েল্থ্",
+                "date": "2023-12-20T11:53:33"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd2c",
+        "letter": "x",
+        "words": [
+            {
+                "_id": "657fc7fd4ff70bedd579b5cb",
+                "word": "xanthippe ",
+                "translation": "মুখরা রমণী",
+                "pronunciation": "জ্যানটিপি",
+                "date": "2023-12-18T10:18:01"
+            },
+            {
+                "_id": "657fc8634ff70bedd579b5cf",
+                "word": "xebec",
+                "translation": "তিন মাস্তুলের ছোট জাহাজবিশেষ",
+                "pronunciation": "জীবেক্",
+                "date": "2023-12-18T10:19:46"
+            },
+            {
+                "_id": "657fc8b84ff70bedd579b5d3",
+                "word": "xenon",
+                "translation": "গ্যাসবিশেষ",
+                "pronunciation": "জেনন্",
+                "date": "2023-12-18T10:21:11"
+            },
+            {
+                "_id": "657fc9074ff70bedd579b5d7",
+                "word": "xerox",
+                "translation": "ফোটকপি",
+                "pronunciation": "জে‘রক্স",
+                "date": "2023-12-18T10:22:30"
+            },
+            {
+                "_id": "657fc9544ff70bedd579b5db",
+                "word": "xmas",
+                "translation": "বড়দিন",
+                "pronunciation": "ক্রিস্‘ম্যাস্",
+                "date": "2023-12-18T10:23:47"
+            },
+            {
+                "_id": "657fc9c54ff70bedd579b5df",
+                "word": "x-ray",
+                "translation": "রন্জনরশ্নি দ্বারা আলোকিত গ্রহণ করা",
+                "pronunciation": "এক্স-রে",
+                "date": "2023-12-18T10:25:41"
+            },
+            {
+                "_id": "657fca994ff70bedd579b5e3",
+                "word": "x-rays",
+                "translation": "এক্স্‘রশ্নি, রন্জনরশ্নি",
+                "pronunciation": "এক্স-রেজ্",
+                "date": "2023-12-18T10:29:13"
+            },
+            {
+                "_id": "657fcae14ff70bedd579b5e7",
+                "word": "xyleme",
+                "translation": "কিাষ্ঠতন্তু",
+                "pronunciation": "জাইলেম্",
+                "date": "2023-12-18T10:30:24"
+            },
+            {
+                "_id": "657fcb264ff70bedd579b5eb",
+                "word": "xylograph",
+                "translation": "কাঠে খোদাই করা বিদ্যা",
+                "pronunciation": "জাইলোগ্রাফ্",
+                "date": "2023-12-18T10:31:34"
+            },
+            {
+                "_id": "657fcb6e4ff70bedd579b5ef",
+                "word": "xylonite",
+                "translation": "জাইলোনাইট্",
+                "pronunciation": "জাইলোনাইট্",
+                "date": "2023-12-18T10:32:45"
+            },
+            {
+                "_id": "657fcbb64ff70bedd579b5f3",
+                "word": "xylophone",
+                "translation": "বাদ্যযন্ত্রবিশেষ",
+                "pronunciation": "জাইলোফোন্",
+                "date": "2023-12-18T10:33:57"
+            },
+            {
+                "_id": "657fdc796f8842f816e3f2b6",
+                "word": "xenophobia ",
+                "translation": "বিদেশীদের সম্বন্ধে অহেতুক ভয়",
+                "pronunciation": "জেনোফোবিয়া",
+                "date": "2023-12-18T11:45:26"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd2d",
+        "letter": "y",
+        "words": [
+            {
+                "_id": "657852ab19f9f4923d24c449",
+                "word": "yet",
+                "translation": "এখনো",
+                "pronunciation": "ইয়েট",
+                "date": "2023-12-12T18:31:38"
+            },
+            {
+                "_id": "657b289cd3b2ed44a934248c",
+                "word": "yourself",
+                "translation": "নিজেকে",
+                "pronunciation": "ইও‘সেলফ",
+                "date": "2023-12-14T22:08:58"
+            },
+            {
+                "_id": "657b28d3d3b2ed44a9342490",
+                "word": "year",
+                "translation": "বছর",
+                "pronunciation": "ইআ‘র",
+                "date": "2023-12-14T22:09:53"
+            },
+            {
+                "_id": "657b295cd3b2ed44a9342498",
+                "word": "yoghurt",
+                "translation": "দই",
+                "pronunciation": "ইঅগাট",
+                "date": "2023-12-14T22:12:11"
+            },
+            {
+                "_id": "657fdd136f8842f816e3f2ba",
+                "word": "yarn ",
+                "translation": "সুতা, তন্তু, গল্প",
+                "pronunciation": "ইয়া:ন্",
+                "date": "2023-12-18T11:48:02"
+            },
+            {
+                "_id": "657fddae6f8842f816e3f2be",
+                "word": "yawn",
+                "translation": "হাই তোলা, হ্যাঁ, বিজৃম্ভণ করা",
+                "pronunciation": "ইওন্, ইয়ন্",
+                "date": "2023-12-18T11:50:37"
+            },
+            {
+                "_id": "657fde726f8842f816e3f2c2",
+                "word": "yearning",
+                "translation": "আকুল আকাঙ্ক্ষা, লিপ্সা",
+                "pronunciation": "ইয়নিং",
+                "date": "2023-12-18T11:53:54"
+            },
+            {
+                "_id": "658069c1254e0ee56a872e87",
+                "word": "yell",
+                "translation": "চিৎকর, ভয়ে আর্তনাদ করা",
+                "pronunciation": "ইএল্, ইয়েল্",
+                "date": "2023-12-18T21:48:12"
+            },
+            {
+                "_id": "65806a2c254e0ee56a872e8b",
+                "word": "yesterday",
+                "translation": "গতকাল, আগের দিন",
+                "pronunciation": "ইয়স্টোরডে",
+                "date": "2023-12-18T21:50:03"
+            },
+            {
+                "_id": "65806ad0254e0ee56a872e8f",
+                "word": "yield",
+                "translation": "বশ্যতা স্বীকার করা, উৎপাদ",
+                "pronunciation": "ঈল্ড্",
+                "date": "2023-12-18T21:52:48"
+            },
+            {
+                "_id": "65806b31254e0ee56a872e93",
+                "word": "yielding",
+                "translation": "প্রদায়ক, ফলন",
+                "pronunciation": "ইল্ডিং",
+                "date": "2023-12-18T21:54:25"
+            },
+            {
+                "_id": "65806b96254e0ee56a872e97",
+                "word": "yoke",
+                "translation": "জোয়াল, যুগন্ধর",
+                "pronunciation": "ইওক্",
+                "date": "2023-12-18T21:56:05"
+            },
+            {
+                "_id": "65806bf4254e0ee56a872e9b",
+                "word": "yonder",
+                "translation": "অদূরে, ঐ, সুন্দর",
+                "pronunciation": "ইওনডা‘র্",
+                "date": "2023-12-18T21:57:39"
+            },
+            {
+                "_id": "65806cc8254e0ee56a872e9f",
+                "word": "youngster",
+                "translation": "বালক, যুবক",
+                "pronunciation": "ইয়াংস্টার",
+                "date": "2023-12-18T22:01:11"
+            },
+            {
+                "_id": "65806d20254e0ee56a872ea3",
+                "word": "you're",
+                "translation": "আপনি, আপনি আছেন, তুমি",
+                "pronunciation": "ইউআ‘র্",
+                "date": "2023-12-18T22:02:39"
+            },
+            {
+                "_id": "65806d9a254e0ee56a872ea7",
+                "word": "youthful",
+                "translation": "তরুণ, যুবক, প্রফুল্ল",
+                "pronunciation": "ইউথফুল্",
+                "date": "2023-12-18T22:04:42"
+            }
+        ]
+    },
+    {
+        "_id": "6570cc5eb8e4f41f5149cd2e",
+        "letter": "z",
+        "words": [
+            {
+                "_id": "6578635c0ad9fcd073551ac1",
+                "word": "zoo",
+                "translation": "চিরিয়াখানা",
+                "pronunciation": "জূ",
+                "date": "2023-12-12T19:42:51"
+            },
+            {
+                "_id": "657863890ad9fcd073551ac5",
+                "word": "zoom",
+                "translation": "জুম",
+                "pronunciation": "জুম",
+                "date": "2023-12-12T19:43:36"
+            },
+            {
+                "_id": "65806de2254e0ee56a872eab",
+                "word": "zeal",
+                "translation": "চাড়, গভীর অনুভূতি",
+                "pronunciation": "জীল্",
+                "date": "2023-12-18T22:05:53"
+            },
+            {
+                "_id": "65806e30254e0ee56a872eaf",
+                "word": "zealot",
+                "translation": "ধর্মান্ধ",
+                "pronunciation": "জীলট্",
+                "date": "2023-12-18T22:07:12"
+            },
+            {
+                "_id": "65806e79254e0ee56a872eb3",
+                "word": "zenith",
+                "translation": "সুবিন্দু",
+                "pronunciation": "জেনিথ্",
+                "date": "2023-12-18T22:08:24"
+            },
+            {
+                "_id": "65806ef5254e0ee56a872eb7",
+                "word": "zero",
+                "translation": "শূন্য, গোল্লা, নবডঙ্কা",
+                "pronunciation": "জিরো",
+                "date": "2023-12-18T22:10:28"
+            },
+            {
+                "_id": "65806f4a254e0ee56a872ebb",
+                "word": "zigzag",
+                "translation": "আঁকাবাঁকা",
+                "pronunciation": "জিগ্জ্যাগ্",
+                "date": "2023-12-18T22:11:53"
+            },
+            {
+                "_id": "65806f94254e0ee56a872ebf",
+                "word": "zombie",
+                "translation": "জীয়ন্ত লাশ",
+                "pronunciation": "জআমবি",
+                "date": "2023-12-18T22:13:07"
+            }
+        ]
+    }
+]
