@@ -22,34 +22,24 @@ const client = new MongoClient(uri, {
 });
 
 
-function DataCustomize(Letter, words, AllSentence) {
+function DataCustomize(category, Letter, words, AllSentence) {
     // console.log(Letter);
     let allData = [];
     Letter.map((l) => {
         switch (l.letter) {
-            case 'a':
+            case `${category}`:
                 let a = {
                     ...l,
                     words: [
-                        ...wordsFinds('a', words, AllSentence),
+                        ...wordsFinds(category, words, AllSentence),
                     ]
                 };
                 allData.push(...allData, a);
-
-            case 'b':
-                let b = {
-                    ...l,
-                    words: [
-                        ...wordsFinds('b', words, AllSentence),
-                    ]
-                };
-                allData.push(...allData, b);
-
-
+                return a
             default:
                 break;
         }
-        allData.push()
+        // allData.push()
     })
     return allData;
 }
@@ -60,7 +50,7 @@ const wordsFinds = (l, word, AllSentence) => {
     const WordData = word.map(item => ({
         ...item,
     }))
-    const FindWords = word.filter(item => {
+    const FindWords = WordData.filter(item => {
         return item['word'].toLowerCase().startsWith(l.toLowerCase())
     });
     const completedFind = FindWords.map(item => {
@@ -79,9 +69,7 @@ const wordsFinds = (l, word, AllSentence) => {
 const sentenceFind = (word, AllSentence) => {
     const regex = new RegExp(`\\b${word}\\b`, 'i');
     const sen = AllSentence.filter(item => regex.test(item.sentence.split(/[.!?]/)))
-    // let firstObject = sen[0];
-    // let secondObject = sen[1];
-    // let thirdObject = sen[2];
+
 
     return sen
 }
@@ -98,15 +86,16 @@ async function run() {
         const Sentence = Database.collection('sentence')
 
         app.get('/all-data', async (req, res) => {
+            const category = req.query.letter;
+            console.log(category);
             const query = {}
             const Letter = await Letters.find({}).toArray()
             const AllWords = await Words.find(query).toArray()
             const AllSentence = await Sentence.find(query).toArray()
             if (Letter && AllWords && AllSentence) {
-                const result = DataCustomize(Letter, AllWords, AllSentence);
+                const result = DataCustomize(category, Letter, AllWords, AllSentence);
                 res.send({ count: result[0].words.length, result })
             }
-            // res.send({ err: 'error' })
         })
 
 
