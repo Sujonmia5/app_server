@@ -67,9 +67,9 @@ const wordsFinds = (l, word, AllSentence) => {
 
         return {
             ...item,
-            sentences: {
+            sentences: [
                 ...sentenceFind(item.word, AllSentence),
-            }
+            ]
         }
     })
     return completedFind;
