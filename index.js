@@ -136,6 +136,15 @@ async function run() {
             res.send({ words: data, count: count })
         })
 
+        app.delete('/deleted-word', async (req, res) => {
+            const id = req.query.id;
+            const query = {
+                _id: new ObjectId(id)
+            }
+            const result = await Words.deleteOne(query)
+            res.send(result)
+        })
+
         // json format change 
         // app.post('/change-format', async (req, res) => {
         //     const query = {}
